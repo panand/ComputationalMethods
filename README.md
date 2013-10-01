@@ -11,3 +11,18 @@ This github repo has sections for:
 * logistical information (see the [144 syllabus](https://github.com/panand/ComputationalMethods/blob/master/logistics/syllabus144.pdf) and [244 syllabus](https://github.com/panand/ComputationalMethods/blob/master/logistics/syllabus244.pdf) here)
 * scripts
 * external resources
+
+Logistics
+---------
+
+Pranav Anand
+panand@ucsc.edu
+
+Oliver Northrup
+northrup@ucsc.edu
+
+Class: Cowell 134, MW 17.00-18.45
+Section: [Crown Mac Lab](http://its.ucsc.edu/computer-labs/descriptions/crown.html), T 12.00-13.10, 16.00-17.10
+
+Pranav's Office Hours: Stevenson 260, W 15.30-16.30
+Oliver's Office Hours: Stevenson 223, M 15.30-16.30

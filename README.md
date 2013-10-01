@@ -24,5 +24,5 @@ northrup@ucsc.edu
 Class: Cowell 134, MW 17.00-18.45
 Section: [Crown Mac Lab](http://its.ucsc.edu/computer-labs/descriptions/crown.html), T 12.00-13.10, 16.00-17.10
 
-Pranav's Office Hours: Stevenson 260, W 15.30-16.30
+Pranav's Office Hours: Stevenson 260, W 15.30-16.30  
 Oliver's Office Hours: Stevenson 223, M 15.30-16.30

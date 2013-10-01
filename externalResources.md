@@ -17,9 +17,16 @@ Basics of programming:
 
 Basics of python:
 
+* Books:
+	- http://proquest.safaribooksonline.com/9781449355722
+	- http://link.springer.com/book/10.1007/978-1-4302-1633-9/page/1
+	- http://proquest.safaribooksonline.com/9780596806682
+	
 * http://www.codecademy.com/tracks/python
 * http://software-carpentry.org/v4/python/index.html
 * http://interactivepython.org/courselib/static/thinkcspy/toc.html
+
+* https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-1-Introduction-to-Python-Programming.ipynb
 
 Python Integrated Development Environments:
 
@@ -42,7 +49,15 @@ Regular Expressions
 * http://regexpal.com/
 * http://gskinner.com/RegExr/
 * https://www.debuggex.com/
+* http://proquest.safaribooksonline.com/book/programming/regular-expressions/0596528124?bookview=overview
 
+Specialized
+------
+* Books
+	- Django: http://site.ebrary.com/lib/ucsc/docDetail.action?docID=10449803
+	- MongoDB: http://proquest.safaribooksonline.com/9781449312817
+	- NLTK: http://proquest.safaribooksonline.com/book/programming/python/9781849513609?bookview=overview http://proquest.safaribooksonline.com/book/programming/python/9780596803346
+	
 Using unittests and documentation:
 ---------------------------------
 * sphinx

@@ -18,7 +18,7 @@ Basics of programming:
 Basics of python:
 
 * Books:
-	- http://proquest.safaribooksonline.com/9781449355722
+	- http://proquest.safaribooksonline.com/9781449355722 (don't read this unless you know how to program)
 	- http://link.springer.com/book/10.1007/978-1-4302-1633-9/page/1
 	- http://proquest.safaribooksonline.com/9780596806682
 	

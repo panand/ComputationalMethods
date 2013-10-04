@@ -1,7 +1,7 @@
 How to download the homeworks
 -----------------------------
 
-Assuming you've already downloaded and installed [http://docs.continuum.io/anaconda/install.html](Anaconda), you need to download the notebooks on to your machine, in your Notebooks folder. 
+Assuming you've already downloaded and installed [Anaconda](http://docs.continuum.io/anaconda/install.html), you need to download the notebooks on to your machine, in your Notebooks folder. 
 
 The main question is how to download the homework files. Here's what you do:
 

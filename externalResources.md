@@ -49,6 +49,7 @@ Regular Expressions
 * http://regexpal.com/
 * http://gskinner.com/RegExr/
 * https://www.debuggex.com/
+* http://regex101.com/#python (hat tip to Chase Corcoran)
 * http://proquest.safaribooksonline.com/book/programming/regular-expressions/0596528124?bookview=overview
 
 Specialized

@@ -10,7 +10,8 @@ This github repo has sections for:
 * classNotes
 * logistical information (see the [144 syllabus](https://github.com/panand/ComputationalMethods/blob/master/logistics/syllabus144.pdf) and [244 syllabus](https://github.com/panand/ComputationalMethods/blob/master/logistics/syllabus244.pdf) here)
 * scripts
-* external resources
+* [external resources](https://github.com/panand/ComputationalMethods/blob/master/externalResources.md)
+* [need help setting things up?](https://github.com/panand/ComputationalMethods/blob/master/logistics/)
 
 Logistics
 ---------

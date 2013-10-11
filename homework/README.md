@@ -13,5 +13,5 @@ You can save that in your notebooks directory, fire up ipython notebook and away
 ###A list of homeworks:
 
 
-1. http://nbviewer.ipython.org/url/raw.github.com/panand/ComputationalMethods/master/homework/HW1/Homework%201.ipynb
-2. http://nbviewer.ipython.org/url/raw.github.com/panand/ComputationalMethods/master/homework/HW2/Homework%202.ipynb
+1. [HW1](http://nbviewer.ipython.org/url/raw.github.com/panand/ComputationalMethods/master/homework/HW1/Homework%201.ipynb)
+2. [HW2](http://nbviewer.ipython.org/url/raw.github.com/panand/ComputationalMethods/master/homework/HW2/Homework%202.ipynb)

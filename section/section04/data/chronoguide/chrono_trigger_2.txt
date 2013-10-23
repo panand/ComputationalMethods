@@ -1,0 +1,1160 @@
+MELCHIOR'S HUT (1000 AD)
+------------------------
+
+Melchior will be shocked to see you holding the Masamune and a Dream stone. 
+After giving these to him, he will make the sword. Lucca will also help 
+Melchior. After the Masamune is done, it will be given to you. Then, head back 
+to the residence and use the Gate. At the End of time, use pillar #3 to truce 
+Canyon 600 AD. When you arrive at Truce Canyon, exit to the World Map and go 
+directly to the Cursed Woods.
+
+CURSED WOODS (600 AD)
+---------------------
+
+Here, go to Frog's place. After giving him the Masamune, there will be some 
+Flashbacks about Cyrus. You'll see what happened to Cyrus way back with Glenn. 
+They will also give you a clue about the true identity of Frog. But you 
+probably know it right now :) Anyway, the next morning, Frog will wake your 
+party up. You'll then decide to go straight to Magus' Castle. Now return to 
+the world map and head directly to the mountain, east of Fiona's Villa. Enter 
+the Magic Cave.
+
+You can go back to Truce Canyon before going to the Magic Cave and use the 
+Time Gate. Beat Lavos using the Bucket and you'll receive ending #8.
+
+MAGIC CAVE (600 AD)
+-------------------
+
+Here, you'll see another flashback about Cyrus and Frog, errÖ Glenn. You'll 
+see the actual incident that made Glenn into Frog. After the flashback, Frog 
+will use the Masamune to open a path to the Magic Cave. You'll be 
+automatically brought inside the Magic Cave. You'll see a small bat following 
+you. Don't worry about it.. for now. Here, just move on until you fight 5 
+Gremlins. To kill these Gremlins, which are nearly impervious to physical 
+attacks, use Level 2 Magic attacks to kill them instantly. Remember also that 
+they are absolutely fast. After killing them, a second batch will appear. Now, 
+head up the ladder you see. Examine the dead soldier. A note will give clues 
+on the ability of the Juggler in Magus' Castle. Exit north. You'll now be in a 
+different place in the World Map. Use a shelter to prepare you for the battles 
+to come. Save, then enter Magus' Lair.
+
+MAGUS' LAIR (600 AD)
+--------------------
+Item/s:
+   4 Mid Ethers   2 Mist Robes   Magic Scarf
+   2 Shelters     Dark Mail
+   Slasher        Doom Finger
+   2 Barriers     Speed Belt   
+   2 Magic Tabs   Revive
+
+Once inside the actual castle itself, you'll see 2 paths to take. One to the 
+left and one to the right. Take the left one first. Note that you can already 
+take the chest here without worrying about the enemies around. So, on the way, 
+get the Mid-Ether, then at the end, get another Mid-Ether and a shelter. Don't 
+forget to talk to EVERYONE here. Now, return back to the intersection and take 
+the right path. You'll see 4 kids surrounding the chest. Just like in the 
+other path talk to EVERYONE again. You can't get the chest yet so move on. On 
+the way, you'll get another mid-ether. After talking to everyone, return to 
+the intersection. You'll notice that a Save Point suddenly appeared. Examine 
+it and Ozzie will appear. He then informs you about Slash, the swordsman, and 
+Flea, the Magician. And he'll also tell you that you have to beat all 100 
+monsters in the castle (you really don't have to fight all 100 monsters. You 
+can just walk/run away from them). The first batch contains of 2 Vamps and 4 
+Henches. By the way, these Henches are much more stronger that the Henches you 
+fought at the Cathedral. After beating the first batch, you have 2 choices. 
+The left path leads to Slash and the right ones will lead to Flea. For this 
+walkthrough, let's head for Slash first so go left.
+
+As Ozzie have told you, you have to defeat ALL 100 monsters so exterminate any 
+enemies that you see. The first batch in the left path consists of an 
+Omnicrone and 4 Decedents. (monster count = 11) I'm adding this monster count 
+so that we can count how many monsters you have terminated so far and will 
+also serve as a guide to the completion of 100 monsters. Let's continue. After 
+beating this batch, head north and fight another batch consisting of the same 
+monsters as before. (monster count = 16). After beating them, head north. Talk 
+to the woman in the middle and it will initiate a fight with 5 Decedents 
+(monster count = 21). After beating them, you'll face:
+
+Boss:  SLASH
+#############################################################################
+First Part HP:  3000
+Second Part HP: 5000
+Exp:  500
+TP:   10
+G:    1500
+Item: Slasher
+Charmed Item: not possible
+
+He has two parts you have to deal with. His first form is not that hard. Your 
+attacks will deal a decent amount of damage whether if it is a physical or a 
+magical attack. After dealing about 3000 HP of damage to him, he'll get his 
+sword. This is the second part of the fight. With the sword, his physical 
+defense will greatly rise almost making him invulnerable to physical attacks. 
+So, use magic! But beware, he has an attack called 'Yes Indeed!î which slashes 
+one of your party members dealing a huge amount of damage. To beat him, use 
+the 2 most powerful magic users in your party and have the other one heal. Be 
+patient ;)
+#############################################################################
+
+After beating him, get his sword, the Slasher, and use the Save Point that 
+appears. Now, head back to the intersection (you don't have to fight those 
+monsters on your way back, they are not counted) and take the right path. If 
+you can evade the enemies, go on.
+
+In this path, talk to kids around the chest. Tell them that you want the 
+treasure. They will transform into 4 shadows. (monster count = 25). After 
+beating them, you can get the chest for a Barrier. Next, you'll find Taban 
+(the person you'll see here depends who your third character is: if you have 
+Marle, you'll fight the King, if you have Robo, you'll fight Lucca) and it 
+will attack your party. It consists of 2 Henches (purple), 2 Vamps and a 
+sorcerer. The sorcerer drains any magical attack you use so stick to physical 
+attacks. (monster count = 30). Head north and you'll meet Leene. It will turn 
+into a batch of monsters again which consists of the same monsters as the 
+previous one. (monster count = 35). Head north again and meet Crono's Mom. 
+Talk to her and she'll turn into another batch of monsters that consists of 
+the same monsters as the previous batch. (monster count = 40). After beating 
+the monsters, continue north. In here, you'll meet up with Flea? Hmm.. 
+something fishy going on around here.
+
+Boss:  FLEA?
+#############################################################################
+HP, EXP, TP, G:  0
+
+This flea is almost pathetic, in the sense that, he is so weak. But when you 
+defeat it, it will cast MP buster on the one who killed it therefore reducing 
+that party member's MP to 0. Now meat the real Flea! The one flying around you 
+all the time.
+#############################################################################
+
+Boss:  FLEA
+#############################################################################
+HP:   3500
+EXP:  500
+TP:   10
+G:    1000
+Charmed Item: not possible
+
+This is the real flea and don't under estimate him, I mean her, whatever. As 
+you know he/she is a magician, magic attacks are inefficient, so stick to 
+Crono and Frog's Techs. She'll also confuse your party members so use the item 
+Heal to cure it. Have your other character heal.
+#############################################################################
+
+After beating flea, she'll leave behind a shining Magic Tab. Now, return to 
+the intersection and you'll notice that another save point appeared. Touch it 
+and you'll be transported to another part of the castle. In here, you'll a 
+barrage of enemies. The first batch consists of 2 purple Henches. (Monster 
+count = 42). The next batch consists of 2 Purple Henches and 2 Grimalkins. 
+(monster count = 46). The Third batch consists of 2 Purple Henches and 2 
+Sorcerers. (monster count = 50). The fourth batch consists of 2 Purple 
+Henches, 2 Grimalkins and 2 Sorcerers. (monster count = 56). Then, you'll see 
+Ozzie. Get the chest first for a Mist Robe. Then, talk to Ozzie. He'll call 
+Slash and flea but realized that you already dumped them. He'll then escape. 
+Follow him. In this room, you'll see falling blades. Time it so that you run 
+or walk past them right after they are lifted from the ground. After passing 
+through 2 blades, get the chest for a Dark Mail. Move on. When you reach 
+Ozzie, he will escape again. Get the chest for a Doom finger. Now head north. 
+You'll see a couple of monsters here. Beat them all. The first batch of 
+enemies consists of 3 vamps, a Roly, and a juggler. The next one, with a Roly 
+and a Juggler. (monster count = 63). In the next room, you'll see Ozzie but 
+beware! The ground here has so many holes. When you fall on one of them, 
+you'll reach a large room. You'll have to fight all 6 of the decedents here. 
+There are also chests here that contain a Barrier, Shelter, Mid-Ether, and a 
+Lapis. There is also a Magic Tab in the Lower Right corner of the room. Now, 
+for the Save Points. 2 of these save points will actually attack you! I think 
+it's the only game that you are able to fight Save Points. They only have 10 
+HP so it's a piece of cake. The other one of the Save point will be a real 
+one. And the last one will transport you back to the room with holes. If you 
+fall down for the second time onwards, you don't have to fight the decedents 
+anymore. But the Save Points will be randomly arranged so it's up to your luck 
+to find out which is the real save point and the Teleporter. Be reminded that 
+right in front of Ozzie is one of the holes. After you reach Ozzie, he'll run 
+away again. Head north. In this area, you'll fight roly Bombers, Outlaws and 
+the Jugglers. If you attack the Jugglers, its Physical defense will be 
+activated, you should then use magic. After that, its magical defense will be 
+activated and you can use physical attacks and vice versa. There are 7 
+monsters here. (monster count = 70). Head north. You'll be fighting 2 batches 
+of monsters here. The first batch consists of 2 Groupies and 2 Outlaws. Next, 
+2 Outlaws and 2 Jugglers. Finally, 4 Jugglers. (monster count = 82). Ozzie 
+will escape again, but get the chest first for a Speed Belt. Follow Ozzie. In 
+here, you'll fight another barrage of monsters. The first batch has 2 Outlaws. 
+The second one has a Juggler and 2 Outlaws. The next one has a Juggler, 2 
+Outlaws and 2 Flunkys. (monster count = 92). Move on and get the chest for a 
+Revive. In the next screen, you'll see Ozzie. Take the chests first for a Mist 
+Robe and a Magic Scarf to be sure. During your fight with him, his protection 
+cannot be pierced so attack the chains one by one and he'll eventually fall to 
+his doom. After that 2 save points will appear. The one to the right is a real 
+save point, and the one to the left will transport you to Magus' Place. On the 
+stairs, you'll fight 6 Vamps. Beat them and go through the door below. 
+(monster count=98!). Where did the 2 go? They are Slash and Flea! Making it 
+100 all in all! Ozzie was right! Anyway, Magus' room will be dark. Just move 
+forward and the blue flames will light up and you'll reach Magus at the end.
+
+Boss:  MAGUS
+#############################################################################
+HP:   6500
+EXP:  1500
+TP:   15
+G:    3000
+Charmed Item: not possible
+
+Magus is really hard. Every time you attack him, his Magic Barrier will 
+change. Example, you have Crono, Frog and Lucca in your party and his barrier 
+is Lightning. All you have to do is to use any Lightning Magic and it will 
+deal a good amount of damage to Magus. His barrier will then change. Just use 
+the element of his barrier against him. If he uses a barrier wherein you're 
+party members doesn't have, just use physical attack to force him to change 
+his barrier. After you've dealt a certain amount of damage, he will start 
+risking to cast a spell. It's now time to KILL him with any attack you wish. 
+You'll beat him in a short while.
+
+Special Note by David Condamines (david81@moncourrier.com):
+When you attack Magus with the Masamune of Frog, his defense power will 
+decrease!
+#############################################################################
+
+After beating Magus, a large Gate will appear. After getting sucked by it, 
+you'll end up in Crono's House with Marle. You'll see a Dream of Crono inside 
+his house with Marle as his wife. This happened maybe because of Crono's true 
+feeling about Marle, and that is love. But, Crono and the party was actually 
+sent to the Mystic Mountains and was rescued by Ayla and taken to Ayla's Hut 
+in 65,000,000 BC. The next morning, Kino will come in. Then suddenly, one of 
+the villagers will come and tell Kino that the North Woods is burning. So head 
+out to the World Map. 
+
+From here you can go to the Time Gate at Mystic Mountains and fight Lavos 
+using the Bucket at the End of Time. You'll get ending #9 for doing this. If 
+not, move on.
+
+Save and Restore your HP/MP if necessary and head north to Laruba Ruins. It is 
+the ruins surrounded by trees and is directly west of the Hunting Range. 
+You'll see Ayla and an Elder there. Ayla asked permission to use the Dactyls 
+so head out to the world map again after regaining control of your characters 
+and head further north to the Dactyl's Nest. But before you go there, visit 
+the Ioka Trading Hut if you have enough trading items. They have new 
+equipments now.
+
+IOKA TRADING HUT (65,000,000 BC)
+--------------------------------
+
+There are new equipments that can be traded here for the Petals, Fangs, Horns 
+and Feathers:
+
+Item/Equipment   Requirements
+Dream Gun        = 3 Petals and 3 Fangs
+Dream Bow        = 3 Petals and 3 Horns
+Magma Hand       = 3 Petals and 3 Feathers
+Aeon Blade       = 3 Fangs and 3 Horns
+Ruby Vest        = 3 Fangs and 3 Feathers
+Rock Helm        = 3 Horns and 3 Feathers
+
+After trading, head to the Dactyl's Nest.
+
+DACTYL'S NEST (65,000,000 BC)
+-----------------------------
+Item/s:
+   Mid Ether
+   Mid Tonic
+   Meso Mail
+
+Inside, just continue heading north until you see a ladder made of wood. Get 
+the chest you see for a Mid-Ether. Move on and on the way you'll find another 
+chest containing a Mid-tonic. Continue and climb another set of wooden ladder 
+and turn right to the next screen. In here, move along and climb all wooden 
+ladders. Get the chest on the way for a Meso Mail. When you reach the top of 
+Dactyl's Nest, you'll see Ayla. Go talk to her. You'll voluntarily help her at 
+Tyrano Lair then after that, she'll call in 2 more Dactyl's for you. Select 
+the character you wish to join you and Ayla. You'll now be able to fly in the 
+world Map using the Dactyl's. The controls are simple. Push Right, Left, Down, 
+Up on the Direction-pad and you will move Right, Left, Down, Up respectively. 
+To land, just push the A button on a clear surface. You'll can't land on trees 
+and mountains, the same goes for bodies of water too. To ride it, just walk 
+towards it then push the A button. Let's continue. Land first and restore your 
+HP/MP and then save. To get to the Tyrano Lair, go to Ioka village and head 
+directly to the east. You'll see a structure on top of a small mountain. Land 
+on the clearing on top of the mountain and enter the Tyrano Lair.
+
+TYRANO LAIR (65,000,000 BC)
+---------------------------
+Item/s:
+   Mid Ether    2 Full Ethers
+   Full Tonic   Cerra Topper
+   Tonic
+   Revive
+   Meso Mail
+
+Inside, move forward and you'll see 2 skulls. The one to the right is open so 
+go there first. Head down the ladder to the next screen. In here, beat the 
+Purple reptites then push the switch to the right of the door to free Ayla's 
+Villagers. Head to the right and go down the ladder. Beat the reptites and 
+you'll see Kino inside the Cell. The switch is not working so talk to Kino. 
+Ayla will desperately try to break the door and fails. She will actually open 
+it later. When you regain control of your characters, return first to Kino's 
+Cell and talk the Egg, which contains a Mid-Ether. Now, follow Kino. He will 
+open the previously closed Skull in the room where you first came in. Go 
+through the newly opened skull and climb up the ladder. In here, you'll see 2 
+switches. When you step on them, the monsters will drop in the holes. There 
+are 2 doors here. The left door is slightly to the lower left of the left 
+switch and the right door is slightly to the lower right of the right switch. 
+Take the door on the right. Move on until you come to a room with 2 eggs. 
+Inspect the left one first and you'll receive a Full tonic. The, inspect the 
+right one and you'll fall to the room. Beat the enemies then head outside, 
+you'll notice that you're inside the cell where the Villagers you saved where. 
+Head to the left and back up to the room with 2 skulls and go through the left 
+skull again. Above, push the switches again to trap the enemies that are here. 
+Now, head to the lower left door. You'll arrive in a dark room. There are a 
+couple of treasure eggs here to get. First, head north and you'll see 2 eggs. 
+Get the one to the left first for a Tonic. Now head south and you'll see 
+another 2 eggs. Get the one at the lower right to get the Cerra Topper. Now, 
+you can get the upper left one this way, it's the best way I can guide you to 
+get it. You can see that the ground has squares in it right? Now, head all the 
+way to the north until you see the 2 eggs again. Stand in the square just 
+below the egg where you got the Tonic. Push the right button until Crono can't 
+get any further. Move 7 squares to the south then walk/run to the right. 
+You'll be teleported a bit south of the egg. Get the egg for a Revive. Now for 
+the upper right most egg. Stand to the square just below the Egg where you got 
+the Revive. Move south 1 square, then east 3 squares. Now, run/walk to the 
+south and you'll be teleported to the upper rightmost chest for another Meso 
+Mail. After getting all the treasures, head to the upper left of the room and 
+climb up the steps. In the next screen, head south to the door. Outside, head 
+to the right. Go in the open door. Inside, you'll find 2 switches. The one to 
+the left will open the skull but will also summon 2 monsters. The one to the 
+right will open the Skull only. After opening the skull, head north and push 
+the switch. Head back outside and you can now enter the middle door. Inside 
+the middle door, you'll find Nizbel at the entrance. You won't have to fight 
+him yet. After talking to him, pass through him. You can pass by him through 
+his left or right side. I'm sure you'll get it. Now, save and restore HP/MP is 
+necessary. Head north and Nizbel will come up to you and attack.
+
+Boss:  NIZBEL II
+#############################################################################
+HP:   6500
+EXP:  880
+TP:   15
+G:    0
+Charmed Item: Third Eye
+
+When you use lightning attacks, Nizbel's defenses will decrease. But, if you 
+attack him physically, his defenses will rise again. Beware also if he 
+releases his electrocution energy. It deals a very big damage to all of your 
+characters. One strategy is to have Crono use lightning attacks, then let the 
+stronger of the two remaining characters attack physically. It would probably 
+be Ayla. Now, have the third one heal you party. Just continue alternating 
+between Crono and your attacker. You'll kill him efficiently that way. 
+Important Note. Don't attack him physically continuously. His defenses will 
+rise and rise if you do that.
+
+Strategy by: ~DeadDays (DeadDays@aol.com)
+
+To deliver a BIG amount of damage to Nizbel, use Crono and Ayla's Volt Bite. 
+It is the best attack to use against him.
+#############################################################################
+
+After beating Nizbel, you may want to go back to the Save Point and refresh 
+your characters, then save. Move on until you reach the wall of the Tyrano 
+Lair. The door in the middle will be closed for now, so go to the far right 
+and enter the door. You'll see 3 switches here. Push the upper switch that 
+will make a save point appear. Use it if necessary. Next, push the lower left 
+switch to activate the holes. Then, press the lower right on to see monsters 
+fall to their deaths. Then, head to the skull and examine its mouth to open 
+it. Go through it and get the chest for a Full Ether. Push the switch and the 
+middle door back at the outer wall will open. Inside the middle door, you'll 
+see Azala himself. He will go through the door to the north. Prepare your 
+character for a very challenging battle. But first, get the 2 chests on both 
+sides of Azala's throne for a Full-Ether and another Cerra Topper. Head north 
+and you'll see Azala with his pet, the Black Tyrano.
+
+Boss:  AZALA and BLACK TYRANO
+#############################################################################
+Azala HP:  2600
+Tyrano HP: 11000
+EXP:  1800
+TP:   25
+G:    0
+Charmed Item: Magic Tab (Azala) 
+
+Here is a battle that you may actually never forget. First beat Azala by using 
+physical attacks and Lightning Magic. He has a strong defense so it will take 
+time to beat. When Azala dies, he'll cast Azala Break, which will take down 
+your HP. Now, you'll have to concentrate on the monsters. Physical attacks 
+will be useless. Wait until he lower his defense and use your characters most 
+powerful Techs. If the countdown reaches 0, he'll attack and regain his 
+defense. You'll have to wait again. Always heal your party members right after 
+any attack by Azala or Black Tyrano. You may not beat the duo in your first 
+try. But try again and you'll succeed eventually.
+#############################################################################
+
+After beating them, some scenes will be shown. You'll see how Lavos arrived on 
+earth at 65,000,000 BC. When you regain control of your characters, head back 
+to the village and buy any items you may need and restore all your HP/MP then 
+finally, save. Head back to the Lair Ruins.
+
+LAIR RUINS (65,000,000 BC)
+--------------------------
+
+When you enter the ruins, your party will see that there is a Gate. They will 
+conclude that Lavos' immense energy disrupts time, therefore, creates gates. 
+Use the Gate and you'll be transported to..
+
+CAVE (12,000 BC)
+----------------
+
+Leave the Cave and return to the world map. You'll see snow and you'll also 
+notice that you are in 12,000 BC where Magic is a part of life to everyone. 
+
+Here, you can go back and use the Time Gate again to go to the End of Time. 
+Beat Lavos using the bucket and you'll achieve Ending #10.
+
+In the World Map, head to the east until you reach the Skyway.
+To use it, just step on the circle inside. You'll be transported to a Land 
+Bridge on a floating Island. Go to the structure you see on the right, which 
+is Enhasa.
+
+ENHASA (12,000 BC)
+------------------
+
+In here, you can talk to people to gain information about the Kingdom of Zeal. 
+There is a shop in the lower left part of Enhasa. If you head to the upper 
+left, a boy with a cat will tell you that one of your party members will 
+perish. If you think well, you'll know who will it be. I won't spoil it for 
+you. You'll also see a Spring of Recovery here that will replenish your HP/MP. 
+Head back out to the world map and use the Northern Land Bridge. You'll be 
+teleported to another Skyway. After reaching the skyway, head out to the world 
+map and head north. Enter the skyway you will find here. You'll arrive in 
+another part of the Kingdom of Zeal. Go to Kajar.
+
+KAJAR (12,000 BC)
+-----------------
+
+Talk to all the people here. You can buy items from the Nu. Now, you'll notice 
+there a shining dot on the upper right of Kajar. To get it, enter the door to 
+it's left. In the next room, examine the southern walls and you'll get the 
+Speed Tab on the other side. Talk to everyone, including the Nu on the north 
+part. It will say something like 'Water summons windÖ wind makes fire danceî. 
+After that, head out to the world map and go left to Blackbird.
+
+BLACKBIRD (12,000 BC)
+---------------------
+
+In the blackbird, head north and you'll see 2 guys there. Then, Dalton will 
+come in and will tell you something about what the prophet said. After 
+regaining control of your characters, head out to the world map and return to 
+Kajar.
+
+KAJAR (12,000 BC)
+-----------------
+Item:
+   Black Rock
+
+Now, you can do something here. Remember the clue that the Nu gave you? 'water 
+summons wind.. wind makes fire danceî. So let's get the water elemental first. 
+Go to the upper left portion of Kajar. Examine one of the books there and the 
+Water elemental will show up. Then, head to the lower right portion of Kajar 
+where the spring of Recovery is. Examine the book on the table and it will 
+summon the wind elemental. Now, head to the Nu who sells items. Check the book 
+on the counter and it will summon the fire elemental. You'll see a door appear 
+on your right. Enter it. You'll see a Poyozo Doll. Examine it and get the 
+Black Rock. Read also the book on the upper left of this room. Now, return to 
+the world map. Go back to Enhasa first.
+
+ENHASA (12,000 BC)
+------------------
+Items:
+   Magic Tab
+   Speed Tab
+   Mop
+
+We'll use the same code as the ones in Kajar. First, examine a book in the 
+northeast part, which is the water book. Then, examine the book in the 
+northwest part, which is the wind book. Finally, the one near the entrance, 
+which is the fire book. After this, a door will be revealed and you can now 
+enter there. Inside you'll find a Nu. If you read the book, it will say 'All 
+Life begins with Nu and ends with Nuî. Now, talk to the Nu and accept the 
+challenge. Then, you'll have to fight 6 Nus. After that, the Nu will give you 
+a Magic and a Speed Tab. You can also Charm one of the Nus for a Mop. Now, 
+exit to the world map again. Enter the cave to the right of Kajar and move on 
+until you reach the Zeal Palace.
+
+ZEAL PALACE (12,000 BC)
+-----------------------
+Item/s:
+   Magic Tab
+
+In here, go first to the Nu walking in the middle. Scratch his back and you'll 
+discover the Nu's Scratch point. After learning this, go back to Kajar and 
+talk to the Nu that is facing the bookshelf on the upper right room. After 
+scratching him, he'll give you a Magic Tab. Now, return to Zeal Palace. 
+Inside, head to upper rightmost room and you'll enter a room with 2 more 
+doors. Go through the right one. You'll see Janus and Schala. After Schala 
+leaves, follow her. Return back 2 screens. Then, head left and you'll see a 
+set of stairs that will enable you to go through the middle room. By the way, 
+if you pass through the front, 2 creatures just like Masa and Mune'll block 
+you. Now, head to the middle door. You'll see Schala use her pendant on the 
+door. It will open and Schala will go in. Crono tries to use the pendant of 
+Marle but it won't work. Talk to the 2 girls here and they will tell you how 
+to make your pendant glow. 
+
+Immediately after this event, after Schala opens the Sealed door for the first 
+time, go all the way back to the Time Gate and Go to the End of Time and beat 
+Lavos. You'll get the Humorous Ending #11.
+
+Head back out to the main room and head left and you'll see a Nu guarding the 
+door. Just examine the Nu and it will move away from the door. Enter it. It 
+leads to the Mammon Machine. When you reach the Mammon Machine, examine the 
+red shining dot in the middle. The pendant will now glow. Head back to the 
+middle room and use the pendant on the door Schala went in. When you reach the 
+throne room, the prophet will tell the queen that you are the ones he 
+prophesized. Dalton will summon a Golem but you can't beat it if your level is 
+low. In New Game+ mode, it's a piece of cake.
+
+Boss:  GOLEM
+#############################################################################
+HP:   6000
+EXP:  1000
+TP:   35
+G:    2000
+Charmed Item: Magic Tab
+
+He is very hard on your first try. He will copy everything you do. If you wish 
+to beat him, use your character's STRONGEST Techs. You will most like to lose 
+on your first game though.
+
+Strategy by: Marc Gugliuzza
+
+Lucca and Crono's dual tech, "Fire Sword" is really great against Golem, it 
+makes the fight much easier.
+
+#############################################################################
+
+Either way, if you lose or win, Dalton'll still capture you. You'll will be 
+kept in the Mammon Machine. Schala and Janus will then save you but the 
+prophet will come and threatens to kill you but Schala will come again to your 
+rescue. You will then show the prophet how you came here. You will use the 
+Gate and Schala will forever shut the gate down. You'll arrive back at 
+65,000,000 BC. When you arrive there, use the Dactyl's and return back to Ioka 
+Village. Save and restore HP/MP is necessary. By the way, the sweet water is 
+gone now. One note here. In the Chief's Hut, you can now use the beds to 
+restore your party's HP and MP. So, rest there now. After doing that, head 
+back to Mystic Mts. And use the Gate.
+
+END OF TIME
+-----------
+
+Here, talk to the Old Man. He'll give you a hint about the Wings of Time which 
+will enable you to go to any time period you want while flying. Save here and 
+use the pillar #5 to Proto Dome 2300 AD.
+
+PROTO DOME (2300 AD)
+--------------------
+
+Once you arrive, immediately head out to the World Map. Go back to Arris Dome. 
+Don't forget that you have to pass through Lab 32 again.
+
+ARRIS DOME (2300 AD)
+--------------------
+Item/s:
+   Power Tab    Charm Top   
+   Gold Erng    2 Full Ethers
+   Hit Ring     Wallet
+   Elixir       Magic Tab
+   Lumin Robe   Gold Stud
+
+Head to the basement. Head to the Sealed door at the end. You'll now be able 
+to open it with the pendant. Inside, you'll find a shining Power Tab in the 
+middle. Get the chests inside. You'll find a GoldErng. It will raise your HP 
+by 1/2! If your HP is 500, it will become 750. You'll also get a Hit Ring, 
+which will add 10 to your hit rate! Finally, you'll get an elixir and a Lumin 
+Rode, w/ Magic Defense +5, from the 2 chests. After getting these cool items, 
+head back out to the World Map. Pass through Lab 16 and head to Bangor Dome. 
+Open the Sealed door there. You'll get a charm top, a Full Ether and a Wallet. 
+Then, head to Trann Dome and open the sealed door there for a shining Magic 
+Tab, a Gold Stud and a Full ether. After getting these treasures, head all the 
+way to the Sewer Access that is just a bit south of Lab 32. Enter it. If you 
+visited this place a while ago, you'll now be able to go to the other ladder 
+that leads to another part of the World Map. If you didn't visit it before, 
+here's how. If you've finished it already, skip the sewer access guide and 
+head straight for the Keeper's dome.
+
+(Note: I you haven't used the console when you first came here, here's what 
+you have to do, there are 2 consoles right, go to the console on the right, 
+Press and Hold L and R buttons then press A to examine the console. A path 
+will open to the right enabling you to reach the door.)
+
+
+SEWER ACCESS -GUIDE(2300 AD)
+----------------------------
+
+Head left to Sewer access. You have to activate the bridge here so that you 
+can have easy access later. Inside, a guard will pass by. After regaining 
+control, head left, defeat the enemies and get the chest for 600G. Now, head 
+all the way to the left until you see a scene with two frogs talking to each 
+other. Follow them down the ladder. Below, head right. You will see a cat. If 
+you examine it, you'll have to fight 3 Nereids. Move on. You'll then see a can 
+and a trash bin. If you examine either of them, you'll fight 4 Nereids. Next, 
+you'll see a slice of cheese. If you examine it, you'll have to fight 2 
+Nereids and a rat. Move on. Next, you'll see a save spot. If you examine it, 
+you'll fight 3 Nereids. Finally, climb up the stairs. Above, you'll see a gap 
+between a bridge and another bridge to your left. Ignore the bridges and head 
+north. You'll see a slight opening in between the wall. Go through here to 
+reach a switch that will open the opposite door. Head back then up. Continue 
+pressing the Up Key until Crono Stops. You'll now be able to head right. When 
+you see that Crono stops, head down through that door. You'll see another 
+scene with the 2 frogs. Anyway, just head right then up to get a Rage Band 
+from the chest. Now head right to meet:
+
+Mini-Boss:  KRAWLIE
+#############################################################################
+HP:    550
+EXP:   100
+*TP:   - 
+G:     500
+Item:  Mid-Ether
+Charmed Item: Mid Ether
+
+He is so easy. You can beat him with your eyes closed while pressing the A 
+button continuously.
+
+* - I haven't seen them... yet.
+#############################################################################
+
+After beating Krawlie, move on until you see a ladder. Go past it fist and get 
+the chest for a Bolt Sword. Then, press the switch to fill the gap and the 
+bridge will now be accessible. Now, don't go back to climb the ladder. 
+Instead, cross the bridge you just activated and you'll notice that you've 
+been here already. Now head all the way back to the ladder which you used to 
+enter this area and exit to the World Map. Note: The ladder at the end will 
+send you to the World Map but it is on a remote island. You can find the 
+Keeper's Dome and the Death Peak.
+
+KEEPER'S DOME (2300 AD)
+-----------------------
+
+Once you enter, you'll see a Nu. You can talk to it but it will have an error. 
+Head to the back part of the Dome and you'll see a Sealed Door. Enter it. 
+You'll see various shining dots around. It will tell you about Belthasar, the 
+Guru of Time and also about Lavos. At the end, enter another Sealed Door. Head 
+all the way north and your characters will have a dialogue. Now, try to leave 
+the room. A Nu will push some kind of a device into the Wings of Time. It will 
+tell you that it is Belthasar's Memory that is talking to Crono and his party. 
+After that, name the 'Wings of timeî. The default name is Epoch.
+
+***Instructions on using the Epoch***
+
+In the world map, the A button will let Crono Hop Aboard or Climb out of the 
+Epoch. The Y button will open the Time Selection screen where you can select 
+the time period in which you want to go. In this screen, use the L and R 
+buttons to select the time period. Then, press A to select.
+
+After getting the Epoch, head to the Dark Ages, 12000 BC.
+
+You can also use the time Dial to go to 1999 AD right away and beat Lavos. 
+You'll achieve Ending #10 if you do.
+
+DARK AGES (12,000 BC)
+---------------------
+
+When you arrive, the Cave to the north has the Sealed Gate. If you try also 
+using the Skyway, it won't work. So head all the way to the upper left and 
+enter the Terra Cave.
+
+TERRA CAVE (12,000 BC)
+----------------------
+Item/s:
+   Power Tab
+
+Inside, you'll see the village of Algetty. The people here don't have magic so 
+they were banished here. When you reach the people, the first cave you'll see 
+will house a person who sells good Equipment. If you have enough G, try to 
+upgrade your weapons (or you can just continue on and charm R'bow helms from 
+the beasts which is much stronger than the one sold here). After buying 
+equipments, if you want, continue heading down. There will be a cave wherein 
+you can sleep for free. When you reach the Save Point, Save! Head to the Cave 
+opening to the right. In here, get the Power Tab on the lower right. Head 
+north. You'll have to fight 2 beasts. They are just like easy bosses. After 
+beating them, head north and beat another pair. At the end you'll meet the 
+real boss.
+
+Boss:  MUD IMP and 2 BEASTS
+#############################################################################
+Blue Beast HP: 4500
+Red Beast HP:  4500
+Mud Imp HP:    1000
+EXP: 954
+TP:  26
+G:   2600
+Charmed Items: Mermaid Cap (Blue Beast), Elixir (Red Beast), 
+               Speed Tab (Mud Imp)
+
+These 3 are hard. The Mud Imp is fast and it will use the 2 beasts and charges 
+at one of you characters. Heal your characters often because once BOTH beasts 
+attack at the same time, your character's HP, might drop to 0. To beat it, use 
+Fire elemental attacks on the blue beast and Ice/Water Elemental on the Red 
+one. You can use any magic on the Mud imp. If you really spent time to gain a 
+lot of TPs, if you have Luminaire, just use it at least 3 times to end the 
+fight easily. Also remember that, when the Mud Imp is alone, it will gain 150 
+HP for every attack you make.
+#############################################################################
+
+After beating the boss, climb up the chain to Mt. Woe.
+
+MT. WOE (12,000 BC)
+-------------------
+Item/s:
+   Lode Vest      Shelter
+   2 Shields      Time Hat
+   3 Barriers     Ruby Knife
+   2 Lapis
+   2 Full Ethers
+
+In here, you'll have to fight Bantam Imps on your way. Once you beat it, 
+you'll have to fight the Stone Imp. There are also Rubbles that will use its 
+Lock All ability on the first move. It will disable ALL your Techs and Items. 
+Now, back to the walkthrough. After beating the first batch of Bantam Imps, 
+head north first and cross the chain. Fight the rubble if you want, note that 
+it has 1000 EXP and a mid-ether including 100 TP if you can beat it before it 
+escapes. After beating the rubble, head south first and get the Lode Helm from 
+a chest. Return to the place where you fought the Bantam Imps. Cross the chain 
+to the left. Fight another batch of Bantam Imps on the way, then cross the 
+chain onto the next section. Here, head right then up. Beat the Gargoyles and 
+head up again. You'll see a Save Point. Restore all your characters' HP/MP 
+then save. Move on. When you see a Chain to the right, go there and get the 
+Lode Vest and a Shield Item. Then, head left and collect the treasures. You'll 
+get a Barrier, and a Lapis. Right after you get the Lapis, head right and 
+you'll see another chain which is just above the save point. Cross the chain. 
+Move on until you see a chest with a Barrier. Cross the Chain to the right to 
+move on to the next section. In here, get the chest fist for another Lapis. 
+Head right and beat the 4 Man Eaters. There will be 2 chains here. Head to the 
+right chain first and get the chests for a Barrier and a Full Ether. Now, head 
+to the other chain and move north. When you see the Rubble, head south and get 
+2 chests with a Shield and a Shelter. Head north, then cross that chain. 
+You'll arrive in a save point so, prepare your characters then save. Head up 
+the chain to the next section. In here, get the Chest for a Time Hat. After 
+getting the time hat, cross the chain and get another chest for a full Ether. 
+Restore HP/MP and use the most powerful weapons for your characters. You 
+should prepare before climbing the north chain because there is a very tough 
+boss ahead. After climbing the chain, examine the crystal. Then, to your 
+surprise, here comes..
+
+Boss:  GIGA GAIA
+#############################################################################
+Giga Gaia HP: 10000
+Hands' HP:    2000
+EXP:  3000
+TP:   30
+G:    3000
+Charmed Item: Speed Tab (Head)
+
+He is TOUGH. To beat him, use techs to destroy the ARMS first. These 2 arms 
+deal a very big amount of damage to your characters. If your level is low, at 
+around 15 below, there is a probability that you'll get killed with one hit. 
+You can also use Level 2 Magic to Damage every part of Giga Gaia. Once the 
+arms are gone, give Giga Gaia a beating. Beware, if you can't finish him off 
+fast, he'll restore both of his arms and you'll have trouble again removing 
+them. On my very first meeting with Giga Gaia, I have to restart around 3-4 
+times before I actually beat him.
+
+New and good strategy from Drew Hundley (serval@claws-and-paws.com): 
+
+Have Ayla in your party and have any other character fill-in the third slot. 
+Use Ayla and Crono's Volt Bite to finish of the Left Arm, which is the 
+attacking arm. While the third party member, have him/her use his/her most 
+powerful Tech on the main body. Just leave the right arm as it is. It will 
+recover HPs for the main body from time to time but it is less than how much 
+you damage him. If the left arm appears again, kill it again! :) This way, you 
+can conserve MP and you can concentrate on attacking the main body if you 
+ignore it.
+#############################################################################
+
+After beating Giga Gaia, the guru of Life will be freed. It's Melchior! Then, 
+the mountain will crumble and it will collapse. You'll be automatically be 
+brought to Algetty. There will be a scene here with Melchior talking to 
+Schala. Dalton comes in and captures Schala. Once you regain control of your 
+characters, talk to Melchior. He will give you the Ruby Knife that you must 
+use to destroy the Mammon Machine. Now, go back to where you slept for free 
+and sleep again to restore the HP/MPs you've lost against Giga Gaia. Then, 
+head all the way up and exit to the world map. Then, head all the way to Zeal 
+Palace using the now accessible Skyways and Land Bridges.
+
+ZEAL PALACE (12,000 BC)
+-----------------------
+
+Once you arrive here, go straight to the middle room. The 2 creatures which 
+look like Masa and Mune is now gone and you may pass through without having to 
+go around again. Head to the Throne room and you'll fight Dalton.
+
+Boss:  DALTON
+#############################################################################
+HP:  4000
+EXP: 1000
+TP:  30
+G:   2500
+Charmed Item: Power Meal
+
+He is easy. But, be careful. Always use your characters most powerful Tech 
+because he will counter you with the Orb attack which brings down your 
+characters HP by a half. So, always heal after an Orb Attack. He will escape 
+afterwards.
+#############################################################################
+
+After beating Dalton, a gate will appear. Use it. You'll arrive in the Ocean 
+Palace.
+
+OCEAN PALACE (12,000 BC)
+------------------------
+Item/s:
+   Aeon Suit     Star Sword
+   Rune Blade    Shock Wave
+   Aeon Helm     Demon Hit
+   Kaiser Arm    Elixir
+   Sonic Arrow
+
+In the first section, you'll see a save point. Use it then, move forward and 
+you'll see Mune. A scene will follow with Schala and the Queen at the Mammon 
+Machine. Now, head south to the next section. Here is a big room with 8 doors. 
+To the North, Northeast, East, Southeast, South, Southwest, West, Northwest. 
+There are also treasures scattered around the area. You'll get an Aeon Suit 
+and a Rune Blade.
+
+I'll explain the enemies here. There are 3 types of scouts, the Scouter, which 
+can be beaten by Lightning Damage, the Blue Scout that can be beaten by 
+Water/Ice Magic, and the Red Scout, which can be beaten by Fire. There is also 
+this Jinn and Barghest. Barghest is the one that keeps on moving around. Kill 
+him first and the defenses of Jinn will deteriorate.
+
+Back to the Walkthrough, in the big room, head to the Northeast door. Step on 
+the switch and fight a Jinn and a Barghest. After beating them, exit to the 
+lower right door. In here fight another batch of monsters then get the Aeon 
+Helm in the chest. Now, there will be 2 doors to the left. Take the one 
+heading straight to the left and you'll arrive again in the Big room. You will 
+notice that you have been in the East Door. The next destination is the South 
+East door. In there, get the chest you see for a Kaiser Arm. Head left to the 
+switch. It will raise a bridge to give you access to the South door back in 
+the big room. After switching it on, head left first and get the chest there 
+for a Sonic Arrow. Head back to the Big Room. To get the Star Sword, take the 
+North West room. Step on the switch and beat the Jinn and the Barghest. Take 
+the lower left door. Fight another batch of enemies here then, take the chest 
+for a Star Sword. Take the Right door. You're back in the big Room. Now, head 
+to the South West Door. Take the chest here for a Shockwave then head south. 
+You'll be back where you switched on the bridge. Don't go all the way to the 
+south, instead, head left and stay beside the wall and run around until you 
+can't run anymore. You'll see a chest in a small room. There is a opening 
+somewhere in the diagonal wall. Once you get it, you'll receive a Demon Hit 
+from the Chest. Head back to the Big room and enter the South door. In here, 
+take the ladder to the left. In this area, just continue moving down the 
+ladders and fighting enemies until you reach Masa. He will say something then 
+a short scene of Schala and company will follow. Head down the ladder then use 
+the Save Point. Head to the south door. Beat the enemies here then examine the 
+shining dot. Now for some Elevator Action. You'll fight 3 batches of enemies 
+here one after the other. The first batch is a Jinn and a Barghest and 
+Thrashers. The next one has 2 Mages, 2 Lashers and a Scouter. And the last 
+batch has 2 Scouters, 2 Blue Scouts and 2 red Scouts. After the elevator 
+stops, head to the north door. There are 2 door here. Take the right one 
+first. Beat the scouts and press the switch. Do the same thing on the left 
+door. Head out and push the switch in the middle to reveal a door beneath the 
+flames. Enter that door. In here, get the Elixir from the chest and Use that 
+Save Point! After preparing head north to face..
+
+Boss:  GOLEM TWINS
+#############################################################################
+HP:  6000 each
+EXP: 2000
+TP:  70
+G:   4000
+Charmed Items: 2 Magic Tabs (one from each)
+
+They are so hard that I have to restart 5 times before beating it. It will 
+copy anything you do to them so make sure you use Techs. Physical attacks are 
+almost useless against them. They will use the Ability that they copied to you 
+and it will surely be a big damage. Not to mention that BOTH of them can use 
+the Iron Orb which reduces your HP to 1|2 . Try and try again if you fail, try 
+every way you can.
+
+Easier way to beat GOLEM TWINS by: TheLaser (thelaser@xmission.com)
+
+You may know that the twins will mimic you moves therefore, you can manipulate 
+the battle. First off, Include Lucca in your party. Equip everyone with fire 
+resisting armors (specifically, Red Mail or Ruby Vest). When the battle 
+begins, have Lucca cast Fire 2 on the Golem Twins, they will counter with a 
+Fire Attack but you will mostly likely to receive very little damage because 
+of your armor. Then, wait for everyone to fill his or her battle gauge, 
+including Lucca. Have your 2 other characters use their most powerful attacks 
+then finally Lucca, with her Fire 2 again. Just try to be fast enough so as 
+the Golem Twins will not use its Iron Orb attack. 
+
+Another strategy by: Roberto Tisu (roberto@comcom.si)
+
+Have Crono, Lucca, and Frog in your party. Use Crono's Luminaire as the first 
+attack then use Lucca's HypnoWave to put both Golems to Sleep. Then, use Frog 
+to heal your characters. Do this until the Golem Twins die.
+
+Another strategy by: Conner (jamescon@att.net)
+
+One of the best teams to use is the team of Crono, Ayla, and Robo. Before you 
+do anything, have Ayla and Robo do their Boogie Dual Tech to halt both of them 
+(GolemTwins). Then its a simple process of Using Crono and Ayla's Falcon Hit 
+attack to whack both of them at the same time. The only damage you will take 
+will be the final blow. Then it is smooth sailing from there.
+
+#############################################################################
+
+After beating the Golems, Dalton will try to summon the Golem Boss but has 
+more things to do. When you regain control of your characters, head back and 
+SAVE. You don't want to repeat everything do you? Now, continue heading north 
+until you see a Nu. Head north and meet the Mammon Machine. Crono will use the 
+Ruby Knife, which will turn into a sword. Schala tells you that it won't do 
+any good. Then, all of a sudden, Lavos appears before you. He can't be beaten 
+here on your first play. I'll try later if you can beat Lavos here after I 
+reached around Level 90. After Lavos beats you, the prophet will reveal 
+himself as Magus. He can't do anything to Lavos also. Schala will try but will 
+be stopped by her mother. Now, Lavos will try to kill all of you. (If you 
+managed to defeat Lavos here, which I think, is the hardest Lavos ever, you'll 
+receive Ending #2) If you lose, after you regain control of Crono, head 
+towards Lavos. Crono will be disintegrated. Lavos will then emerge out of the 
+ground and destroy the entire Zeal Kingdom. All floating island will fall down 
+to the ocean. After these scenes, you'll wake up inside a house in the last 
+village. After talking to the elder, save then head out to the World Map. 
+There are 3 huts of the Last Village. Enter the northern most one and you'll 
+see a Nu that sells items. After the Nu leaves you can get the Magic Tab on 
+the upper left. Now, head back out to the World Map and go to the Commons. 
+Talk to the elder at the end and see Dalton's soldiers come in. Dalton will 
+eventually capture all of you. When you wake up you'll be in Dalton's Ship.
+
+BLACK BIRD (12,000 BC)
+----------------------
+
+Your party will notice that the equipments and items have been taken away from 
+you. So, you're last resort here is to get Ayla. She is the only character 
+that can fight the enemies. If she is not in your party and you got into a 
+battle, you will not win without weapons because you can't attack. Now, head 
+up the ladder and your character will be shocked by what they will see. After 
+that, head back and one of your party members will tell you that there is a 
+breeze in the place he/she is standing. It's because there is a Ventilation 
+hole up there. Now, I'll tell you how to get back the Items, Equipments and 
+money.
+
+First, head south to the door and act sick. The guard will come and will be 
+beaten by Ayla. Now, head out the door. Go left into another door and you'll 
+see a chest, which contains all your money. 1 down 4 to go. Leave the room and 
+head all the way to the north. You'll arrive in another section. After beating 
+the 2 Bashers, you'll see 2 doors. Take the left one and you'll see the chest 
+containing all of your items. 2 down 3 to go. Leave the room and head all the 
+way to the north and climb the ladder there. You'll be at the ducts. Head all 
+the way to the right and you'll see a shining Magic Tab. To get it, when you 
+can't run right anymore, head south, when you can't run south any more, head 
+right then up. Now, run back and stop at the first intersection. Head south to 
+the next intersection. Here, head left and climb the first ladder you see. 
+You'll arrive where they kept your equipments. Hurray! You got one character's 
+equipment back. 3 down 2 to go. Climb back up and head left. Move on and climb 
+down the ladder at the end. Climb another set of stairs down and you'll arrive 
+in a main room. Head right and enter the door guarded by 2 Bashers. In the 
+room, you'll get another chest for the equipments of one of your characters! 4 
+down 1 to go. Now, leave the room and climb up the ladder that is just beside 
+the door. In the ducts head left and stop in the intersection. Head south to 
+another intersection then stop. Head south again to another intersection. Head 
+left and climb down the ladder that you'll see. You'll arrive in the last 
+chest. Hurray! You got everything back! Now, head back up the Air ducts. Head 
+right to the intersection. Now head all the way down until you reach the last 
+Ventilation hole. Examine it to see Dalton with the Epoch. After the scene 
+with Dalton, head up to the intersection. Head north again to another 
+intersection. Head north AGAIN to the next intersection. Head right and enter 
+the first Ladder you'll see. You'll arrive at the first room you've seen on 
+the blackbird. Use the Save Point. After saving, head back up the Air duct, 
+not the ladder. On the air ducts, Head right and move on until you reach an 
+intersection. Head north to another intersection then head north once more. 
+Head right and enter the first ladder you'll see. In this room, exit to the 
+south door. Then, use either of the 2 conveyor belts to go south. You'll see 2 
+rooms below. Take the left one. Enter the door inside then take the single 
+ladder up. You'll arrive on the wings of the Blackbird. Head to the lower 
+leftmost part of the wings and you'll have to fight the Golem Boss.
+
+Boss:  GOLEM BOSS
+#############################################################################
+HP:   14000
+EXP:  2500
+TP:   0
+G:    2000
+Charmed Item: none
+
+He's the easiest boss in the game, why? Because he won't even attack you. All 
+you have to do is to attack him physically to save MP and items. Don't worry 
+about counter attacks. He is so scared of Heights to move.
+#############################################################################
+
+After beating the golem boss, you'll see Dalton take off in the now-flying 
+Epoch. You're characters will jump to the Epoch engaging Dalton.
+
+Boss:  DALTON PLUS
+#############################################################################
+HP:   3000
+EXP:  2500
+TP:   - 
+G:    2000
+Charmed Item: Power Meal
+
+He is not that hard. Just use your characters' most powerful Magic. Use dual 
+Techs if they're available and it will finish him off quickly.
+#############################################################################
+
+After beating Dalton, He'll summon Golem Boss. Since you already beaten that 
+Golem, he'll not be able to summon it. Dalton will fall off the Epoch to meet 
+his death. One of your character will then tell you to hit the Y button. Press 
+it and it will fire beams towards the Blackbird. The Blackbird will crash. 
+Now, your characters will land near the commons. Go there and talk to everyone 
+and some of them will tell you about the stranger who passed by who is now at 
+the north cape. Before leaving the Commons, make sure you talk to the woman 
+here beside the sapling. This will activate Fiona's Side Quest. If you didn't 
+talk to the woman in the Commons, Fiona's husband won't be at home. Head back 
+out to the World Map. Head north and circle around the mountain. Head to the 
+north westernmost area and enter the Cape.
+
+NORTH CAPE (12,000 BC)
+----------------------
+Item/s:
+   Amulet
+   Dark Scythe
+
+Head to the north and examine the shining dot there. You'll see Magus. He'll 
+tell you more about himself then. After the scenes that show that Magus is 
+actually Janus, he'll ask you if you want to fight him. If you want to fight 
+him, you'll gain EXP, and the Amulet Magus has, including a MegaElixir, which 
+you can Charm from him, but you won't get Magus to join your party. If you 
+don't wish to fight him, when you try to leave, he will come and join you. 
+It's weird, but you can actually rename him. After he joins you, head back out 
+to the world map. As Magus suggested, use the Epoch to go to the End of Time. 
+But before you do, the Undersea Palace, a.k.a. Black Omen, will emerge out of 
+the sea. After the scene, head to the end of time.
+
+From here on, until the revival of Crono, you can achieve ending #12. Remember 
+that Crono must still be dead.
+
+END OF TIME
+-----------
+Item:
+   Chrono Trigger
+
+Talk to the Old Man. After speaking to him, try to board the Epoch and he will 
+call you. Go back and talk to him again. He will give you the Chrono Trigger 
+that may be able to return Crono back. You party will also notice that he is 
+actually Gaspar, the Guru of Time. Now, board the Epoch and head to 2300 AD 
+and enter the Keeper's dome.
+
+KEEPER'S DOME (2300 AD)
+-----------------------
+
+In here, pass through the Sealed Door. On your way, look out for a shining 
+Magic Tab. Now, talk to the Nu at the end. It'll tell you that 'Death Peakî 
+has the power to restore life. But, in order to do so, you need an exact 
+clone. So, head back to 1000 AD and win a Crono Clone in Leene Square's 
+Norstein Bekkler's Lab Game.
+
+LEENE'S SQUARE (1000 AD)
+------------------------
+
+The Norstein Bekkler's Lab is found on a Big Tent on the right side of the 
+first section of Leene's Square. If you haven't played here before, I provided 
+the rules (w/c is also written near the beginning of the walkthrough) below:
+
+Norstein Bekkler's Lab
+     Located in the eastern portion of the first section of Leene's Square.
+     It is in a large pink tent with a skull at the entrance. This place is 
+     pure fun. First, select the amount of silver points you want to bet.
+     10, 40, or 80 Silver Points can be placed as bet.
+
+     At 10 Silver Points, you get to play a game where you must find a 
+     certain person among the 3. They are Vicks, Wedge, and Piette. They will
+     change places fast. To have an advantage, memorize 2 persons only. 
+     Example, watch Vicks and Wedge's movement. When the clown asks you where
+     Vicks or Wedge, you'll be able to identify the 2. The one whom you
+     didn't follow his movement will be Piette. If you win, you'll get a 
+     Poyozo Doll to use as decoration for Crono's House. Note that these
+     Poyozo Dolls play a major role in the late part of the game. Note that
+     the Poyozo Dolls on the second floor of Crono's House will change the
+     music if you examine it.
+
+     At 40 Silver Points, you get to play a mimic game. All you have to do     
+     is to Mimic or Copy the movement of the clone using the designated
+     buttons, L=Left Arm, R=Right Arm, Y=Laugh, A=Surprise. If you managed
+     to mimic everything, you'll win a Clone of Crono that you can use also   
+     to decorate Crono's House. Take note that this Clone will play a MAJOR
+     role in the game. If you think hard you'll know it. 
+
+     At 80 Silver Points, you get to play a Push the monster game. Your goal
+     in this game is to prevent your character, who is hanged just above a
+     flame, and push the 3 coins to be able to put monsters into the door at
+     the back. It's very challenging. You're pushing the coins at the same
+     time preventing your character from being fried. If you see a blue light
+     Appear at your left side, examine it to raise the rope a bit, then 
+     continue pushing those monsters back. If you win, you'll get a cat.
+     These cats will be brought to Crono's House. You can win as many cats 
+     as you want. When you go to Crono's house, you'll see all the cats 
+     you've won roaming around the house.
+
+After you've won a Crono clone, it will be delivered to Crono's House so go 
+there. Talk first to Crono's Mom then get the clone. Head back out and board 
+the Epoch. Go back to 2300 AD and enter the Keeper's Dome once more. Talk 
+again to the Nu and it will now use 3 Poyozo dolls to help you climb Death 
+Peak. After that, switch off the Nu and head out to the World Map and go to 
+Death Peak.
+
+DEATH PEAK (2300 AD)
+--------------------
+Item/s:
+   Magic Ring    Vedic Blade
+   Wall Ring     Memory Cap
+   Giga Arm
+   Brave Sword
+   Star Scythe
+
+At the Death Peak, the wind will eventually push you down the Mountain. Now, 
+that there are Poyozo Dolls it is easier to go up. First, examine the first 
+Poyozo Doll you see and it will turn into a tree. When the wind is strong just 
+stay behind it and you won't fall down. When the wind calms down, RUN up to 
+the other tree and stay behind it whatever happens. When the wind calms again, 
+RUN up and you'll reach the next area. In here, walk to the left until you see 
+a ladder. Don't climb up yet. Head left a bit more to find a Magic ring. Head 
+up the ladder now. Move to the right until you reach the next section. In this 
+area, you'll notice that the path splits into 2. One to the north and the 
+other to the south. Take the south first to reach a Save Point. There is also 
+a chest w/ a Wall ring. Now, head back to the intersection and head north. 
+Enter the cave-like opening. Inside you'll find, Lavos Spawn.
+
+Mini-Boss:  LAVOS SPAWN
+#############################################################################
+HP:  4000
+EXP: 747 
+TP:  0
+G:   500
+Item: Elixir
+Charmed Item: Elixir
+
+The spawn is not that hard if you will not attack the shell. Whatever you do, 
+always attack the head only in any way you want.  
+#############################################################################
+
+After beating the Spawn, take the Giga Arm from the Chest. If your HP/MP are 
+very low, head back to the save point. Now, Head north past the place where 
+you fought the Spawn. You'll be outside again. Head right and you'll arrive at 
+another part of the cave. Get the chest you see for a Brave Sword. Then, head 
+south. You'll arrive on a cliff wherein below you is the save point you saw 
+earlier. Head north and examine the shining dot there. It will open a cave 
+below. Head back to that save point and head north and enter the newly opened 
+Cave. Inside, climb the series of Ladders and get the StarScythe on the way. 
+Enter the cave to the north and you'll fight another Lavos Spawn. After 
+beating the Spawn, head left and you'll see a Poyozo doll in the next area. It 
+will tell you to be careful because if you slip, you'll return back at the 
+start of the Death Peak. If you fall, you'll be back to the First Save Point. 
+Now, if you successfully passed the bridge, you'll arrive in another section. 
+Get the chest you see for a Vedic Blade. Keep on moving and you'll eventually 
+come up to another one of those Poyozo Dolls. It will tell you to push the 
+shell, climb the shell. You'll know what this means later. Head down the 
+ladder to the left then move on. You'll reach the Third Lavos Spawn. After 
+beating the spawn, the shell will remain. Now, PUSH the shell to the right 
+until you can't push it anymore. Then, push it north. When you can't push 
+anymore, examine the shell and you'll climb up. After climbing up, get the 
+chest to right for a Memory Cap. Head north afterwards and you'll reach the 
+summit of the Death Peak. The leader of your party will use the Chrono 
+Trigger. It will shatter and will bring your party back to the exact time 
+where Crono disintegrated. Examine Crono and you'll exchange the Clone for 
+him. After that, Crono will be revived and is brought to the Death Peak for a 
+touching scene. You will be brought automatically to the End of Time.
+

@@ -1,0 +1,1571 @@
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                              CHRONO  TRIGGER 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+                    Chrono Trigger Walkthrough and FAQ  
+                              (Final Version)
+                               By: 'Aî Tadeo
+                           Created: June 23, 2000
+                      Final Release: February 17, 2001
+                   Mail me at: c_trigger@edsamail.com.ph
+                              ICQ#: 12218741
+                              AIM: atadeo020
+                     Home Page: http://surf.to/aaronph
+
+        -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                               WALKTHROUGH
+        =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+
+BEGINNING
+---------
+At the title screen select a new game. Or, if you already finished the game 
+select the New Game+ Option (for more information about this, head to the New 
+Game+ Information section of this Walkthrough/FAQ). After selecting, you will 
+be asked what battle mode you want. Select active if you want challenge. The 
+enemies here will not wait for you to finish your move. If you want a more 
+strategic battle, select the Wait Battle Mode. This will allow you to make 
+your move first before the enemy does. After selecting the Battle Mode. Name 
+our Hero. For the sake of the Walkthrough, let's use his default name, Crono.
+
+CRONO'S HOUSE (1000 AD)
+-----------------------
+Item/s:
+   200G
+
+The start of the game will bring you to Crono's room. After Crono wakes up, 
+head down the stairs. Crono's Mom will forget your friends' name. For this 
+walkthrough, let's use her default name, Lucca. Talk to Crono's Mom again 
+before leaving the house for 200G allowance. Exit Crono's House to the World 
+Map.
+
+MAYOR'S MANOR (1000 AD)
+-----------------------
+Item/s:
+   100G
+   300G
+   Tonic
+
+Go southwest a little to one of the houses, and enter the Mayor's Manor. You 
+can learn about Weapons and Items, save points, use of shelters, Techniques or 
+Techs, and tips about how the battle system works and how to use the buttons 
+by speaking to the different people here. Before leaving the manor, take the 
+Tonic in a chest in the lower floor and take the money (100G) inside the chest 
+on the second floor. Don't forget to talk to the man in the middle TWICE and 
+he'll give you 300G. (Thanks to Brandon Boucher for the info) Return to World 
+Map.
+
+LEENE'S SQUARE (1000 AD)
+------------------------
+
+You may visit the other houses to gain more info or just talk. Then, head to 
+the north of Crono's house to Leene's Square.
+
+There are A LOT of things that you can do here in Leene Square. Upon entering, 
+you may be wondering why you couldn't talk to a few characters that are 
+running around (they are busy racing against each other so they won't bother 
+talking to you). There are also stalls here that sell items, equipment, and 
+accessories. Also, remember that the currency that Leene Square uses is silver 
+points. You can obtain silver points by winning them from the different fun 
+mini-games.
+
+First of all, don't talk to anyone yet and head north to the next section of 
+Leene Square. Walk up to the girl that is running around Leene's Bell. Upon 
+bumping into her, check up on her first then take the pendant. Talk to her and 
+let's name her Marle, which is the her default name. Return her pendant and 
+let her join you. Upon joining, you can now have fun in Leene Square. Note: 
+don't talk to anyone yet.
+
+Here are the mini-games that you may play here at Leene's Square that includes 
+the rules and the requirements in playing.
+
+1. Ring the Bell!
+     Found in the Southwestern portion of the first section of Leene's 
+     Square. Your goal is to time it right that Crono can ring the bell.
+     If you win, you'll receive 1 Silver Point. Note that this is the 
+     second easiest game here at Leene's Square.
+
+2. Guess the Winner!
+     It can be found in the first section of Leene's Square. Talk to the
+     person standing in the blue tent, which is to the right of the fountain
+     In the middle. He will let you guess who will be the winner in the next
+     race. The racers' names are, G.I. Jogger (G.I. Joe), Steel Runner 
+     (Armored Knight), Green Ambler (Alien), and Catalack (a Cat!). If you 
+     try to talk to him while the race is going on, he will not entertain
+     you. Wait for the race to finish before talking to the man. If you win
+     the man will give you 20 Silver Points as a prize. It's hard to guess
+     who the winner is, right? Notice the old man near the Starting Line?
+     He will guess who the winner will be in the next race. He will sometimes
+     be wrong but most probably, he will make a correct guess. So, if you're
+     tired of guessing, talk to the old geezer BEFORE A RACE for a hint. 
+
+3. Norstein Bekkler's Lab
+     Located in the eastern portion of the first section of Leene's Square.
+     It is in a large pink tent with a skull at the entrance. This place is 
+     pure fun. First, select the amount of silver points you want to bet.
+     10, 40, or 80 Silver Points can be placed as bet.
+
+     At 10 Silver Points, you get to play a game where you must find a 
+     certain person among the 3. They are Vicks, Wedge, and Piette. They will
+     change places fast. To have an advantage, memorize 2 persons only. 
+     Example, watch Vicks and Wedge's movement. When the clown asks you where
+     Vicks or Wedge, you'll be able to identify the 2. The one whom you
+     didn't follow his movement will be Piette. If you win, you'll get a 
+     Poyozo Doll to use as decoration for Crono's House. Note that these
+     Poyozo Dolls play a major role in the late part of the game. It does not
+     necessarily mean that the Poyozo Dolls in Crono's house will play that
+     important part, you will eventually encounter more Poyozo Dolls on the
+     way. Note also, that the Poyozo Dolls on the second floor of Crono's 
+     house will change the music if you examine it. Tip: Pick the Soldier
+     that is farthest from the two. Credit goes to Brandon Boucher.
+
+     At 40 Silver Points, you get to play a mimic game. All you have to do     
+     is to Mimic or Copy the movement of the clone using the designated
+     buttons, L=Left Arm, R=Right Arm, Y=Laugh, A=Surprise. If you managed
+     to mimic everything, you'll win a Clone of Crono that you can use also   
+     to decorate Crono's House. Take note that this Clone will play a MAJOR
+     role in the game. If you think hard you'll know it. 
+
+     At 80 Silver Points, you get to play a Push the monster game. Your goal
+     in this game is to prevent your character, who is hanged just above a
+     flame, and push the 3 coins to be able to put monsters into the door at
+     the back. It's very challenging. You're pushing the coins at the same
+     time preventing your character from being fried. If you see a blue light
+     Appear at your left side, examine it to raise the rope a bit, then 
+     continue pushing those monsters back. If you win, you'll get a cat.
+     These cats will be brought to Crono's House. You can win as many cats 
+     as you want. When you go to Crono's house, you'll see all the cats 
+     you've won roaming around the house.
+
+4. Soda Guzzling Contest
+     This is found in the eastern portion of the second section of Leene's
+     Square. Your goal is to drink up 8 cans of Soda within a certain time
+     limit. Press the A button as fast as you can to drink the cans. Turbo
+     enabled controllers have the advantage here. All they have to do is to
+     hold the A button, therefore making this game the easiest one. If you
+     managed to drink the 8 cans, you'll receive 5 Silver Points.
+
+5. Beat Gato!
+     In the second section of Leene's Square, head all the way to the west
+     past the old man until you reach Lucca's Demo Robot, Gato. This mini-
+     game will train your characters in battle. If you managed to beat Gato,
+     which I'm sure you will, you'll receive 10 Experience Points and 15
+     Silver Points. All you have to do is to attack! If you lose, play 
+     Another game! Just kidding. :)  (Note: If you return here with Ayla, 
+     You can charm Gato and receive a Power Meal)
+
+Now, back to the walkthrough. After you've played these mini-games, you can 
+visit the Tribal Dance. It is located to the Northeast of the second section 
+of Leene's Square. You can push the buttons to make your characters dance, 
+laugh, and even surprise them.
+
+Now, there are certain things at Leene's Square that you can do that will 
+affect a certain event later in the game. You can do them in any order you 
+want, but this is the best way, I think.
+
+1. Go to Melchior (Weapons Merchant and Swordsmith in the first section of 
+Leene's Square) who is near a woman. Talk to the woman first then talk to 
+Melchior. He'll sell his items to you then he will ask if you could persuade 
+Marle into selling her pendant. Say NO! 
+
+2. In the western area of the 2nd section, you'll see and old man walking and 
+a pack of lunch/food on a table. Don't ever take it. Just leave it there 
+because you might actually be tempted to get it.
+
+3. Head to the Eastern area of the 2nd Section, you'll find a girl who lost 
+her cat. Remember a cat near the old man? Examine it and you'll hear a mew. It 
+will then follow you wherever you go. Lead it to the girl then talk to the 
+girl and she'll be glad to have her cat back.
+
+Back to the main story. Head to the fountain at the center of the 1st section 
+of Leene's Square. Talk to the girl sitting there. After talking to her, it 
+will be announced that Lucca and her dad finished their invention. Go north to 
+the 2nd section. Head north. Upon reaching the stairs to the 3rd section, 
+Marle will tell you that she wants to buy some candies. While she is buying 
+the candies, don't push a single button. In other words, don't even try to 
+move away from her while she is busy buying the candy. This certain event will 
+also affect the same event in the later part of the game (the one I talked 
+about a while ago regarding those 3 things you need to do). Then, after buying 
+the candies head north to the 3rd section. Upon reaching the 3rd section, 
+you'll see the introduction of Taban about their invention, the teleportation 
+device (wow! I ought to have one!). Upon regaining control of your characters, 
+talk to Lucca. You will be asked by her to try out their invention. Step into 
+the left pod. All goes well (by the way, you can try and try the device to 
+your hearts' content). 
+
+Note: If you are in the New Game+ Mode, you'll notice a shining dot in the 
+right pod of Lucca's Device. If you examine it now, you'll fight Lavos right 
+away in the hardest level of the game. You have to fight Lavos ALONE. :) 
+There's a new ending waiting for you if you do this. Check out Ending #2.
+
+Then talk to Marle. When Marle tries the device something wrong happens. Her 
+pendant reacts to the device and a portal or a gate will appear and will suck 
+her into it. Upon regaining control of Crono, step into the left pod and take 
+the pendant. Crono then decides to follow Marle to find out what happened to 
+her. Lucca tells Crono that she will follow them later after she discovers 
+what caused this event. Crono will be sucked into the gate and will travel 
+through time! Now the real adventure of Crono will begin!
+
+TRUCE CANYON (600 AD)
+---------------------
+Item/s:
+   Tonic
+   Power Glove
+
+Upon exiting the gate, you will be greeted by 3 imps. You can easily beat them 
+w/ normal attacks. No problem at all. Head northwest to the next section. You 
+will meet a batch of 2 Imps. It's easy. There are also items that can be found 
+in this area. A Tonic and a Power Glove. When you see imps playing, just pass 
+through them quietly. Don't go near them and they'll not attack you. Just head 
+south to exit to the World Map. You'll see that the place is different from 
+your time, 1000 AD because you're in 600 AD!
+
+GUARDIA KINGDOM (600 AD)
+------------------------
+
+You can visit the residents of Truce Village. You can buy equipments/item from 
+the Market. You can also see Lucca's ancestors in one of the residences here. 
+You can see them forging Leene's Bell (w/c you saw at Leene's Square 1000 AD). 
+After talking to the villagers and buying anything you want, head to the 
+Guardia Forest just south of the Castle.
+
+NOTE: Don't go to the bridge as you can't pass through here yet. Also, don't 
+go to the cathedral yet.
+
+GUARDIA FOREST (600 AD)
+-----------------------
+Item/s:
+   Power Tab
+   Shelter
+
+There are also many item's here. At the first intersection, head left. At the 
+next intersection, w/c is almost right after the first one, head to the lower 
+path. There are two shining dots here. The Northern one contains a Power Tab 
+as for the southern one, you'll just invite 2 Roly riders. After getting the 
+Power Tab head back to the intersection and take the upper path. Don't mind 
+the left path of the first intersection, it will meet with the north path of 
+the second intersection. While walking, you'll notice 2 bushes that are 
+moving. The one on the right will house a monkey-like monster w/c will give 
+you a shelter. You can always exit to the World Map and return here and get 
+another shelter from him and as many time as you like. The other moving bush 
+has monster in it. So ignore it, or fight it for EXP. Next, continue on until 
+you come to another intersection where one path is to the north and the other 
+to the east. Head to the north, the east past only contains a sealed chest. 
+Exit to the World Map.
+
+GUARDIA CASTLE (600 AD)
+-----------------------
+Item/s:
+   Tonic
+   Ether
+   100G
+   Bronze Mail
+
+Upon entering the castle the guards will stop you when suddenly a familiar 
+person will come and lets you pass (it's so obvious who she is). In the throne 
+room, talk to King Guardia XXI. He will give you permission to sleep in the 
+Knight's Quarters that is to the left of the entrance then go down the stairs 
+you'll see. The other path will lead you to the kitchen. After resting, if 
+necessary, head to the throne room and take the right path up to the Queen's 
+Room. On your way up, you'll see a chest with a Tonic. Upon reaching the Room 
+of the Queen, talk to the guard and he will give you access to the room. Take 
+the chest with an Ether first then, head to the queen and talk to her. Then, 
+Marle will feel something then she will disappear! She ceases to exists!
+
+After Marle disappears, head down to the throne room. On the way, you'll meet 
+with Lucca. She will tell you that Marle is actually Princess Nadia of the 
+Guardia Kingdom in 1000 AD. And she was mistaken as Queen Leene therefore the 
+King stopped the search for the real Queen Leene w/c is actually held captive 
+somewhere. Lucca explains that Marle disappeared because Queen Leene will be 
+killed by the hostage-takers because they will think that the King has no more 
+interest in rescuing the Queen in which the king only mistook Marle for her. 
+So Marle do not exist anymore (whaaa!). So your mission now is to look for the 
+missing Queen Leene to save both her and Marle. Before leaving the castle, be 
+sure to take a rest at the Knight's Quarters. Also, to the left of the throne 
+room, there's a set of stairs leading to the Kings room. On the way, you'll 
+find a chest with 100G, then you'll see a sealed chest w/c you can't do 
+anything right now, and finally a Bronze Mail in the King's room. You may now 
+exit to the World Map.
+
+GUARDIA FOREST (600 AD)
+-----------------------
+Item/s:
+   Shelter
+
+There's nothing much here as you have been here already. Just take another 
+shelter then head south and exit to the World Map.
+
+CATHEDRAL (600 AD)
+------------------
+Item/s:
+   Revive           Power Tab       Shelter
+   3 Tonics         100G            Iron Sword
+   Maiden Suit      Speed Belt      Mid-Ether
+   2 Ethers         Defender
+   Steel Saber      Heal
+
+In the World Map, head west to another forest which fortunately, you can pass 
+freely. Enter the Cathedral. Upon entering, it seems like the ordinary church 
+with nuns. But observe the statements of those nuns, they're not nun-like at 
+all. Speak to them all then examine the shining dot at the altar, which is the 
+coral pin of the real Queen Leene. Then, the nuns reveal themselves as Naga-
+ettes and will attack your party. After you beat them, another will come in to 
+surprise Lucca. A Frog will then come to Lucca's rescue. Go with him and name 
+him Frog. After joining, check the organ to open a passageway. Upon entering, 
+ignore the door to your north and head left. Get the 2 chests with Revive and 
+Tonic. Enter the next door you see then head up the stairs and enter the room 
+right after the stairs. Get the Maiden Suit, Tonic, and Ether. Then examine 
+the egg-like thing on the left of the room w/c is a Naga-Ette Bromide. 3 
+Henches will attack you. Beat them then exit the room. Don't go down the 
+stairs, head right then up to a chest with Steel Saber. Head left to the 
+spikes and examine the skull to the left. The spikes will be removed and you 
+can now enter the door. Talk to the guard then take the Shining Power Tab. 
+Exit the room then head back the stairs and go down. Don't enter the door, go 
+left past the Main Hall Way. Head up the next set of stairs. Enter the first 
+door you see and talk to all 3 of the creatures here. Talk to them until the 
+Diablos leaves the room to go to Magus' Statue. Follow it. Upon entering a 
+room, talk to the king, the soldier, and the queen. After talking to them, get 
+the chests for 100G and Ether.
+
+Head to the right door to enter Magus' statue. Get the chests for Speed Belt 
+and Defender Accessories. Leave the 2 rooms. If you try to leave the room of 
+the king, they'll turn to Gnashers and attacks you. Head down the stairs and 
+pass through the Main Hallway and enter the door on top. In the next room, use 
+the Save Point. Head up the stairs, don't enter the door and head left. Get 
+the Chest for a shelter then use the stairs down. Enter the door. In the next 
+room, (with bats) don't examine the Skull because it will invite 2 more bats. 
+Enter the north door. Move on and get the Tonic and Heal inside the chests. 
+Continue left then down one room wherein you'll see another room with a skull. 
+Examine it to lower the spikes. Then, head down one room and go up the stairs. 
+Take the door in the middle (I suggest you save). Defeat the monsters and take 
+the chest for an Iron Sword. Examine the organ to reveal a room on the north 
+side of this area that is beside a note. You can take any of the 2 stairs to 
+reach that door. Upon entering the door, you'll reach another hallway. Follow 
+it then use the Save Point. Enter the Door. Meet the first boss:
+
+Boss:  YAKRA
+#############################################################################
+HP:  900-1000 
+EXP: 50
+TP:  5
+G:   600
+Charmed Item: not possible
+
+To beat him, use Crono and Frog's Dual Tech X Strike to deal a big damage to 
+him. Use items with Lucca to heal everyone. If everyone's HP goes down, Let 
+everyone use Tonics then continue on with X Strike until he dies.
+#############################################################################
+
+////////////////////////////////////////////////////////////////////////
+/ Please take note that the HP of the bosses are my estimates only, I  \
+/ computed the total damage I did to the boss until it died. So, these \
+/ HPs are enough to beat that particular boss.                         \
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+After beating him, get the right chest for a Mid-Ether. Check the other chest, 
+which contains the real Chancellor. Talk to Queen Leene Afterwards then you'll 
+be back automatically to Guardia Castle.
+
+GUARDIA CASTLE (600 AD)
+-----------------------
+
+You'll start off in the throne room with the King, Queen, and the Chancellor. 
+After Frog leaves, talk to Queen Leene. She'll ask you about Marle. Return to 
+where Marle disappeared. After Marle reappears, answer her back with the 
+'Wrong!î Option. I think it also affects a future event. After Marle joins 
+you, go back to the throne room and talk to everyone to hear their reactions 
+about Marle. Then, exit and you'll see Frog. After Frog leaves (again), take a 
+time to rest in the Knight's Quarters for free. Then, exit the Castle to the 
+World Map.
+
+GUARDIA FOREST (600 AD)
+-----------------------
+Item/s:
+   Shelter
+
+Again, take the Shelter from the monster! Exit to World Map. It's now time to 
+return to the present time.
+
+TRUCE CANYON (600 AD)
+---------------------
+
+Go to Truce Canyon and go to where the portal is. Lucca will show off his gate 
+key that can open these portals so it can be used if needed. You'll then 
+teleport back to Leene's Square 1000 AD.
+
+LEENE'S SQUARE (1000 AD)
+------------------------
+
+Once back, Lucca will leave and Marle will ask you if you can escort her home. 
+After regaining control of your characters, you can play with the games as 
+much as you want, then afterwards exit to the World Map.
+
+Note: If you're in the new game+ mode, you can examine the shining dot in the 
+right pod of Lucca's Device to fight Lavos. You'll fight Lavos with Crono and 
+Marle only. The ending here will be quite amusing. Check out Ending #3. 
+
+MARKET (TRUCE VILLAGE 1000 AD)
+------------------------------
+
+You'll find new equipments here to buy them if you have the G. Exit to the 
+World Map.
+
+MAYOR'S MANOR (1000 AD)
+-----------------------
+Item/s:
+   300 G
+
+Head to the Mayor's Manor and talk to the Mayor on the second floor. He will 
+not only give you hints but also a small amount of 300G. Return to World Map 
+and go to Guardia Forest.
+
+GUARDIA FOREST (1000 AD)
+------------------------
+Items/s:
+   Power Tab
+
+Here, you'll not see the Monster that carries a shelter. You'll face some new 
+enemies here also. There some new items here also. In the place where you 
+found 2 shining dots, a new Power Tab can be found shimmering near the trees 
+to the left. You can now exit to north because there aren't any more items 
+here.
+
+GUARDIA CASTLE (1000 AD)
+------------------------
+Item/s:
+   3 Ethers         1500G
+   8 Mid-Tonics
+   Bronze Mail
+   2 Shelters
+   Lode Sword
+
+Upon entering you'll be greeted with a very cold greeting from the Chancellor 
+of this castle. He will think that you kidnapped the princess. You will be 
+detained and taken to court. In this court scene, your verdict will be based 
+on what you did to the princess and the people at Leene's Square. Remember 
+those things that would affect a future event? This is that particular event. 
+Again, your verdict will be based on a couple of things:
+
+1. After you bump into Marle, check on her first before taking the pendant.
+2. Don't talk Marle into selling her pendant to Melchior (equipment shop).
+3. Don't take the old man's pack of food.
+4. Bring the kitty back to the young girl.
+5. Wait for Marle to finish buying her candies.
+
+When the Chancellor asks you who started it, tell him it was you. Then when he 
+asks you if you were tempted with her fortunes, tell him 'noî and 'not at 
+allî. With this, you'll be proven innocent. But it's just the same if you were 
+guilty. Here's what will happen. If you are innocent you'll be given a maximum 
+penalty of 3 Days Solitary Confinement (the Chancellor with stir up the system 
+and tells the guard that you will be executed even if you are innocent. He 
+wants Crono dead). If you are proven guilty you'll be detained and executed 
+within 3 days. 
+
+In the detention cell, you'll find a cup which will restore your all your HP 
+and MP. If you are innocent, there will be a pack that will contain an ether. 
+You can also use the Save Point. Now, don't go near the door. Just stand still 
+and WAIT for three days to pass. If you irritate the guards they will attack 
+you and you're free but you will only be able to meet Lucca before the Boss. 
+If you wait for 3 days, you will be brought to the execution room. When the 
+guillotine is ready, Lucca will come in and save you. You can now use Lucca 
+until you reach the boss. She can gain EXP so the boss will become easier. 
+Here's the description of the 2 ways on how you can reach the boss:
+
+1. If you break you way out
+   After defeating the Guards, leave the detention hall. You'll arrive at a 
+place where there are 4 stairs. First, don't mind the 2 enemies here just pass 
+by them. Just head to the lower right stairs the continue on until you see a 
+guard. Beat him and examine the switch to open the room. You'll find Mid-Tonic 
+x2, Ether x2. Leave the area and return to the 4-stair room. On your way out, 
+you'll see Omnicrone. Just deal a certain amount of damage (218 HP) to him and 
+he'll escape. Then, move on and beat those 2 Blue Shields to gain access to 
+the 2 stairs. The strategy is simple, wait for them to show their bodies then 
+slash away with your sword. Don't go to the upper left stairs because you'll 
+only have a fight here. So, head to the upper right stairs. On the small 
+bridge, 2 guards'll attack you. They're easy. Beat them and move on until you 
+reach an intersection. Head left and beat another Guard to enter the execution 
+room. Help the man in the Guillotine and he'll tell you about his shop at 
+Truce Village. Then, get the chest (Mid Tonic) and examine the switch to the 
+north to open the door. Move north and get the chest for a Bronze Mail. 2 
+Decedents will attack you. Beat them then return to the intersection and head 
+north. Move on until you reach the second 4-stair room. Head to the lower-left 
+stair first and get the chest with a shelter in the right room. Head back to 
+the 4-stair room and beat the Blue Shields again. Head to the upper left stair 
+and exit through the hole in the second room. You'll now be at the walls of 
+the castle. You can now reach the chest, in which its room cannot be opened, 
+for a shelter. There will be another hole in the ground. Get in and get the 
+chests below for a Lode Sword and 1500G. You can return up by examining the 
+wall where you climbed down. After getting the chests, return to the second 4-
+stair room. Head to the upper right exit now. Move on until Lucca saves you. 
+You can now see a save point and the Manual which gives info about your next 
+boss. Read it then SAVE. Examine the Supervisor whom Lucca Blasted. You'll 
+receive 5 Mid Tonics. Go to 'Continuation (Trial)î..
+
+2. If you waited for 3 days to pass
+   If you waited for 3 days, you will be taken to the execution room. Just 
+before you are executed, Lucca comes and saves the day. Upon regaining control 
+of your characters, get the chest for a Bronze Mail. Head down to the next 
+room and save the man from the Guillotine. He'll tell you about his shop at 
+Truce Village. Next, get the chest for a Mid tonic then leave the execution 
+room. In the intersection, head left first. Move on until you reach a 4-stair 
+room. Don't worry about the upper left stairs. You'll only see an enemy there. 
+Now, beat those 2 Blue Shields. The lower left stairs will lead you to the 
+detention cell of Crono. You can restore your HP/MP by using the cup and save 
+the game! Next, return to the 4-stair room and head down the lower-right 
+stairs. Move on until you see a door. Beat the guard and open the door. 
+Inside, you'll see 4 chests with Mid-Tonic x2, Ether x2.  Return all the way 
+to the execution room. On the way, you'll have to fight Omnicrone. Just deal 
+exactly 218 HP damage to him and he'll escape. When you reach the intersection 
+near the execution room, head north. Move on until you reach the second 4-
+stair room. Head to the lower-left stair first and get the chest with a 
+shelter in the right room. Head back to the 4-stair room and beat the Blue 
+Shields again. Head to the upper left stair and exit through the hole in the 
+second room. You'll now be at the walls of the castle. You can now reach the 
+chest in which its room cannot be opened for a shelter. There will be another 
+hole in the ground. Get in and get the chests below for a Lode Sword and 
+1500G. You can return up by examining the wall where you climbed down. After 
+getting the chests, return to the second 4-stair room. Head to the upper right 
+exit now. Move on until you see a save point and the Manual which gives info 
+about your next boss. Read it then SAVE.
+
+Continuation (Trial)...
+After saving and using a Shelter if necessary, head up the stairs you see. On 
+the way, the ground will shake. Move on and meet the Boss:
+
+Boss:  DRAGON TANK
+#############################################################################
+Dragon Tank HP: 300 
+Head HP:        700 
+Grinder HP:     700 
+EXP: 40
+G :  500
+Charmed Item: Not possible
+
+Destroy the head first as it has the ability to restore HP to all parts of the 
+Tank. Destroying will ease the battle. Kill the grinder then the body. You 
+cannot use Lucca's Fire Techs as it will be use if the head is still there. 
+You can use Crono's Cyclone to damage every part of the Tank making it a bit 
+easier to beat.
+#############################################################################
+
+After destroying the tank, the bridge will collapse. Don't worry, the 
+chancellor will lend you a hand. Move on. Get the chest along the way, it 
+contains shelter. When you see 2 guards, walk past them then head to the 
+entrance of the castle. The guards will stop you, but eventually Marle will 
+reason out to her father and joins you in leaving the castle.
+
+GUARDIA FOREST (1000 AD)
+------------------------
+
+After entering the forest, the guards will quickly catch up with you. They got 
+you cornered and there's no way out except to the right. Run to the right and 
+you'll see a gate. Just before you get captured again, examine the gate and 
+you'll be able to escape.
+
+BANGOR DOME (2300 AD)
+---------------------
+
+You'll arrive at an unfamiliar place, which is advanced in Technology. Your 
+party will notice that you're now in the future. There's nothing to do here so 
+leave the Dome and exit to the World Map. And head south and enter Trann Dome. 
+Take into consideration that if you stay too long on the world map, your 
+characters' HP will slowly deteriorate until it becomes 1. So, if you think 
+you already spent too much time on the World Map, go inside into any of the 
+domes then come back out to prevent HP loss. 
+
+TRANN DOME (2300 AD)
+--------------------
+
+You can buy items and equipments here. You can also use the Enertron, which 
+will recover your HP and MP completely. Use it as you please. After doing 
+these, there's nothing else left to do so leave the Dome.
+
+LAB 16 (2300 AD)
+----------------
+Item/s:
+   Berserker
+   Lode Sword
+   Lode Bow
+   Ether
+
+Head north in the world map past Bangor Dome and enter Lab 16. There are a few 
+items here. Just beware of the rats, they will steal Tonics from you if it 
+touches Crono while running/walking. You can get a Berserker when you go all 
+the way to the left after entering the Lab entrance near Bangor Dome. On the 
+way, you'll see a chest containing another Lode Sword. Now, move on. Again, 
+you'll see another chest that is in the way of a running rat. Time it right 
+that you reach the chest right after the rat runs the opposite way. You'll get 
+a Lode Bow for Marle. Move on and you'll meet a group of shadows. After you 
+beat the 3 Shadows, ignore the big plant-like creature and head south to get 
+the chest for an ether. Now, move on and head northeast. You'll have to fight 
+the Mutant that you'll see here. After beating it, exit to the World Map.
+
+ARRIS DOME (2300 AD)
+--------------------
+Item/s:
+   2 Mid-Ethers
+
+Head to the Arris dome and enter. You'll see a small group of people inside. 
+Their leader is the Old Man Doan. After talking to the people, save and buy 
+from the kid if necessary. You may also use the Enertron to save shelters. 
+Now, speak to Doan and he'll tell you that they cannot get the food from below 
+because of the robots. Head to the ladder you see which is in the middle of 
+the room. Upon entering, you'll see 2 consoles wherein the one to the right is 
+shining. Ignore it for now and climb up the ladder to the left. There's a very 
+simple maze here. You have to cross the steel planks to get to the other side. 
+When you see a rat, ignore it for now. Here's the direction where you should 
+go through the planks to reach the top if ever you didn't get it. First 
+intersection, right. second Intersection, up. Third intersection, right then 
+fourth intersection, up. On the fifth, turn left. Sixth Intersection, left. 
+Seventh intersection, head up. Eighth intersection, head right then finally, 
+head north. You'll reach a room with an alarm. Continue walking/running north 
+and another boss will stop you:
+
+Boss:  GUARDIAN and 2 BITS
+#############################################################################
+Guardian HP: 1300
+Bit HP:      200 each
+EXP:   300
+*TP:   -
+G:     1000
+Charmed Item: Not possible
+
+Try to kill the 2 bits first as they will launch massive attacks like the 
+Amplifire attack. When you beat the 2 bits, the Guardian will start a 
+countdown. When it reaches 0, the 2 bits will re revived. He's not easy at the 
+same time not hard. In short, average difficulty. You can beat them by 
+physical attacks and Single or Dual Techs.
+
+New Strategy: from (Stephen - stephen4188@yahoo.com)
+
+To prevent the Amplifire Attack, destroy one of the 2 bits. Doing this, they 
+cannot perform the Amplifire Attack. The guardian cannot Revive the single Bit 
+until both of them are destroyed. So, destroy one bit and concentrate your 
+attacks at Guardian. 
+#############################################################################
+
+After beating the Guardian, head north. Your party will see a deceased man. 
+After regaining control of your characters, examine the man again and you will 
+now know that the rat, which was at the Steel Planks, is not a statue. Get the 
+chest for a Mid-Ether. Head back to the Planks. You'll see the rat. Now, try 
+to run as fast as you can and catch it. When you think it's near enough, hit 
+the A button to catch it. He will tell you that, to gain access to the door 
+way back in the entrance (the place with 2 consoles), stand in front of the 
+shining console, hold the L and R buttons then press A. Remember that YOU MUST 
+talk to the rat first in order to move on. You won't be able to use the code 
+at the console if you didn't talk to the rat in the first place.
+
+Now, go back there and do it. When the new path comes up, you can now enter 
+the right door. Upon entering, don't go up to neither of the ladders instead, 
+head north past the monsters to reach a chest with a Mid-Ether. Now head back 
+and walk down the stairs to the left. At the end, walk down the stairs. Move 
+on until you see another set of stairs. Walk up the stairs and head north to a 
+door. In here, you can actually take any path you like whether take the stairs 
+or take the right route. When you reach the first Proto 2 (the robot, not the 
+spider looking ones), head left and walk up the stairs. Move on until you 
+enter a room with a monitor and a console. Lucca will operate it and you'll 
+see the location of the other gate. You will also be shown the Day of Lavos 
+1999. When the characters talk to each other, select 'Okay!î. Once outside the 
+monitor room, you'll see another console to your right. To reach it, head to 
+the place where you saw the first Proto 2 then go north ignoring the ladder. 
+Upon reaching it, use the LR + A button code you used to enter this place. It 
+will make a path to the sealed door but you can't do anything as of now but 
+when you come back here later, you won't have to do it anymore. Now, head back 
+to where Doan was. He'll be amazed that you survived below. You will give him 
+the seeds you found from the deceased man and he will give you a Bike key you 
+can use later at Lab 32. Use the Enertron, save or buy items if necessary, 
+then head out to the World Map.
+
+SEWER ACCESS (2300 AD)
+----------------------
+Item/s:
+   600G
+   Rage Band
+   Bolt Sword
+
+If you want to make it easier when you come back here later I suggest you head 
+left to the Sewer Access. You have to activate the bridge here so that you can 
+have easy access later. Inside, a guard will pass by. After regaining control, 
+head right, defeat the enemies and get the chest for 600G. Then, head all the 
+way to the left until you see a scene with two frogs talking to each other. 
+Follow them down the ladder. Below, head right. You will see a cat. If you 
+examine it, you'll have to fight 3 Nereids. Move on. You'll then see a can and 
+a trash bin. If you examine either of them, you'll fight 4 Nereids. Next, 
+you'll see a slice of cheese. If you examine it, you'll have to fight 2 
+Nereids and a rat. Move on. Next, you'll see a save spot. If you examine it, 
+you'll fight 3 Nereids. Finally, climb up the stairs. Above, you'll see a gap 
+between a bridge and another bridge to your left. Ignore the bridges and head 
+north. You'll see a slight opening in between the wall. Go through here to 
+reach a switch, which will open the opposite door. Head back then up. Continue 
+pressing the Up Key until Crono Stops. You'll now be able to head right. When 
+you see that Crono stops, head down through that door. You'll see another 
+scene with the 2 frogs. Anyway, just head right then up to get a Rage Band 
+from the chest. Now head right to meet:
+
+Mini-Boss:  KRAWLIE
+#############################################################################
+HP:    550
+EXP:   100
+*TP:   - 
+G:     500
+Item:  Mid-Ether
+Charmed Item: Mid Ether
+
+He is so easy. You can beat him with your eyes closed while pressing the A 
+button continuously.
+
+* - I haven't seen it... yet.
+#############################################################################
+
+After beating Krawlie, move on until you see a ladder. Go past it fast and get 
+the chest for a Bolt Sword. Then, press the switch to fill the gap and the 
+bridge will now be accessible. Now, don't go back to climb the ladder. 
+Instead, cross the bridge you just activated and you'll notice that you've 
+been here already. Now head all the way back to the ladder which you used to 
+enter this area and exit to the World Map. Note: The ladder at the end will 
+send you to the World Map but it is on a remote island. You can find the 
+Keeper's Dome and the Death Peak there. But you don't have to go there yet.
+
+LAB 32 (2300 AD)
+----------------
+Item:
+   Race Log
+
+Now, head north to Lab 32. In the lab, head north and examine the Jet Bike 
+(you will automatically use Doan's Bike key on it). 4 Proto 2s will attack 
+you. fortunately, Johnny will come and stop the robots from attacking. 
+Instead, he'll challenge you to a race through Lab 32. you must beat him in 
+order to reach the end of Lab 32. Here's a tip. You can just sit back and 
+watch until you are close enough to the finish line and push that B Button for 
+a speed boost. You only have 3 boosts and you must use it only if you are in 
+front of Johnny. He will always try to stay in front of you so watch out. 
+Again, if you win, you'll be at the end of Lab 32. but if you lose, don't 
+worry. You can always challenge him to the race or you can ignore him and just 
+walk/run through Lab 32. I recommend walking because you'll gain experience in 
+the process and an item along the way. You can get the race Log item that will 
+record the scores you get every time you race Johnny. At the start of the race 
+your score will start from 0 and will increase during the race. But, if you 
+managed to stay in front and not allow Johnny to even get beside you, when he 
+bumps your back you'll receive points. But if Johnny is in your front and you 
+bump into him, you'll lose points. Anyway, once you reach the end in any 
+manner you like, exit to the World Map.
+
+PROTO DOME (2300 AD)
+--------------------
+
+In the World Map, don't go to the factory yet. Head to Proto Dome first. 
+Inside just move on and use the Enertron if you like. When you see a Robot, 
+Lucca will repair it. Then, you can name R66-Y as Robo (any name will do, 
+we'll just use Robo for the sake of the walkthrough). Then, you'll tell him 
+that you need to get to the gate to be transported back to 1000 AD. He will 
+agree to help you in turn for fixing him. Choose from Marle or Lucca who will 
+stay behind. As for me, I left Lucca the first time I played because Marle has 
+Curative Magic. Once Robo joins your party, leave Proto Dome and head to the 
+Factory up north.
+
+FACTORY (2300 AD)
+-----------------
+Item/s:
+   2 Shelters    Robin Bow
+   Titan Vest    Plasma Gun
+   Hammer Arm    2 Ethers
+   400 G         Mid Ether
+   Bolt Sword
+
+Inside, examine the console that you'll see there and Robo will deactivate the 
+laser in front of the conveyor belts so that you can continue on. Kill the 
+acid that shows up. Use the conveyor belt and use the right elevator first.
+
+In here, there are 2 ladders to the south. Go to the ones on the left and get 
+the Robin Bow at the end. After getting the Robin Bow, go back up the ladder 
+and then use the other ladder to the right. Here, move on until you see a door 
+and the conveyor belt. Now, walk to ON the conveyor belt and go to the left. 
+Try to evade the Proto 3s here because if they were able to you, you'll be 
+taken to another conveyor belt. Now, continue walking to left on the conveyor 
+belt. Get the chest for an Ether on the way. After getting the ether, continue 
+going left and enter the door to the south at the end. In the next area, just 
+move on and enter the door. Next, go to the top of the screen for a Mid-Tonic. 
+And then, go left a bit and enter the door to the north. Here, get the 2 
+chests for 400 G and Mid-Ether. Now, examine the computer and it'll tell you 
+about the crane controls. Leave this room. Go left from the door and enter 
+another new room to the left. 
+
+Inside, get the 2 chests for a shelter and an Ether. Now, exit through the 
+lower left door. You'll be able to control the crane. You have to push 2 
+buttons in order to command the crane. First, press B and then A and the crane 
+will remove the barrel. Second, press X and then A and the crane will remove 
+another Barrel. Now, go back to the previous room. Then, use the ladder to the 
+left of the door you just came through. You can pass now as the barrels are 
+gone. At the end, enter the room and get the Bolt Sword from the chest. Then, 
+examine the computer and it will translate the password 'ZABIEî into 'XABYî 
+meaning, you have to press X A B Y (you'll see what I mean later). Now, leave 
+this room and go all the way to the right (don't go up the ladders on the way 
+just use the ones at the end). After getting the items and knowing the clue to 
+the password, leave this area and head back to the first room here in the 
+Factory, then use the left elevator.
+
+Below, there is a save point. You can also head north to a chest containing a 
+shelter. After beating the Acid and Alkalines, examine the computer to open 
+the hatch right below the chest and reveal a ladder. Head down. Move on until 
+you see a laser. Enter the door that you see. You can pass through the wall on 
+the left to reach the chest containing another Titan Vest. Then, head right 
+for another chest containing a more powerful arm for Robo, the Hammer Arm. 
+Now, examine the computer beside the 4 lasers. It will deactivate all lasers 
+in the factory. But you have to survive the fight against acids and alkalines. 
+Now head to the elevator to the right of this area. If you select up, you'll 
+be brought to the floor with the save point you saw earlier. Save if you want 
+to then head to the lowest floor. Here, ignore the ladder to your left. It 
+will lead you back to the computer room where you turned off the lasers. So 
+follow the hallway north. There is a locked door. There is also a chest 
+containing a Plasma Gun for Lucca. To open the door you have to press a 
+sequence of buttons. The clue is 'Zabieî. If you pronounce it, you'll see that 
+it is equivalent to the buttons 'XABYî. So punch X,A,B,Y. The door will open. 
+Head north then push the switch. The emergency system will activate. You're so 
+lucky that you weren't trapped in. After regaining control of your characters, 
+use the ladder as the elevators are shut down. On the way, you will encounter 
+Robo's past friends. These robots will beat up Robo pretty badly. Now you have 
+to fight all 6 of them. Together, they are a single boss.
+
+Boss:  R SERIES
+#############################################################################
+HP:   300 each
+EXP:  480
+*TP:  -
+G:    600
+Charmed Item: not possible
+
+It's not that hard. Just use Crono's Cyclone to damage more Robots in one 
+turn. If you have Marle, have her attack but let her heal the both of them if 
+their HP runs low. If you have Lucca, use her flame attacks and if your HPs 
+are low, let her use Tonics or Mid Tonics.
+
+* - Because my party members have complete Single Techs, the amount of TP 
+gained is not shown. I'll include this in the next update.
+#############################################################################
+
+After you beat them, whoever is in your party will get Robo and you will 
+automatically go to Proto Dome. You'll actually see you party members carry 
+Robo to Proto Dome. 
+
+PROTO DOME (2300 AD)
+--------------------
+
+Lucca will repair Robo once more then Robo will officially join your party. 
+The door is now open and your party will now use the Gate.
+
+END OF TIME
+-----------
+
+You will arrive in an eerie and dark place. Move on through the door and 
+you'll meet up with the an Old Man. He'll tell you that you are at the end of 
+time. And that happened because you are in a group of 4. Only a group of 3 can 
+use the gate at a time. He'll also tell you that the pillars of light you saw 
+a while ago connects to different times. After regaining control of your 
+characters, you may restore you HP/MP if you examine the shining dot near the 
+save point. Don't try to use the other shining dot as this one leads directly 
+to the last boss of the game, LAVOS (if you examined the bucket and defeated 
+Lavos, you'll get Ending #4). I'm absolutely, perfectly, undoubtedly sure that 
+you are not prepared to fight him (unless you're in the New Game+ mode or you 
+played for DAYS leveling up your characters to 40+). Let's move on. Head back 
+to the pillars of light. On the way, the Old Man will call your attention. 
+Talk to him and he'll tell you to take a peek on the next room. Inside, you'll 
+find Spekkio the Master of War. His form will depend entirely upon your 
+levels, more to that later. Talk to him and if he asks you a question, answer 
+'Strong!î. He'll the tell you more about Magic. That it was used years before 
+Crono's time. He'll teach you how to use Magic if you WALK around the room 
+clockwise 3 times. WALK, don't hold the run button. After walking around 3 
+times, talk to him again and he'll give you the power of magic. 
+Crono/Lightning, Lucca/Fire, Marle/Ice, Robo can't use Magic but Spekkio will 
+tell him that his laser attacks have a little Shadow Magic. Then he'll ask you 
+if you want to try it out. If you win, you'll receive items. 
+
+Here are the items you can get by beating him:
+
+Level 1 - 19     Special Refresher: 1 Magic Tab, 5 Ethers
+Level 20 - 29    Choice: 1 Magic Tab, 5 Mid Ethers
+Level 30 - 39    Healthy Choice: 1 Magic Tab, 5 Full Ethers
+Level 40 - 98    Graceful: 1 Magic Tab, 1 Speed Tab, and 1 Power Tab 
+Level 99         Cheerful: 10 Magic Tabs, 10 Speed Tabs, 10 Power Tabs,
+                 and 10 MegaElixirs
+(Thanks to Brandon Boucher: TheDOORS66@aol.com for the info)
+
+If you didn't win, don't worry, your HP/MP will be restored. After fighting 
+him, return to the Old Man and talk to him. He'll tell you that you have to go 
+to your own time first to be able to change what you want. So go to the light 
+pillars and go to Pillar #6 to Medina Village 1000AD. Here's the sketch of the 
+Pillars:
+
+  #1    #2    #3
+
+  #4    #5    #6
+  
+  #7    #8    #9
+
+Locations and Time:
+1 - Bangor Dome (2300 AD)
+2 - Tyran Fortress (65,000,000 BC)
+3 - Truce Canyon (600 AD)
+4 - Mystic Mountains (65,000,000 BC)
+5 - Proto Dome (2300 AD)
+6 - Medina Village (1000 AD)
+7 - Leene's Square (1000 AD)
+8 - Earth Bound Island (12,000 BC)
+9 - Guardia Forest (1000 AD)
+
+If you use the bucket, the Old Man mentioned, you'll fight Lavos. The final 
+boss. If you did, you'll get ending #4. If you don't want to fight yet, or if 
+this is just your first game, don't examine it.
+
+MEDINA VILLAGE (RESIDENCE  1000 AD)
+-----------------------------------
+
+You'll be transported to a residence of a Mystic in Medina village. When you 
+try to exit, the Mystic will tell you that there is a man who lives west of 
+their place. So head out to the World Map. Before leaving, you can examine the 
+cake here. The mystic will offer it to you. If you accept, it will replenish 
+the HP and MP of your Team Members. 
+
+MEDINA SQUARE (1000 AD)
+-----------------------
+
+Go to Medina Square in the middle of the village. Here you'll learn fact about 
+what happened years ago in the war of the Mystics vs. humans. Just came here 
+to learn, that's all. The game won't be exciting without the story right? Go 
+back to World Map again.
+
+EDLER'S HOUSE -MEDINA VILLAGE(1000 AD)
+--------------------------------------
+Item/s:
+   Speed Tab
+   Magic Tab
+
+Go to the Elder's House. First, get the shining speed Tab in the kitchen. Now, 
+go to the second floor of the house to get a shining Magic Tab on the desk. 
+Then, head back out to the World Map. If you want to sleep at Medina Inn, you 
+have to fight the Hench and the Diablos first. Pay 200 G afterwards.
+
+MARKET -MEDINA VILLAGE(1000 AD)
+-------------------------------
+
+When you enter the Market, the Mystics will attack you then they will allow 
+you to buy from them. But look at that Price, it's unbelievable. I've got 
+outrageous prices. All the Equipments are at Maximum, 65,000G EACH. The Tonic 
+is at 2,440G, Revive at 48,800G! I guess this is random, or the battle might 
+have an effect. If you're so strong that you can beat the two with one slash 
+each (i.e. New Game+), the higher the price will be. If you're quite weak and 
+took a few hits, the price will be lower. I've seen also some of the prices. 
+The Tonic is at 470G, 1100G. I suggest that you don't buy anything because you 
+can't afford it. Just head back out to the World Map.
+
+FOREST RUINS (1000 AD)
+----------------------
+Item:
+   Mid Ether
+
+Go to the Forest ruins, which is like a triangle to the north. Just get the 
+chest with a Mid Ether then head back out to the world map.
+
+MELCHIOR'S HUT (1000 AD)
+------------------------
+
+Go all the way to the east to Melchior's Hut. You'll notice that he is the 
+weapons merchant at Leene's Square when you started the game, if you don't 
+know him. You can buy weapons from him at reasonable prices. After buying 
+weapons, if necessary, go north to Heckran Cave.
+
+HECKRAN CAVE (1000 AD)
+----------------------
+Item/s:
+   2 Ethers
+   Magic Scarf
+   Mid Ether
+
+Upon entering, 2 Henches will attack you. After beating them, move on until 
+you see a ladder. Climb down the ladder and get the Ether inside the chest. 
+Continue heading down then move on. On the way, a Jinn Bottle and 3 
+Octoblushes'll attack you. After beating them, move on. 2 Tempurites will 
+attack you on the way. If you observe carefully, you'll notice that most of 
+them are unsusceptible to physical attacks so use Magic instead. When the path 
+splits in to 2, head to the south. Fight 3 RolyPolys and get the chest but 
+just before you do that, 3 Cave Bats'll attack you. Get that Magic scarf after 
+beating them. Return back to the intersection and take the upper path. Take 
+another chest that contains a Mid Ether. Move north until you reach another 
+chest that contains an Ether. Now head south. Defeat the 4 Tempurites and head 
+south to the next area. Now fight against 4 more Rolypolys. Now head left and 
+fight those Cave Bats. Now enter the passageway you see. Fight another batch 
+of enemies with a Jinn Bottle and 3 Octoblushes. Move on. You'll see a black 
+chest here but you can't do anything to it now so enter the passageway to the 
+north. When you reach the waterway, head right. You'll eventually reach a 
+ladder. Climb up and use that save point. Prepare yourself to battle against:
+
+Boss:  HECKRAN
+#############################################################################
+HP:   2200
+EXP:  250
+TP:   10 
+G:    1500
+Charmed Item: not possible
+
+He's a little hard. Physical attacks won't do well so stick to your magic. 
+When he tells you to attack him, don't. Just stall for a moment until he stops 
+that attacking pose. If you attack him during his pose, he will counter attack 
+with Water Wave, which you don't want to happen. You can beat him on your 
+first try though. Just keep on healing.
+#############################################################################
+
+After beating him, Lucca suggests that you use the Gate at Leene Square. So 
+head north until you see a small pool of water. Jump in. You will be 
+transported near Lucca's House through a giant whirlpool. Go to Lucca's House.
+
+LUCCA'S HOUSE (1000 AD)
+-----------------------
+Item:
+   Taban Vest
+
+Go to the second floor of the house using the right stairs. Talk to Lucca's 
+Mom. Wait until Taban comes in and gives his earnings to Lucca's Mom. After he 
+leaves, return to the Living room and talk to Taban. He will give Lucca a 
+special armor he made himself. The Taban Vest. Return to the World Map.
+
+MARKET (TRUCE VILLAGE 1000 AD)
+------------------------------
+Item:
+   10 Mid Ethers
+
+If you saved Fritz back at Guardia Castle during the execution of Crono, if 
+you talk to him here, he'll give you 10 Mid Ethers for your help. After 
+buying, if necessary, return to the world map.
+
+LEENE'S SQUARE (1000 AD)
+------------------------
+
+Go to Leene's Square and use the Gate where Lucca's invention is. You'll end 
+up at the End of time. Note that you will always pass through here whenever 
+you use ANY of the gates.
+
+END OF TIME
+-----------
+
+Here, you can restore your HP/MP, Save and change party members. You will also 
+notice that pillars #3 and #7 are now accessible. Use pillar #3 to Truce 
+Canyon 600 AD.
+
+When you arrive at Truce Canyon. GO BACK to the End of Time and beat Lavos now 
+and achieve ending #5. Do this only if you are at Levels 40 and above or if 
+you're in the New Game+ mode. If not, move on.
+
+ZENAN BRIDGE (600 AD)
+---------------------
+Item:
+   Shelter
+
+Leave Truce Canyon. In the World Map, you'll notice that Zenan Bridge is now 
+complete. But there seems to be a problem so enter Zenan Bridge. Here, talk to 
+the Knight Captain and he'll ask you if the rations from the castle are on the 
+way. So, go to Guardia Castle. Remember to take that free Shelter on Guardia 
+Forest.
+
+GUARDIA CASTLE (600 AD)
+-----------------------
+Item/s:
+   Ether
+   Jerky
+   Power Tab
+   Shelter
+
+Upon entering, head to the right at once and down the stairs to the Kitchen. 
+Find the chef who is running all around. Talk to him then take the somewhat 
+camouflaged chest beside the pot for an ether. Now head back to the entrance. 
+On the way, the chef will call you and will give you the Jerky so that you can 
+give it to the army fighting at Zenan Bridge. You'll also be given a power 
+tab! Now head back out to the world map and head to Zenan Bridge. Again, get 
+that shelter from the monster in the forest. This will be the last time I 
+shall remind of this. You can stock up on as many shelters as you want, just 
+keep on leaving and coming right back in the forest.
+
+ZENAN BRIDGE (600 AD)
+---------------------
+Item:
+   Gold Helm
+
+Once there, give the Jerky to the Knight Captain. Suddenly, one of the 
+soldiers will come and tell the Captain that Magus' troops are breaking 
+through. After regaining your characters, talk to the Captain and tell him 
+that you agree to help them. He will give you a Gold Helm after agreeing. Now 
+head left to the bridge and prepare for battle. Here, you'll be introduced to 
+Ozzie, Magus' general. He'll summon 2 deceased and you'll have to fight them. 
+To make the battle short, attack Ozzie instead. He'll loose his control over 
+the deceased and will run away. After that, head left for another fight, now 
+with 3 Deceased. Beat them, and prepare yourself for a boss.
+
+Boss:  ZOMBOR
+#############################################################################
+Upper Body HP:  1300
+Lower Body HP:  1000
+EXP:   350
+TP:    10
+G:     1500
+Charmed Item: not possible
+
+He's not that hard. I simply attacked the upper part of his body. But beware! 
+After you beat the upper body, he'll use MP Buster that will steal ALL MPs 
+from one of your party members. For the lower body, it can tolerate physical 
+attacks better than the upper body. So, use Crono's Lightning Magic or Lucca's 
+Fire Magic to deal a good amount of damage. After you beat both of the parts, 
+you win! Duh!
+#############################################################################
+
+After beating Zombor, continue moving left and you'll exit to the world map in 
+the Village of San Dorino. You can but items from the Market also if you need 
+them. Go to the Elder's House.
+
+ELDER'S HOUSE -SAN DORINO(600 AD)
+---------------------------------
+
+After you enter, you'll eavesdrop on the chief and a man named Toma talking 
+about a 'Rainbow Shellî which can create reflective armors that are very  
+strong against magic.  Now, return to the World Map and head to the residence.
+
+RESIDENCE -SAN DORINO(600 AD)
+-----------------------------
+Item:
+   Magic Tab
+
+Talk to the people here if you like. You'll find a shining dot in the drawer 
+but it is locked. Talk to the Old Man that you see and he'll trade your Naga-
+Ette Bromide for a Magic Tab (Thanks to Lorne Dixon for the Info), it's on the 
+drawer with the shining dot. Exit to the World Map for now.
+
+FIONA'S VILLA (600 AD)
+----------------------
+Item/s:
+   2 Mid Ether
+
+Go to Fiona's Village in the middle of the desert. Talk to her then take the 2 
+chests for 2 Mid-Ethers. Return to the World Map again.
+
+CURSED WOODS (600 AD)
+---------------------
+Item/s:
+   Shelter
+   Mid Tonic
+   Magic Scarf
+
+Now go south a bit then head left through the trees and enter the Cursed 
+Woods. In Cursed woods, you can find a Mid-Tonic, a Shelter inside 2 chests. 
+Now, head all the way to the north and move behind the bush where a frog came 
+out. Enter it, it is a ladder. Below, you'll see Frog. Talk to him a couple of 
+times until he says 'The hero I am not, I can do naughtî. Now go to the pot on 
+the upper right portion of Frog's place. Examine it go get another Magic 
+Scarf. Head back out to the World Map.
+
+MARKET -PORRE(600 AD)
+---------------------
+Item:
+   Power Tab
+
+You can go to the Market that is right beside the Inn. You can buy an armor 
+and a helmet here. You can also find a shining Power Tab to the left. Get it 
+then head back out to the World Map.
+
+PORRE VILLAGE (600 AD)
+----------------------
+
+You can also head to the different houses to learn more info about Tata, the 
+supposed Legendary Hero with the Medal. After learning that he moved north, 
+return to the World Map and head north to Denadoro Mountains. Note, don't go 
+to the Magic Cave yet because you don't have the Masamune. We'll go there 
+later.
+
+DENADORO MOUNTAINS (600 AD)
+---------------------------
+Item/s:
+   Ether          600G
+   2 Revives      2 Mid Tonics
+   500G           Silver Stud
+   4 Mid Ethers   Silver Erng
+   300G           Magic Tab
+   Shelter        Broken Masamune
+   Hero Medal     MirageHand
+
+Bring Lucca with you. You'll need her fire magic in this place. Upon reaching 
+a ladder, you'll see a kid who is being chased by a Goblin. After beating the 
+goblin an Ogan will come and attack you. With the hammer, his defense rises 
+both physically and magically, but if you use any of Lucca's Fire Magic, the 
+hammer will burn and you now have a helpless little goblin. Now, don't go up 
+the ladder yet. To right and go up the stream onto the next area. Here, you'll 
+see a sleeping Ogan on the top. You'll be able to get a chest here that 
+contains Robo's MirageHand. After getting the weapon, go back to where you saw 
+the Kid.
+
+Climb the ladder. In this area, there's a sleeping goblin. Don't come near 
+him. Instead, move up slowly until the Goblin is lined up with Crono so you 
+can get the chest to the left. Here's the diagram if you need it:
+
+    Chest ----------- Crono ----------- Sleeping Goblin
+                        |
+                        |
+                      ladder
+
+After aligning the three, push the left button on the Direction-pad to reach 
+the chest on the left for an ether. Now, head to the top of the ladder and do 
+not go down. Walk left then head south until you reach the area where you saw 
+the kid. You'll now be able to get that chest on the ledge for a Revive. Now 
+head north again. Fight the goblin if you like. If you examine the Goblin he 
+will continue to sleep, but when go continue north, a free lancer with throw a 
+stone to the goblin to wake him up. You have to fight them now. After beating 
+them, head north and cross the wooden bridge you see. Then, climb up the next 
+ladder you see. Defeat the 2 Goblins and take the chest for 500G. Cross the 
+wooden bridge to your right. Now, walk down SLOWLY and when you see a goblin 
+running, time it right that it doesn't catch you. Head up the ladder and 
+continue to the next area. When the path splits into two, take the upper path 
+first and take the chest for a Mid-Ether. Return to the intersection and head 
+right. Take the chest you see for a Revive. Now, head up the ladder. Get 
+another chest for a Gold Helm. Head up the ladder and continue heading left. 
+When the path splits into 2, head to the lower path first, climb down the 
+ladder and get the chest for a Mid-Tonic. Head all the way up the left to 
+enter the area with a big waterfall. Climb up the two ladders here onto the 
+next area. Don't forget to get that Mid-Ether on the way. Btw, the free lancer 
+that throws stones at you will give you an accessory. Take a look at the 
+accessories section. In this new area, head up another ladder and get the 
+chest for 600G. Now prepare you characters for 4 continuous fight. It means 
+that, right after you beat a batch of enemies, you'll have to fight the next 
+batch right away. First batch, Ogan and Goblin. Second Batch, Ogan and Free 
+Lancer. Third batch, Ogan and Goblin again. Fourth Batch, Ogan and 2 Free 
+Lancers. After that fight, head left to the next area. Here, get the chest 
+right away for 300G. Head north. After beating the Free Lancers and the 
+Bellbird, get the chest you see for a Mid-Tonic.
+
+Now if you want, you can get a few extra, but VERY HELPFUL items. In the 
+river, if you head south, you'll see a large waterfall. If the waterfall 
+washes you away, you'll end up in a new area with one chest. But, there is 
+another way to get an extra chest. So follow, my instructions carefully. 
+First, go to the center of the river. WALK down slowly, little by little and 
+head to the waterfall. When the huge waterfall starts to pull you in, push the 
+left button on the Directional-pad and run until a small waterfall pulls you 
+in. Let this small waterfall pull you in and Jump in the waterfall. You'll 
+reach a chest with the Silver Stud w/c will cut the MP usage of any Magic/Tech 
+of the character it is equipped with. Example, if Crono can use Luminaire, the 
+Ultimate magic, he uses 20 MPs which is 20% of the MAX MP he can have. But if 
+you equip him with the Silver Stud, he will use only 10 MP or 10% of the MAX 
+MP he can have w/c is 99. If you you're thinking that there's a Gold Stud, 
+you're correct, it can be obtained later in the game. It cuts MP use by 75%. 
+Now, back to the Walkthrough.
+
+After getting the Silver Stud, head towards the cliff and jump off the ledge. 
+You'll land on another area and you can get a chest for a SilverErng. It will 
+increase your Maximum HP by 25%. Example:
+
+If Crono has 500 HPs, if you equip him with the SilverErng, his Maximum HP 
+will be raised by 25%, w/c is 125. So, his Maximum HP will become 625.
+
+After getting these accessories, head north through the woods and you'll be 
+brought to another area. Then, in this area head north right away. You'll be 
+back to the place where you fought 4 times in a row. Fortunately, you don't 
+have to fight them again. When you reach the river where you jumped off the 
+waterfall, head north and all the way to the left, and get the chest past the 
+ladder for a Mid-Ether. Climb down the ladder and head to the next Area. Here, 
+cross the wooden bridge and you'll see a monster that looks like Spekkio. Talk 
+to him 4 times and he'll give you a Magic Tab. Move on to the next area. Here, 
+you'll finally find a Save Point. Save and Restore HP/MP then head down the 
+ladder on the left. Get another chest for a Mid-Ether then continue heading 
+down. Head down another set of ladders and go right to another area. Here, 
+you'll see a short ladder. Climb down and they will jump once you reach the 
+end of the ladder. Get the chest you see for a Shelter. After beating the 
+enemies, head north through a cave-like opening. Head north towards the sword 
+and the kid will stop you. If he asks you if you want the Masamune, tell him 
+yes. He'll call his brother Masa. Then, Masa and Mune will test you and will 
+engage your party.
+
+Boss:  MASA and MUNE
+#############################################################################
+Masa HP: 1000
+Mune HP: 1000
+Exp:  400
+TP:   4
+G:    400
+Charmed Item: not possible
+
+They are easy. Just keep on attacking them using physical attacks and Techs 
+that do physical damage. If one of them goes down, so is the other. After you 
+beat them you'll have to fight:
+
+Strategy by: Brandon Boucher (TheDOORS66@aol.com)
+
+Just concentrate on attacking one of them. It will save your characters HP as 
+well as it will save you time. You don't have to attack the other one at all. 
+#############################################################################
+
+Boss:  MASA and MUNE (combined)
+#############################################################################
+HP:  3500
+Exp: 500
+TP:  10 
+G:   1500
+Charmed Item: not possible
+
+He is pretty tough. You MUST have a healer in your party. Use items with one 
+of your characters or if you have Marle, make her the healer. Use your 2 other 
+members to attack and use dual techs if possible.
+
+Strategy by: Lorne Dixon (lornedixon@hotmail.com)
+
+To make the fight a bit easier, when Masa and Mune starts to store its power, 
+use Crono's Slash Tech to dissipate the energy so that they can't use their 
+most powerful attack. 
+
+#############################################################################
+
+After you proved your worth to the 2, you can now retrieve the broken 
+Masamune. You now have to find who will fix it then. After retrieving it, Masa 
+and Mune will transport you to the Base of the Mountain. I'm just so glad I 
+will not have to go through the entire mountain again. You'll be transported 
+to the World Map. If you think carefully, you'll remember that Melchior, the 
+Swordsmith in Medina Village 1000 AD, is good a sword craftsmanship. But 
+first, go to Tata's House in Porre. Talk to Tata, the kid you saw in Denadoro 
+Mts., and he'll tell you that he only got it from FROG who dropped the Medal. 
+Everybody called him hero so he kept it. After talking to him, he'll give it 
+to you. Now return the Medal to the rightful owner, Frog.
+
+Right before giving it back to frog. You can go back to the End of Time and 
+beat Lavos using the bucket, to get ending #6.
+
+CURSED WOODS (600 AD)
+---------------------
+
+Go to Cursed woods and talk to Frog. He'll recognize the Medal. After telling 
+you that he has no right to wield the Masamune, he'll move and you shall 
+notice the pot is now glittering. Examine it and you'll see the other half of 
+the Masamune Blade. You will then discover that the word 'roichlemî is 
+written. It's Melchior! :) Now leave the cursed woods and go to Truce Canyon 
+and teleport to the End of Time.
+
+END OF TIME
+-----------
+
+Now, do what you should always do here. Restore HP/MP, change party members if 
+necessary and save. After that, use pillar #6 to Medina Village 1000 AD. When 
+you reach 1000 AD, head to Melchior's Hut.
+
+MELCHIOR'S HUT (1000 AD)
+------------------------
+
+Talk to Melchior. He'll be surprised that you have the Masamune Blade. He will 
+then tell you to get Dream stones, which are not around anymore for a long 
+time. Did you guess it? Yup. You have to go to the prehistoric era to get it. 
+So go to the Residence and use the gate. Do the thing you normally do at the 
+End of time then finally, use pillar #4 to Mystic Mountains 65,000,000 BC.
+
+MYSTIC MOUNTAIN (65,000,000 BC)
+-------------------------------
+Item/s:
+   Berserker
+   Third Eye
+ 
+Right after you are teleported, you'll fall right away. There will be reptites 
+roaming around and they will attack your party. The technique in beating these 
+reptites is for you to use Lightning Attacks. After beating these Reptites, 
+more will come your way. But then, a cave-woman will come and beat some of the 
+reptites. All leftovers are for you to deal with. After beating them, the 
+woman will return and introduce herself. Her name is Ayla. After some talking, 
+she tells you to follow her to her village, Ioka. Quickly, follow Ayla. On the 
+way, you'll see a green chest. Take the first one for a Berserker. When you 
+have returned to the World Map, head east to see the village. You'll see 4 
+huts. Enter the Lower Right Hut first. You can talk to the woman here if you 
+want to drink some sweet water that will replenish your HP and MP. Next, you 
+can visit the Upper right hut and trade your G and your items (specifically 
+the petals, fangs, horns, and feather) here are the items you can trade for 
+and the quantity you need. Remember that you must have Ayla join your party 
+first.
+
+Item/Equipment   Requirements
+Ruby Gun         = 3 Petals and 3 Fangs
+Sage Bow         = 3 Petals and 3 Horns
+Stone Arm        = 3 Petals and 3 Feathers
+Flint Edge       = 3 Fangs and 3 Horns
+Ruby Vest        = 3 Fangs and 3 Feathers
+Rock Helm        = 3 Horns and 3 Feathers
+
+Note: If you are in need of these items, head to the hunting Range North of 
+Ioka Village. If it rains, quickly roam around the Hunting Range and find that 
+Nu (Blue Monster) it'll give you a good quantity of all items. All enemies 
+here have items here are the items that you can get from a certain monster:
+
+Group of Amphibite, Croaker, Rain Frog = 2 Feathers, 2 Fangs and 2 Horns
+Group of Ion and Anion = 2 Petals and 2 Feathers
+Nu = 3 of every trading item (as a bonus, he'll give you a Third Eye)
+
+Let's Continue. One of the people in this hut will sell you a Tonic, Mid-
+tonic, and Heal. Now, head to the chief's hut. Talk to Ayla and the scene will 
+automatically be brought to the Jurassic Party! You can talk to anyone here. 
+To continue the story. Speak to your party members, including Ayla, until Ayla 
+offers you the Jurassic Soup. When you regain control of Crono, talk to your 
+party members and drink the soup. Talk to your party members again until Ayla 
+brings up the topic regarding the Red rock. She will then challenge you to a 
+soup race. Gulp as many soup as many you can by tapping the A button as fast 
+as you can. If you lose to her, start again until you win. After you win 
+you'll a good night sleep. But when you wake up, you'll notice that your Gate 
+Key is missing. The footprints on the ground suggest that Reptites are the 
+crooks. Your party will then agree to meet Ayla. In Ayla's hut, wake her up. 
+She'll join you in your search of the Gate Key. When you leave, you can now 
+trade your petals, etc. for equipments. The items and their requirements are 
+written above. You can go to the lower right hut and the man in the middle 
+will give you a Tonic. Now, go to the lower left hut and talk to everyone here 
+to know where to go next. Now, head south of the village and enter the Forest 
+Maze.
+
+FOREST MAZE (65,000,000 BC)
+---------------------------
+Item/s:
+   3 Mid Tonics
+   2 Revives
+   2 Mid Ethers
+   Shelter
+   Heal
+
+After entering the Forest Maze, you'll see Kino. He'll tell you that he took 
+the Gate Key because he is jealous. Then, he'll also tell you that the 
+Reptites took it away from him. So, to get to the Reptites Lair, follow the 
+footsteps and go through any path available to get extra items. If you somehow 
+weren't able to cross to another part, use a vine as a ladder if you see one 
+or use the fallen trees as bridges. Just follow the footsteps and you'll never 
+be lost. On the way, you'll find chests that contain, Mid-Tonic x3, Revive x2, 
+Mid-Ether x2, Shelter, Heal. After following the footsteps, you'll exit to the 
+world map near the Reptite Lair. Enter the Lair.
+
+REPTITE LAIR (65,000,000 BC)
+----------------------------
+Item/s:
+   2 Mid Ethers    Elixir
+   Ruby Vest
+   2 Full Tonics
+   Rock Helm
+   Full Ether
+
+Inside, head through the cave to the right to the next area. In this area, 
+you'll see evilweevils roaming around and digging holes. If you want treasure, 
+wait until all Evilweevils, the blue shark-like monsters, have finished 
+digging. For your information, once an Evilweevil digs, he'll disappear from 
+the area mainly because it fell down the hole. Now, after waiting for them to 
+finish. There will be 5 holes in the ground. Don't worry about it because 
+these are at random. The holes lead to different rooms/route below, but the 
+ultimate goal here is to arrive in a big room filled with reptites running 
+crazy around. There are 4 routes to take. Example, if you take route 1, you'll 
+be passing through a set of rooms unique to route 1. It means that, the hole 
+in route 1 leads to a different path from the holes in route 2, 3, and 4 and 
+vice-versa. In short, you can take any route you like to reach the big room. 
+Each route has different treasures in it. Here's something interesting, you 
+can actually get ALL of the treasures and pass through ALL routes. It means 
+that you can pass through route 1 and after you reached the big room, you can 
+actually go back to the room where the evilweevils are digging and take 
+another route.  I'll explain how later. Here's the graph of the routes you can 
+pass through. So, if you want to use route #2, jump in the hole created by the 
+EvilWeevils, which is to the North Easternmost. If you want to use route 3, 
+jump in the hole that is on the South Westernmost. I you don't know which 
+route is which, I have a graph of the rooms of the routes after you jump in 
+from the first holes. Note that if the EvilWeevils didn't dig the holes 
+properly, i.e. they dug holes wherein the holes they created can't give you 
+access to the route you want to take. If this happens, head out to the world 
+map and re-enter the Lair.
+
+ ------------- -------------
+|             |             |
+|   Route 1   |   Route 2   |
+|             |             |
+ ------------- -------------
+|             |             |
+|   Route 3   |   Route 4   |
+|             |             |
+ ------------- -------------
+
+Here are the different info about each route, refer to this mini-guide about 
+the enemies and treasures you can get:
+
+Route 1:
+
+In the first room, you'll have to fight 2 EvilWeevils in order to jump down 
+the hole. Take note that you always have to defeat the enemies first before 
+jumping down the holes. In the next room, you'll face a Megasaur. To weaken 
+it, use Crono's Lightning magic. Then attack it continuously until it dies. 
+Head down the hole. You've now reached the big room! Skip routes 2, 3, and 4 
+and Go to The Big Room.
+
+Route 2:
+
+Note: if you wait for the evilweevils, one of them will dig at the bottom 
+right corner of the screen. This will lead you to a room with an Elixir.
+
+In this room, you'll have to fight 2 EvilWeevils and 2 Fly Traps. After 
+beating them, get the chest for a Mid-Ether then jump down the hole. Here, 
+you'll have to fight a Flytrap and 2 EvilWeevils. Get the chest for a Ruby 
+Vest. Head down the hole to reach the big room! Skip routes 3 and 4 and go to 
+the Big Room.
+
+Route 3:
+
+In the first room, fight an Evilweevil and a flytrap. Get the chest for a Mid-
+Ether afterwards. Jump down the hole. In here, another pair of EvilWeevil and 
+a Fly Trap. Get the chest for a Full Tonic and jump down the hole. Voila! The 
+Big room! Skip route 4 and go to the Big Room.
+
+Route 4:
+
+I the first room, you'll fight an EvilWeevil and a Fly Trap. Then, get the 
+chest for a Full Tonic. Jump down the hole.  You may be familiar to this room. 
+It is the same as the second room in route #2. The enemies here are 2 
+EvilWeevils and a Fly Trap, and the chest contains the Ruby Vest. Jump down 
+the hole to the Big Room!
+
+The Big Room:
+
+Here in the Big room, you'll see those running Reptites, defeat them for EXP. 
+Then, there are 2 Reptites guarding 2 chests. The lower chest contains a Rock 
+Helm and the upper ones contain a Full Ether. After getting the treasures, 
+leave through the northeast exit. Here, you'll have to fight the Winged Ape 
+and a Shitake. After beating them, head north. You'll have to fight another 
+batch of monsters. After beating them, you can take the left cave-like opening 
+and it will bring you back to where the Evilweevils dug holes. You can 
+therefore, take another one of the routes. You can always use any route as 
+many times as you like to gain exp or G. But remember that, on the way, you'll 
+meet up with a winged ape and you must beat him in order to jump the hole to 
+reach the EvilWeevil room.
+
+If you want to go to the exit of the Reptite lair, move straight ahead and 
+don't enter the cave that will bring you back to the evilweevil room. You'll 
+encounter a Megasaur and 2 Reptites. After beating them, a save point will 
+show up to the right. Save and use a shelter if necessary then head up the 
+stairs to the north. You'll meet Azala, the leader of the Reptites. You can 
+answer him with any choice when he asks you. Then, he will call..
+
+Boss:  NIZBEL
+#############################################################################
+HP:  4000
+Exp: 500
+TP:  10
+G:   0
+Charmed Item: Third Eye
+
+He is hard. First, you have to shock him with Crono's Lightning Magic. Then, 
+pummel him with Ayla's Techs and Crono's Attacks/Techs. Have the other 
+character heal. After a while, he will release his electrocution to your party 
+doing big damage. Heal right away and repeat all the steps and you'll beat him 
+eventually.
+#############################################################################
+
+After beating Nizbel, Azala will give you back your Gate Key. After receiving 
+the key, you will automatically be taken back to Ayla's Hut. After saying 
+goodbye, return to the Mystic Mountains.
+
+MYSTIC MOUNTAINS (65,000,000 BC)
+--------------------------------
+
+In the mountains, all you have to do is to go all the way up until you see the 
+Gate in the middle. So, stand to the edge of the cliff, right over the gate, 
+and jump down. You'll automatically be brought again to the End of Time. Do 
+what you usually do here and use pillar #6 to Medina Village 1000 AD. Then go 
+to Melchior's Hut.
+
+You can also beat Lavos right away using the bucket. You'll get ending #7 if 
+you beat him.
+
+

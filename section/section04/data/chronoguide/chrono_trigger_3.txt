@@ -1,0 +1,1596 @@
+END OF TIME
+-----------
+
+In here, talk to Gaspar. He will tell you that you can go and Beat Lavos 
+himself now by examining the shining dot in the bucket. You can also visit 
+different peoples/event that will empower you to beat Lavos.
+
+1. In the middle ages, a woman's sheer determination brings a forest back to 
+life. 
+2. A fugitive in the Middle Ages, Ozzie, maintains an evil hideout
+3. There's a task to be done in the future, where machinery originated
+4. And there's a very special stone that can shine its light on each 
+generation, from the distant past to the far future
+5. there's the ghost of a lofty knight, slain by Magus in the Middle Ages, who 
+haunts the present
+6. There's an object in the Middle Ages that sparkles like a rainbow
+7. One of you is close to someone who needs help, find this person.. fast.
+
+You can do these side quests to get the Ultimate Weapons of your characters. 
+You can just bypass them and use the bucket to fight Lavos at once. If you 
+want to do the side-quests, skip the Lavos strategy and you'll see the side-
+quests there. Note that you can do these side-quests in any order. And after 
+you've done the side quests or any other thing, use this strategy when you 
+decide to fight Lavos.
+
+If you decide to fight Lavos without completing the Side-quests, here's the 
+Strategy (the ending you'll see will be ending #1):
+
+Final Boss: LAVOS
+#############################################################################
+When you fight Lavos for the first time in the game he will copy the abilities 
+of previous bosses you've met in the game. Also, you'll be allowed to restore 
+your party's HP/MP after each boss he mimics. 
+
+Here are the bosses he will mimic. Note that everything is copied, including 
+the HP, attack, defense, and abilities of the boss.
+
+Dragon Tank  w/ head and grinder
+Guardian  w/ 2 bits
+Heckran
+Zombor -both upper and lower body
+Masa and Mune  joined
+Nizbel
+Magus
+Tyrano w/ Azala
+Giga Gaia  w/ both hands
+
+After beating his mimic of Giga Gaia, you'll now have to fight Lavos himself. 
+Just use your character's most powerful Techs. I.e. Crono's Luminaire, Ayla's 
+Triple Kick, etc. it has 10,000 HPs.
+
+After beating Lavos, its head will disappear and you will enter its shell. 
+You'll see a gate which lead back to the end of time and a save point. If you 
+wish to fight Lavos, don't hesitate to use a shelter. If you don't want to 
+fight him yet, use the gate to return back to the end of time to prepare your 
+characters and explore the world!
+
+**Inside Lavos**
+
+Continue moving north and you'll see the real Lavos. It has 2 hands that will 
+deal the worst damage you've ever seen so use a Tech that will attack both 
+hands at the same time. 
+
+First form:
+Right Hand HP: 9000
+Left Hand HP:  8000
+Body:         20000
+
+To beat him, try to destroy the right hand first as it will restore the HP of 
+the body. Then head for the left arm. When the body is the only one left, use 
+your party members' most powerful attacks/techs.  
+
+**True form**
+
+Right Bit:  35000
+Left Bit:   2000
+Body:       3000
+
+All you have to do here is to use physical attacks/techs on the left bit. 
+Then, attack the right bit to lower its defense. Once the defense is lowered, 
+use a powerful attack/magic that will damage both Lavos and the bit. Once the 
+left bit and Lavos dies, the right bit has the ability to revive them. So, the 
+real thing to do here is to beat up the right bit. If you did kill the right 
+bit first, both bits will die including Lavos himself and you have finished 
+the game!
+
+
+New Strategy by: Jeffrey Chang
+------------------------------
+There was just one thing that kept bothering me, because I had to fight
+Lavos so many times, with lots of different combinations of characters,
+before I gave up, leveled to the mid-fifties, and beat him a few times
+in a row to see the different endings.  The right arm of the first Lavos
+has an HP of about 12,000, not 9,000, and the body of the second Lavos
+has an HP of 10,000.  And the first time I read the section about
+beating the second form, I kept trying to lower the right bit's defense
+by attacking it right after beating the left bit, but that didn't work
+very well, since all the attacks are done by the body.  It works best if
+you just do multiple-enemy techs after you kill the left bit, so defense
+is continuously lowered while you kill the body.  With an HP of 10,000,
+the body takes quite a while to destroy anyway, so you might as well
+start off doing damage to both.
+
+#############################################################################
+
+-----------------------------------------------------------------------------
+SIDE QUEST #1
+-----------------------------------------------------------------------------
+'In the middle ages, a woman's sheer determination brings a forest back to 
+life.î
+
+For this side quest, head to Fiona's Villa in 600 AD.
+
+FIONA'S VILLA (600 AD)
+-----------------------
+
+Talk to Fiona then to her husband. They will tell you about the Desert Cave 
+that houses hungry monsters. Fiona wants to plant the seedling but with the 
+monsters lurking about, she can't do anything. So, lend a hand and beat those 
+monsters in the desert cave, which is like a spiral in the world map a bit 
+south of Foina's Villa.
+
+SUNKEN DESERT (600 AD)
+-----------------------
+Item/s:
+   Lapis          Muscle Ring    HyperEther
+   Elixir         Memory Cap
+   2 Full Ethers  Full Tonic   
+   Aeon Suit      5000G
+   Power Tab      Aeon Helm
+
+Upon entering the sunken desert head to the middle and you will fall down to 
+the desert cave. Take note that the monsters here are very strong. Get the 
+chests in this section for a Lapis, Elixir, Full Ether, and Aeon Suit. There 
+is also a shining Power Tab to the right of the upper leftmost chest. In this 
+section, you can find a ladder to the south and a cave entrance to the north. 
+The cave entrance will lead you to the exit. So, go down the ladder to the 
+south. In the next area, the ground will shake. After seeing the skeleton, 
+you're free to move, I suggest getting the items here as they can help you in 
+your next fight. But, there's a condition. The ground here is shaking right? 
+Every time the ground shakes your HP goes down so the longer you stay the 
+lower the HP of your party gets. So, quickly get the items and face the boss 
+at once. So, get the Muscle Ring in the middle, then Memory Cap, Full Ether, 
+Full Tonic, 5000G, Aeon Helm and a HyperEther inside the chests scattered 
+around. Now, try to guess where the skeleton will appear. It will choose from 
+the 4 corners in this area. When you see it rise from the sand, quickly ran up 
+to it and fight!
+
+Boss:  RETINITE
+#############################################################################
+Upper Body HP:  5000
+Middle Body HP: 1500
+Lower Body HP:  5000
+EXP:  2600
+TP:   100
+G:    2000
+Charmed Item: Speed Tab
+
+Use Frog's water attacks or Marle's ice attacks on retinite. It will lower his 
+defense greatly. Now, use PHYSICAL attacks on the upper body as it is the part 
+of retinite's body that can steal HPs from your characters. After beating the 
+upper body, go for the middle part. It has low HP so it can be defeated using 
+normal attacks. Now, the Legs. First, you have to cast water magic on it to 
+weaken it. Then, use PHYSICAL attacks. Its defense will rise again after your 
+attack, so cast water again. Do this until you destroy the legs.
+#############################################################################
+
+After you beat retinite, one of your characters will tell you to inform Fiona 
+about your success in defeating the monsters in the cave.
+
+FIONA'S VILLA (600 AD)
+----------------------
+
+Now, get Robo if you don't have him in your party. Go talk to Fiona and she 
+will tell you that she wishes to live longer to see the seedlings grow. Robo 
+will then volunteers to help Fiona. Allow him to help. When you return to the 
+World Map, you'll see Robo plowing the fields. You can't wait for Robo for 
+centuries so board the Epoch and go to 1000 AD.
+
+FIONA'S SHRINE (1000 AD)
+------------------------
+
+You'll now see the House of Fiona turning into a Shrine. Enter it. You'll see 
+nuns inside. One of them sells powerful helmets. I suggest you go buy one if 
+you have the money. After buying if necessary, head to the north and you'll 
+see the remains of Robo. Examine it. You will then be taken to an automatic 
+camp scene.
+
+CAMP SCENE
+----------
+
+In this scene, your characters will talk about Lavos and the Time Gates. After 
+the talking, one of your characters will suggest going to sleep. The screen 
+will fade. When it shows up again, you'll gain control of Lucca only. Go to 
+the right and you'll see a Red Gate. You'll arrive at a very familiar place.
+
+LUCCA'S HOUSE
+-------------
+Item/s:
+   Green Dream
+   Taban Suit
+   Taban Helm
+
+After arriving at Lucca's House, you can view the note on the floor. Now, head 
+down the ladder. Below, enter the door to the north. You'll see a note on the 
+table. It contains the password for a machine Lucca's Dad built. The password 
+is Taban's wife, Lara. Now exit this room and enter the other door, which is 
+to the south. You'll encounter a shocking sight. Lucca's Mom got her skirt 
+stuck on the conveyor belt. So, you have to enter the password. Go to the 
+shining dot on the machine. Examine it and you will be asked the password. 
+Press 'Aî button again so that the words 'Enter Passwordî disappears (you 
+can't enter the password yet if that message window containing 'Enter 
+Passwordî is still open). Press ëL', ëA', ëR', ëA' buttons in order and the 
+machine will stop. After that rescue scene, enter the red gate once more. 
+You'll meet Robo. Talk to him and you'll be given an awesome Accessory, the 
+Green Dream. It will revive the character to whom it is equipped if he/she 
+ever dies. But it can only be used once. It'll disappear after its first use.
+
+You'll be automatically taken to the world map. Take a visit to Lucca's House. 
+Talk to Taban and he'll give the ultimate defense armor and helmet of Lucca. 
+The Taban Suit and Taban Helm. That ends the First Side Quest.
+
+-----------------------------------------------------------------------------
+SIDE QUEST #2
+-----------------------------------------------------------------------------
+'A fugitive in the Middle Ages, Ozzie, maintains an evil hideout.î
+
+For this side quest, you have to go to Ozzie's Fort in 600 AD. To make it 
+easier to go there, because it is in a remote island, board the Epoch and go 
+to Medina Village of 1000 AD. Fly to Medina Square. The Epoch should be right 
+above Medina Square. Then, use the Epoch to head back to 600 AD. When you 
+arrive at 600 AD, you'll be right on top of Ozzie's Fort. Disembark the Epoch 
+and enter the Fort. Be sure to prepare your characters, you'll know what I 
+mean later.
+
+OZZIE'S FORT (600 AD)
+---------------------
+Item/s:
+   Full Ether   Gloom Cape
+   Dash Ring    Gloom Helm
+   Sight Cap    2 Magic Tabs
+   Doom Sickle  
+
+Upon entering, you'll see Great Ozzie. Note that if you have Magus, there will 
+be extra dialogue between them. Magus was their Master after all. Now head 
+north, Ozzie will be there again and so is Flea as Flea Plus. You have to 
+fight him.. err.. her.. whatever. Use the opposite strategy for Flea. For your 
+convenience here it is.
+
+Boss:  FLEA PLUS
+#############################################################################
+HP:  3500
+EXP: 2000
+TP:  20
+G:   2000
+Charmed Item: none
+
+If you remember, when you fought Flea back at Magus' Castle, you have to use 
+physical attacks right? Well, now use your most powerful Magic Attacks. Use 
+Crono's Luminaire, if you have it, 3 times to beat Flea in a short period of 
+time.
+#############################################################################
+
+After you deal 3500 HP damage Flea will escape. Follow Flea to the north. In 
+this room, you'll see Ozzie. He'll summon 2 monsters which, unfortunately, too 
+bad for him because they fell on the conveyor belts that will bring them to 
+their doom. Now, head north. Here, you'll find Ozzie again and the come 
+backing Super Slash.
+
+Boss:  SUPER SLASH
+#############################################################################
+HP:  2500
+EXP: 2000
+TP:  20
+G:   2000
+Charmed Item: none
+
+He's so easy. Just use any Tech you want. I did a Fire Zone by Crono, Lucca, 
+Robo, and he's dead in one turn.
+#############################################################################
+
+After beating Slash, head north. You'll see a Blade controlled by Ozzie. Don't 
+get the chest yet. Afterwards, an Imp will come in and because of his 
+stupidity, he fell for the trap. After Ozzie escapes, you're free to get the 
+Full Ether from the chest. You can also get Magus' most powerful weapon, armor 
+and helm in a secret room here, the Doom Sickle, Gloom Cape and Gloom Helm 
+respectively. Here's the diagram: (try to enter the area where the arrow is) 
+Thanks to ~The Silent One~ (silent_one@mailandnews.com) for this info. 
+
+ -------------------------
+|                         |
+|                         |
+|                        *|
+|           --------------
+|          |       ^
+|          |       ^
+|          |       
+ ----------
+
+There is also a Magic Tab where the asterisk (*) is. Thanks to Roberto Tisu 
+for the info.
+
+After getting the equipments, check the Magic Tab to the right then exit this 
+room and head north once more. Now, you'll face all three, Ozzie, Slash and 
+Flea,  and they are hard to beat.
+
+Boss:  GREAT OZZIE, FLEA PLUS, SUPER SLASH
+#############################################################################
+HPs
+Great Ozzie: 5000
+Flea Plus:   3750
+Super Slash: 3750
+EXP: 7500
+TP:  80
+G:   4000
+Charmed Items: OzziePants (Ozzie), Flea Vest (Flea), Slasher 2 (Slash)
+
+They are hard to beat if they are complete, so beat Slash first because he is 
+the one causing the most damage among the three. Also take note that they will 
+counter attack with triple techs, namely Bat Impulse and Delta Force and I'm 
+sure you don't want that to happen. So, first, beat Slash using any attack, 
+either physical or magical. Then, beat Flea. Then finally, beat Ozzie and 
+don't give him a chance.
+#############################################################################
+
+After beating the Trio, get the chests for a Dash Ring and a Sight Cap. Now, 
+head north. You'll meet Ozzie at the end. He will be inside a protective 
+barrier and you can never do any damage to it (with the exception of 
+cheating). (You can Charm Ozzie once again for another OzziePants). So, attack 
+the switch behind him. He will outsmart you by placing a trap below you. If 
+you attack the switch you'll fall down to the place where you fought the trio. 
+So, head back to Ozzie. After the fight begins, a cat will come in and throws 
+the switch to the trap that is below Ozzie. He will fall down and will never 
+be seen again, ever. Now, head back out to the world map. Now, with Ozzie 
+defeated, head to 1000 AD right away. When you arrive, go to the Forest Ruins 
+again. The place with a blue pyramid.
+
+FOREST RUINS (1000 AD)
+----------------------
+
+Inside, head to the top and the pendant will glow. A Nu will appear and will 
+give you one of the treasures of the Guru of Reason. The left chest contains a 
+Safe Helm and the right chest contains a Swallow, which is a weapon for Crono. 
+The Safe Helm is preferable as it will reduce the physical damage to you by 
+1/3. The Swallow is a strong weapon for Crono but there are other weapons that 
+are stronger so you really do not need the weapon, go for the Helm. (Thanks to 
+~The Silent One~ for the info). Now, head back out to the world map.
+
+MEDINA VILLAGE (1000 AD)
+------------------------
+
+If you visit the houses in Medina Village, you'll notice that the Mystics here 
+are so peaceful. Because you beat Ozzie back in 600 AD, all the Mystics have 
+changed for the good. If you visit the Market here, where you found the shop 
+with outrageous prices, everything will have a 20% discount now! Humans and 
+Mystics finally live together in peace.
+
+-----------------------------------------------------------------------------
+SIDE QUEST #3
+-----------------------------------------------------------------------------
+'There's a task to be done in the future, where machinery originated.î
+
+For this side quest, you have to go to the future, 2300 AD, and visit a new 
+place called Geno Dome. To reach Geno dome, here's a strategy. Go to Porre 
+Village in 1000 AD. Now, head all the way to the right until you see a new 
+village, which is Choras. Now, travel to 2300 AD. You shall find the Geno Dome 
+there. It looks like the Factory when you view it from the world map. Get Robo 
+in your party and put him in the lead of your party then enter.
+
+GENO DOME (2300 AD)
+-------------------
+Item/s:
+   2 Full Tonics  MegaElixir     Vigil Hat
+   50000G         15000G         Terra Arm
+   Speed Tab      2 Full Ethers  Crisis Arm
+   Elixir         Power Tab      Magic Tab
+   2x Lapis       Hyper Ether
+
+Inside, have Robo examine the panel. The computer will welcome Robo, but not 
+in a nice way. The door that leads to the exit will be sealed and there's no 
+turning back now. So, head to the room to the north. In this room, you'll find 
+a large conveyor belt. You'll fight a sequence of enemies here. First are 2 
+Debuggests. Use Crono's Lightning Magic to make short work of them. The next 
+would be 2 Proto 4s. Followed by 4 Debuggests. Followed by 2 debuggests and 2 
+Proto 4s. Finally, 4 Debuggests and 2 Proto 4s! Whew, that was tough. Now, 
+head north and enter the door. Just above the door, you'll see a large 
+terminal and a switch. Let's call it Terminal 1 for the sake of the 
+walkthrough. If you press the switch the terminal will open. So, press it. 
+Robo can enter inside right? Now, you have to charge Robo to active the 
+terminal so head left. You'll see 2 debuggests. Beat them. Then, go up. You'll 
+see a Proto Robot that won't allow you to go near the chest and the Poyozo 
+doll. So, head right and go up once you see a path going north. Don't go 
+through the white door, we'll go there later. Defeat the 3 Proto 4s you'll 
+find here. Then get the chest for a Full Tonic. Now, examine the computer to 
+the right. It will give you information about the Doors and how to open them, 
+how to change the direction of the conveyor belt on the right, the robot that 
+guards the figurine or the Poyozo Doll and how to get rid of it, and finally 
+it will tell you also about the importance of the 2 Poyozo Dolls found in this 
+place. To the left of the computer is the terminal where you can charge Robo. 
+Let's call it the Charge Terminal for the sake of the walkthrough. Now, it 
+will open after you beat the Proto 4s so, enter it and you will see Robo 
+surrounded by sparks. Right after charging, head to Terminal 1 you saw earlier 
+and put Robo inside. The door on the left will open up so that you can enter. 
+Inside you find a chest with a Full Tonic and another chest for a whopping 
+50000G! After getting these, return to the Charge Terminal. Don't charge Robo, 
+instead, head left and enter the white door. You'll see another terminal here. 
+Let's call it Terminal 2. It is closed right? So head north and beat the 4 
+Laser Guards. At the end, you'll see 3 switches. There is a combination of the 
+switches that will open up Terminal two. The code is, from left to right, the 
+color of the switch should be Red, then Green, then Red. You will now be able 
+to use Terminal 2. Now, head back to the Charge Terminal and charge up Robo. 
+After charging Robo up, quickly run to Terminal 2. You'll be able to enter the 
+door to left of the terminal. So, go there and get that Poyozo Doll. There is 
+also a Speed Tab here. Examine the green circle and you'll get it. Now to get 
+the other Doll, head back to Terminal 1 and go right. You'll see a Debuggest 
+but you don't have to fight it, just go around it. Now, you can see a door, 
+which leads to an elevator, a path to the north and a shining dot, which is 
+the Dust Chute. The Dust Chute will lead back to the first room in Geno Dome. 
+You can leave Geno Dome but you have to repeat everything again once you 
+return back. So, head to the path to the north. Enter the white door there and 
+get the Elixir and the Lapis. After getting them, you'll have to fight 3 Proto 
+4s. Now head back and enter the room to the left of the Dust Chute. Use the 
+elevator to go up. Above, you will finally find a Save Point. Restore your 
+characters' HP/MP then save. Now go back down again. I saved first to 
+replenish my party's HP/MP. Head to the north path and when you see the white 
+door again, don't enter it, instead, run up the conveyor belt. When you see a 
+laser blocking your way to the right, head to the left and you'll see Terminal 
+3. Push the switch to open it up. But, if charge up Robo, you won't be able to 
+activate Terminal 3 because Robo's charge will disappear before you even reach 
+the terminal because the conveyor belt is running down. So, to reverse the 
+conveyor belt, use the elevator in the room to the left of the chute. When you 
+reach the save point, head south. Beat the 2 Laser Guards then take the chest 
+in the corner for a Lapis. Now, head west and you'll see a door with lasers. 
+Turn the switch to remove the lasers and get the chest inside for a 
+MegaElixir, there is also a Tab (I don't know what yet) in the lower right of 
+this room. After getting the item, you can get a Magic Tab beside the door 
+then ,leave this room and continue heading left. When you see a ladder, go 
+down from it. After climbing down, keep on walking until you see a chest, 
+which contains 15000G. After getting the chest, head north and enter the white 
+door. You'll reach a place with conveyor belts carrying humans! Your party 
+wants to save them but even Robo can't do anything. In this room, head all the 
+way to the right and you'll notice a door below. Head south and you'll reach a 
+place with a chest containing a Full Ether. Now, head back to the Save Point. 
+Use it if necessary. Now, head to the white door. Right after you enter a red 
+room, take the shining Power Tab in the right corner. Continue heading north 
+to the next room. You'll meet 2 Proto 4s and 2 Laser Guards. After beating 
+them, head through the door to the north. You'll arrive an elevator, which 
+will take you to the right of the large conveyor belt near Terminal 3. In this 
+place, you'll see 2 green arrow to your left. One is pointing to the right, 
+and the other points to the left. Walk to it and you'll reach the other side 
+of the conveyor belt. Now, you'll notice a switch here. To activate it, 
+walk/run south until your party stops then head right. You can now activate 
+this switch, which is fortunately the switch to reverse the large conveyor 
+belt. You can now charge up Robo and activate Terminal 3. Now, go left then 
+north and then right to be back on the other side of the conveyor belt. Do not 
+enter the white door to the elevator, instead, head south, beat the enemies 
+and activate the switch to turn of the laser blocking the conveyor belt. This 
+way, you don't have to go through the elevators again to reach the charge 
+terminal. Now, run down the conveyor belt and charge Robo at the charge 
+terminal. Run as fast as you can to reach Terminal 3 to open the door to left 
+gaining access to the second guard robot. But before guiding the Robot to the 
+one, which is guarding the Poyozo Doll, get the 2 chests for a Hyper Ether and 
+a Full Ether. Now, guide the Robot to the first robot that you saw earlier who 
+guards a chest and the second Poyozo Doll. To do this just walk and let the 
+robot follow you. It's the same thing when you guided the cat to the girl back 
+at Leene's Square at the beginning of the game. When you successfully brought 
+the 2 robots to face each other, they will short circuit and you can now get a 
+Vigil Hat from the chest and the Poyozo doll. Having both of the 2 Poyozo 
+dolls, you can now get to the Mother Brain. To go there, head back to the Save 
+Point. Head south and go left. Robo will be shocked at what he will see. His 
+friend, Atropos insists that you kill your friend but Robo is a good robot and 
+won't hurt good people. So, Robo will have to deal with Atropos Alone.
+
+Boss:  ATROPOS
+#############################################################################
+HP:  6000
+EXP: -
+TP:  -
+G:   -
+Item: Ribbon
+Charmed Item: none
+
+With only Robo to fight her, you'll only have a few attacks in your arsenal. 
+The best way to beat Atropos is to have Robo use his most powerful Techs. If 
+Robo runs low in HP, use healing items then continue attacking. She is not 
+that hard and you can beat her on the first try.
+#############################################################################
+
+After Robo beats Atropos, her ribbon will increase Robo's speed by 3 and Magic 
+Defense by 10! It's time to pay a visit to that Mother Brain. Head to the 
+left. You'll see the ladder again, except now, don't go down and continue 
+moving left. Then head north and fight 6 Laser Guards. Head north once again 
+and beat another batch of 6 Laser Guards. Now, put the Poyozo Dolls on the 
+Green circles by examining them. The door in the middle will now open up. Go 
+through it. You'll meet the Mother Brain. It will still try to persuade Robo 
+to come back but Robo's artificial emotions won't allow him. So, you have to 
+deal with the Mother Brain once and for all.
+
+Boss:  MOTHER BRAIN and 3 DISPLAYS
+#############################################################################
+Mother Brain's HP:   4000
+Displays' HP (each): 300
+EXP: 3000
+TP:  40
+G:   3000
+Charmed Item: 3 Elixirs (Each Panel), Blue Mail (Mother Brain)
+
+Once the fight has started, quickly destroy the 3 displays behind the mother 
+brain as it will give 1000+ HP to the Mother Brain. They are not hard at all. 
+Just use a Level 2 Magic and the 3 displays will vanish. Then, as with other 
+bosses, use your characters' most powerful Techs to beat the Mother Brain in 
+no time at all. 
+
+But beware, you must finish Mother brain quickly if you destroyed the 3 
+panels. Every time the Mother Brain attacks, it's defense and attack will 
+greatly rise! If you let it live for a long time, you'll surely get Ko'd. 
+Here's a strategy that I used to beat it.
+
+Have Robo, Crono, and Marle in your party. You can prepare your characters 
+here because the damage the Mother Brain does is quite little. Now, don't beat 
+the 3 panels yet. Have Marle cast Haste on EVERYONE and then, cast Lifeline. 
+This will revive you incase you die. Now, after casting Haste and Lifeline 
+wait until all of your timebars are filled. When all is filled up, use Crono's 
+Luminaire and then quickly use Robo and Marle's Ice Tackle. This will cut of 
+almost 3000 HP from the Mother Brain (This is in New Game not New Game+). The 
+mother brain will then attack. This will increase it's defense. But, use 
+Luminaire and Ice Tackle once more. It will surely die! :)
+
+New strategy by: Rubyheart (cadieux_philippe@hotmail.com):
+
+If you don't want the Mother Brain to power up and the displays to heal her, 
+cast Boogie. If it's not working yet, try again! Then, destroy the 
+non-stopped displays and then use attacks that only hurts the mother brain. 
+Final Kick, Triple Kick and Uzzi Punch are good examples of that kind of 
+attacks.
+#############################################################################
+
+After Mother Brain disappears, Robo will examine a shining dot and he will 
+receive the most powerful Arms in the game. The Terra Arm and the Crisis Arm. 
+You'll then be automatically taken back to the world map. That's the end of 
+this side-quest!
+
+-----------------------------------------------------------------------------
+SIDE QUEST #4
+-----------------------------------------------------------------------------
+'And there's a very special stone that can shine its light on each generation, 
+from the distant past to the far future.î
+
+For this side quest, you need to find the Sun Palace in the year 2300 AD. To 
+get there, go to Arris Dome. Don't disembark the Epoch yet. Then, head north 
+and you'll see an Island with a mountain. Disembark the Epoch and enter the 
+Sun Palace. But before going there, be sure to give your party members fire 
+protective armors as your next opponent is a fire-based entity.
+
+SUN PALACE (2300 AD)
+--------------------
+
+Upon entering, head north and examine the shining dot. Then, the Son of Sun 
+will arrive and attacks.
+
+Boss:  SON OF SUN
+#############################################################################
+HP:  2500
+EXP: 3800
+TP:  40
+G:   2000
+Charmed Items: 1-5 Elixirs (flames), Black Mail (Son of Sun)
+
+He is one of the hardest and weirdest enemies in CT. You have to guess which 
+among the flames is the one that is associated with the Son of Sun himself. I 
+mean that, one of the flames is real and if you managed to attack the real 
+one, the Son of Sun will accumulate damage. If you are low in level and you 
+have no fire protection, then you're done for. His fire attacks are extremely 
+powerful. Well, being the Son of Sun sure is HOT. To beat him, just guess 
+which among the flames receive damage. After a couple of turns, the Son of Sun 
+will shuffle the flames therefore forcing you to guess again. This battle 
+might be a long and tedious one so be prepared and be patient. You'll 
+eventually kill him. It would also be easier if you have fire protection.
+
+Easier Strategy: by Brandon Boucher (TheDOORS66@aol.com)
+
+Before fighting the Son of Sun, make sure everyone in your party is equipped 
+with Fire protection armors. This will make the attack of the Son of Sun 
+useless. Also, with fire protection, you can concentrate in finding the flame 
+what will damage the Son of Sun instead of healing and keeping up the HPs of 
+your characters.
+
+#############################################################################
+
+After that battle, head all the way to the north and examine the Son of Sun. 
+It will reveal the Moon Stone that you have to recharge to gain energy once 
+more. As they say, it would take aeons. So, common sense comes into play, go 
+back to 65,000,000 BC.
+
+PRE-HISTORIC ERA (65,000,000 BC)
+--------------------------------
+
+Now, to reach the place where you have to put the Moon Stone, head to the 
+Dactyl's Nest and fly west until you see a small island with a mountain. Enter 
+the cave and examine the shining dot at the end. Leave the Moon Stone and 
+leave the mountain. Board the Epoch and go to 2300 AD. (Note: You can visit 
+the Ioka Trading Hut and exchange 10 of every kind of item for the Ruby Armor)
+
+SUN KEEP (2300 AD)
+------------------
+
+When you arrive, enter Sun Keep again. This time, the Moon Stone is gone so 
+head back to 1000 AD.
+
+SUN KEEP (1000 AD)
+------------------
+
+The stone isn't here either. One of your party members will have a feeling 
+that the Stone was stolen from this time period. To make sure, head back to 
+600 AD.
+
+SUN KEEP (600 AD)
+-----------------
+Item: 
+   Power Tab
+
+The Stone is still here! So definitely, it was stolen at 1000 AD. Before 
+leaving, take the shining Power Tab, which is a bit to the left of the stone. 
+Now, head back to 1000 AD.
+
+PORRE VILLAGE (1000 AD)
+-----------------------
+Item:
+   Shelter
+
+Go to Porre, you notice one of the houses in here is shining! So, it must be a 
+hint that the Stone is there. Go to the house. You notice that the Mayor won't 
+say anything about the Stone. The people around house despise the Mayor for 
+his greedy attitude. Before leaving the House, go to the second floor and take 
+the chest for a Shelter, don't take the sealed chests yet, you have to make a 
+decision later. Now, exit to the world map. Now, go to Snail Stop, which is 
+directly to the east of the Manor. Buy the Jerky for 9900G! It's outrageous 
+but you have to. Now, head to 600 AD.
+
+PORRE VILLAGE (600 AD)
+----------------------
+
+Go to the elder's house and talk to the housewife. Give the Jerky to her, in 
+short, don't sell it. She promises that her descendants will be as sharing as 
+you are. So, go back to 1000 AD. Before doing that, you have to make a 
+decision here. If you want a White Vest and a Black Vest, and a White and a 
+Black Mail, examine the two sealed chests and don't take the contents. If you 
+take the chests, you'll only receive a White and Black Vest, which is inferior 
+to the Mails.
+
+PORRE VILLAGE (1000 AD)
+-----------------------
+
+Go to the Mayor's manor. The attitude of the Mayor is opposite now. The people 
+of the house praise his good attitude. Talk to the Mayor and he'll give you 
+the Sun Stone. Now, go to the second floor and take the Black Mail, the White 
+Mail and the Shelter. Note that you will only receive both Mails if you 
+examined them back at 600 AD and you did not take its contents. After getting 
+the Sun Stone, you have to put it back on the Sun Keep. To find it, just head 
+east of the Forest ruins in Medina.
+
+SUN KEEP (1000 AD)
+------------------
+
+Leave the Moon Stone here as it is not yet recharged. Now, head to 2300 AD.
+
+SUN KEEP (2300 AD)
+------------------
+Item/s:
+   Wonder Shot
+   Sun Shades
+   Prism Specs
+   Rainbow
+
+When you reach the Moon Stone, which is now the Sun Stone, if Lucca's with 
+you, she'll think of a way to make a weapon. If you don't have her, head 
+outside and get her into your party. Lucca will be amazed at the power it 
+contains then afterwards, you'll be taken to Lucca's House. She will then make 
+the most powerful weapon that she can wield. The Wonder Shot. Then, Taban will 
+come in and will give to you the Sun Shades, which is derived also from the 
+Sun Stone. Now, there is another man that can forge this stone. Melchior. If 
+you finished the quest for the rainbow shell, go to Guardia Castle 1000 AD, 
+talk to Melchior and he will forge the Sun Stone into the Prism Specs and also 
+most Powerful weapon Crono can use, the Rainbow. Otherwise, finish the Rainbow 
+Shell Quest first. It's now the end of this side quest!
+
+-----------------------------------------------------------------------------
+SIDE QUEST #5
+-----------------------------------------------------------------------------
+'There's the ghost of a lofty knight, slain by Magus in the Middle Ages, who 
+haunts the present.î
+
+For this side quest, you need to go to the Town of Choras in 600 AD, which is 
+directly East of Porre.
+
+CHORAS VILLAGE (600 AD)
+-----------------------
+Item:
+   Toma's Pop
+
+In this town you can now buy the Mid-ether from the market. After buying, if 
+necessary, go to the CafÈ, which is below the Inn. Talk to Toma here, he's at 
+the bar. Remember that you eavesdropped on him and the mayor of Porre way 
+back? When you talk to him, you'll get Toma's Pop. He'll tell you to pour it 
+in his gravestone when you come back. After getting the item, talk to the man 
+drinking in one of the tables. He'll tell you that his tools were stolen. He 
+needs the tools to repair the holes at the northern ruins, which is the goal 
+of this side-quest. Now head back out to the world map. To get his tools, go 
+to Choras in 1000 AD.
+
+CHORAS VILLAGE (1000 AD)
+------------------------
+Item:
+   Tools
+
+In here, go to the Inn and talk to the man drinking there. He'll tell you that 
+you can get his tools from his wife. So go to the residence and talk to his 
+wife. She will give you his tools. Now that you've got the tools head to 600 
+AD.
+
+CHORAS VILLAGE (600 AD)
+-----------------------
+
+When you arrive at 600 AD, go to the CafÈ and talk to the man again. He will 
+accept the tools and head off to his residence. Head out to the world map 
+again and go to the residence. Talk to the man and he'll call his workers and 
+heads off to the ruins. Leave the residence and head to the Northern Ruins at 
+the North east of Choras.
+
+NORTHERN RUINS (600 AD)
+-----------------------
+
+Upon entering, the man and his workers will tell you that they cannot continue 
+working because of the monsters. So, you have to cleanse the area first. There 
+are two doors here. Take the left one first. Beat the Sentries here. Beware 
+that when you beat a sentry, it will use grudge against you or use the dreaded 
+MP Buster that will steal ALL MPs of a character. After beating ALL of the 
+enemies here, head back to the entrance but don't leave yet. Enter the door to 
+the right. Beat all the skeletons you see here. After cleaning the area, head 
+back to the residence. They will agree to fix the ruins for 2000G pay them and 
+return to the ruins.
+
+Before returning back, take Frog with you. Upon entering, take the door to the 
+left. You can now reach the grave of Cyrus. When you reach the grave, Cyrus 
+will appear then a short dialogue will commence. After that, the Masamune will 
+break into 2 again. Masa and Mune. They decided go give more power to the 
+Masamune blade so they merge again and thus a new and more powerful Masamune 
+Blade is made. After this, leave the Ruins again and talk to the repairmen 
+again and pay 2000 G. Now, head to the ruins and use the right door right 
+after you enter. You now have access to the places blocked by the holes 
+before. Examine the 3 Sealed Chests here and DO NOT take the contents. Beware 
+also of the Defunct and the Base, they are the worst enemies here in the 
+ruins. If you can't beat the defunct, the base will fuse with the defunct 
+creating a departed, which do a very big amount of damage. Need I say more? 
+They have a very high defense too. After examining the sealed chests, head 
+back out to the world map and use the Epoch to go to 1000 AD.
+
+HERO'S GRAVE (1000 AD)
+----------------------
+Item/s:
+   Hyper Ether
+   Magic Tab
+   Power Tab
+   Moon Armor or Nova Armor
+   Shiva Edge or Kali Blade
+   Valkerye or Siren
+   Elixir
+
+Go to the Ruins, which is now named the Hero's Grave. On the left side you can 
+get a Hyper Ether and a shining Magic Tab near the grave of Cyrus. Now, head 
+back near the entrance and take the right door. Just as you reach the next 
+screen, get the Power Tab in the lower left corner of the room. And then, go 
+through the door. You can get powerful equipments like the Moon Armor, a Shiva 
+Edge for Crono and Marle's most powerful weapon, the Valkerye. There is an 
+elixir on the chest also. Now, you may notice that the equipments that you got 
+are upgrades of the contents of the sealed chest, which means that when you 
+return some time in the past, the normal items will still be stored there. So, 
+head back to 600 AD and take the equipments again. You can get the Nova Armor, 
+Kali Blade, and Siren. You can also get the Elixir and the Hyper Ether from 
+the chests located inside Hero's Grave. After you got everything you have 
+finished this quest!
+
+-----------------------------------------------------------------------------
+SIDE QUEST #6
+-----------------------------------------------------------------------------
+'There's an object in the middle ages that sparkles like a rainbow.î
+
+For this side-quest, head to Choras Village in 600 AD which is directly to the 
+east of Porre.
+
+CHORAS VILLAGE (600 AD)
+-----------------------
+
+Go to the CafÈ and talk to Toma at the bar. Remember that you've eavesdropped 
+on him and the mayor of Porre way back? After talking to him, he'll give you 
+his Pop. He wants you to pour it on his grave when he dies. So, head back out 
+to the world map and use the epoch to go to Choras in 1000 AD.
+
+CHORAS VILLAGE (1000 AD)
+------------------------
+Item:
+   Speed Tab
+
+Go to the northwest of the village and you'll see the West cape. Enter it. At 
+the end, you'll see the Grave of Toma Levine. Examine it to pour his pop. Toma 
+will appear and will tell you about the Giant's Claw which is to the Northwest 
+of this place. To make it easy, return to 600 AD and head to the northwest of 
+where Toma's grave is supposed to be and you'll find the Giant's Claw. Take 
+note of the Speed Tab behind the grave of Toma.
+
+GIANT'S CLAW (600 AD)
+---------------------
+Item/s:
+   Sight Cap        Lapis
+   3 Power Tabs     Frenzy Band
+   Full Ether
+   Blue Rock
+   Zodiac Cape
+
+Upon entering, you'll see Toma's note. After examining and reading it, head 
+south to the door. You'll reach a very familiar room. Your character will 
+recognize that this was the Tyrano Lair where you fought with Azala back in 
+65,000,000 BC. After the dialogue, continue heading south to the door. In this 
+next area, you'll find a chest and a door to the left and a ladder below. 
+Examine the chest first. A Gigasaur and 2 Leapers will appear. To beat them, 
+and any other dinosaurs, use Crono's Lightning magic to decrease their 
+defenses then you are allowed to attack. After beating them, examine the chest 
+again for a Sight Cap. Now, go down the ladder. Head to the door on the far 
+right. You'll reach a room with 3 switches and a skull. First, switch the one 
+on the top to reveal a Save Point. Then, push the left switch among the 2 on 
+the bottom to open the floors. Then, push the right one and some monsters will 
+fall down. Now, this maybe crazy but you have to jump down the hole too. 
+Below, you'll meet 2 Fossil Apes. Beat them. In here, push the left switch 
+first. The mouth will open so go there. Get the shining Power Tab here. Head 
+all the way to the south and enter the door. Don't push the right switch as it 
+will only invite enemies. When you reach the next area, you'll notice a 
+shining dot on the right. To get it, head right and go down the ladder you 
+see. Then, head right and get the Power Tab. Now, head all the way to left 
+past the ladder and get the chest for a Full Ether. Now, head up the ladder 
+and go left. Move along until a Fossil Ape and 2 Leapers attack you. Beat 
+them, then get the chest for the Blue Rock. Now, head south to the door. On 
+the other side, head right until you see 2 ladders. Go down the one below. 
+Now, head all the way to the left to get a partially hidden chest that 
+contains a Zodiac Cape. Then, head right a bit and go down the Ramp. You'll 
+see another ladder here. But before you go down that ladder. Head all the way 
+to the right to get yet another chest that contains a Lapis. Now head left and 
+go down the ladder. You may be wondering why you did not use the long ladder 
+on top. It's because it lead you back to where you came from. Let's continue, 
+after going down the ladder, head left and enter the door. In here, beat the 
+enemies you see. Head north. You'll see 2 skulls here. Enter the one on the 
+left, taking note of the shining dot on the right side, then head up the 
+ladder. In this area, there 2 enemies on both sides. Just activate the 2 
+switches here and the monsters will fall. There are 2 doors to the south. 
+Enter the left one first and get the Frenzy Band inside. Head out and you'll 
+have to fight the 2 monsters. There's no way you can reach the switch. After 
+fighting, enter the other door, which is to the right. Move along until you 
+find an egg. Examine it and you'll fall down. You'll arrive in another 
+familiar place, which is the jail for the Ioka Villagers. When you reach the 
+door, head to the left first to get the shining dot back where the 2 skulls 
+were which contains a Power Tab. Return back to where the jail is and head all 
+the way to the right and go down the ladder. Finally, a Save Point. I suggest 
+you use it because your characters maybe weak right now after all that 
+fighting. After using the save point, head left and activate the switch beside 
+the door. Head all the way to the north and you'll meet a very familiar being. 
+It's Tyrano. Try to get past it, but it will stop and fight you as Rust 
+Tyrano.
+
+Boss:  RUST TYRANO
+#############################################################################
+HP:  25000
+EXP: 3800
+TP:  40
+G:   2000
+Charmed Item: Red Mail
+
+In the beginning of the fight, Tyrano will start counting down from 5. At this 
+moment, use the most powerful Single Techs of your characters. Do not use Dual 
+or Triple Techs as its damage is lesser than each of the single techs 
+combined. He's so hard to beat at levels 30 below.
+#############################################################################
+
+After beating Rust Tyrano, you can finally head north and get the rainbow 
+shell. Your party will try to carry it but it's too heavy so one of you 
+suggests that you seek help from Guardia Castle. When you regain control of 
+your characters, just walk/run south and the screen will fade. You'll be taken 
+automatically to the throne room of Guardia Castle. After the Kings orders the 
+Knight Captain to get the shell, talk to everyone in the throne room then 
+leave the castle. Outside, board the Epoch and go to 1000 AD.
+
+GUARDIA KINGDOM (1000 AD)
+-------------------------
+
+Upon disembarking the Epoch, add Marle to your party, then enter the castle.
+
+GUARDIA CASTLE (1000 AD)
+------------------------
+Item/s:
+   3 Hyper Ethers
+   2 Elixirs
+   2x Lapis
+   Yakra Key
+   3 Prism Helms or 1 Prism Dress
+   Red Vest or Red Mail (Sealed Chest)
+
+Inside, Marle will be greet by a kind-hearted Chancellor. He'll tell you about 
+her Father and her Mother. Then, he asks you to visit your father who is in 
+trial for selling the treasures of the kingdom. Now, all the paths will be 
+sealed so head right and you'll see 2 doors. The one on the left has 2 stairs. 
+Take the stair leading up. On the way, take the chest for a Hyper Ether. The 
+second one will be locked so continue moving. At the end, talk to the guards 
+and Marle will blast her way through to the courtroom. You'll see the 
+chancellor frame the King. Marle will be taken away because of interrupting 
+the trial. One of you will suggest finding the Rainbow Shell. So, head back to 
+the 2 doors and take the right one. You'll see that the guard is down and was 
+attacked by the monsters. Head right then up, beat those pathetic monsters. 
+One simple attack can kill ëem. On the second batch on enemies, get 3 among 
+the 5 chests for a Hyper Ether, an Elixir, and a Lapis. You can't get the two 
+because they are blocked. Continue heading north. At the end you'll see the 
+Rainbow Shell. Get the 3 chests here for a Hyper Ether, an Elixir, and a 
+Lapis. You can't get the others as they are blocked and you can't reach them. 
+Examine the Rainbow Shell and you'll get a letter from Queen Leene. Marle then 
+takes the Prism Shard as proof of the existence of the Rainbow Shell in the 
+Castle. Go back to the Court Room but the 2 Guards won't let you enter. Marle 
+has something in her mind. In the courtroom, the King is charged guilty of 
+selling the treasure. But Marle suddenly bursts in from behind and blew the 
+chancellors plot. The chancellor has no other choice but to fight as the 
+descendant of Yakra. He is Yakra XIII.
+
+Boss:  YAKRA XIII
+#############################################################################
+HP:  19000
+EXP: 3500
+TP:  -
+G:   2000
+Item: MegaElixir
+Charmed Item: White Mail
+
+He is quite hard. He will attack with Chaos that will confuse your characters 
+if they have no protection against status ailments. And, when you damaged him 
+by 10000 he will begin attacking you with much stronger attacks. All you have 
+to do is to have Marle be the healer because she has a complete set of 
+Curative Magic, then have the other 2 characters attack Yakra with their most 
+powerful Tech. Beware also because after you beat him he'll unleash his final 
+attack that damages all your characters by 200+. So keep your HPs above 300 as 
+much as possible.
+#############################################################################
+
+After you beat Yakra, you'll see a very touching scene between Marle and her 
+Father. As they are talking take note of the location of the shining dot that 
+appeared. After that, you'll be taken to the throne room when Melchior 
+suddenly comes in. He will tell you that he will make equipments from the 
+Rainbow Shell. But before going to the Rainbow shell, head to the courtroom 
+first and examine the shining dot. You'll get the Yakra Key. On the way, 
+you'll see the Chest you bypassed a while ago. Examine it and the Yakra Key 
+will be used to free the real chancellor. Now, head to the Rainbow Shell. Talk 
+to Melchior and he will let you choose between 1 Prism Dress, which has 
+Maximum Defense, and 3 less-effective Prism Helms. As for me, I chose the 
+Prism Dress as it has the Maximum Magic Defense for a female character. That's 
+the end of this side-quest.
+
+-----------------------------------------------------------------------------
+SIDE QUEST #7
+-----------------------------------------------------------------------------
+'One of you is close to someone who needs help, find this personÖ fast.î
+
+Error here. Sorry about what I posted the last time. I told you that this was 
+connected to Side Quest #6. But in fact, it isn't. Side Quest 7 actually 
+refers to Zeal, Magus' mother and the Black Omen. Here's the guide on the 
+Black Omen. It was formerly the Ocean Palace, which rose from the ground. You 
+can find it floating in the time periods, 12,000 BC, 600 AD, and 1000 AD. To 
+enter the Black Omen just fly the Epoch towards it. When, the name Black Omen 
+appears, press Action.
+
+Note: If you try to enter the Black Omen in 2300 AD, the door will be locked. 
+It is because Queen Zeal is already with Lavos in 1999 and is no longer inside 
+the Black Omen. Thanks to Colin Kemege (hydra400@hotmail.com) for reminding me 
+about this.
+
+BLACK OMEN (12,000 BC: 600 AD: 1000 AD)
+------------------------------------------------
+Item/s:
+   4 MegaElixirs    Power Seal
+   30000 G          4 Speed Tabs
+   Magic Seal       White Rock
+   2 Elixirs
+   Vigil Hat 
+
+//////////////////////////////////////////////////////////////////////////////
+Tips:
+When you finish with the Black Omen in 1000 AD, you can go back in 600 AD and 
+beat the entire Black Omen again with the items and everything. After that, 
+you can go back once more to 12,000 BC to get another shot at the Black Omen. 
+This way, you can get lots of money, experience, and equipments.
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Right after you arrive on the Black Omen, you'll see a shining dot. If you 
+examine it, it will let you board the Epoch. Now, head north, beat those Laser 
+Guards and enter the door. You'll see Queen Zeal. She'll talk a bit then 
+summon the Mega Mutant, which you have to fight.
+
+Boss:  MEGA MUTANT
+#############################################################################
+Upper Body:  5000
+Lower Body:  5000
+EXP: 900
+TP:  50
+G:   1500
+Charmed Item: Elixir
+
+He is rather easy. Just use any Tech to attack him. He will inflict your 
+characters with status ailments most of the time. But, now you might have 99 
+Heals to restore status, so this is not a problem.
+#############################################################################
+
+After beating the Mega Mutant, head north then right. In this area, head 
+north. You'll meet 2 Goons on the way. Continue heading north and you'll see a 
+Save Point to your right. But before that, you have to fight 2 Synchrites and 
+a Martello. After the fight, use the save point. After saving, continue 
+heading north to the next area. In here, head north. Beat the panels on your 
+way. In the next area, you'll have to fight the Boss Orb and his 2 sidekicks. 
+Head north, beat the enemies then head left at the very top. In this area, 
+fight your way to the north. You'll reach a Teleporter at the end. Use it. 
+Head south and you'll reach an elevator. Examine the shining dot on the left. 
+The elevator will start to go down. You'll fight enemies here. First, 2 Cybots 
+that almost looks like Gato at Leene's Square. Next, 4 Ruminators. Then, the 
+elevator will stop. Head north through the door. In this area, beat the Boss 
+Orb and the 2 Sidekicks. After beating them, head right then up. You'll 
+another batch of Boss Orb and sidekicks. Keep on moving until you see a 
+ladder. Don't go up yet. Head right and get the chest for a MegaElixir. Now, 
+head up the steps and go left first to get another chest containing 30000G! 
+Now head north. After you beat the enemies, the path will split into 2. Take 
+the right one. Get the chest for a Magic Seal. Now, head north to the door. In 
+the next area, get the 2 chests you see for an Elixir and a Vigil Hat. Head a 
+bit north and you'll see a save point. Take the 2 chests for a Nova Armor and 
+a Megaelixir. Then, use the save point. Head north first, past the 2 Nus and 
+get the chests for a Haste Helm and a MegaElixir. Now, the left Nu will sell 
+you items that can restore your HPs and MPs. The right Nu will offer you the 
+ride back to the Epoch if you want to leave this place. If you decide to go 
+on, examine the wall to the north and a door will appear. Enter the door. Move 
+on and you'll encounter a Tubster. 
+
+Here, you can charm the Tubster for a Power Tab then after beating it, return 
+to where the two Nus were. Then, head back to the Tubster and you can charm it 
+again for a Power Tab. Continue on doing this as many times as you want.
+
+Now, from the Tubster head north. Fight your way through until you see 
+Ruminators running at the top. Try to get the chest for a Zodiac Cape then 
+head right to where the ruminators are going. Now, move on and fight your way 
+through. Get the chest on the way for a MegaElixir. Move on to the next area. 
+In this area, get the chest for a Power Seal. Continue heading south. After 
+you fight a Cybot and a Martello, there's a partially hidden chest at the 
+lower right at the very bottom. Get it for a Speed Tab. Head to the lower left 
+door to the next area. Get the chest past the door for another Speed Tab. 
+Then, go through the door. In here, there's a Teleporter in the middle so use 
+it. This next area is quite big. So, here how to get through. Head left at the 
+first intersection then continue moving past the statue in the middle until 
+the next intersection. Head south first for a chest containing an Elixir. Now, 
+head all the way to the north until you can go any further. Use the steps on 
+the right. Go all the way to the right the head north. Get the chest that you 
+see here. It contains a Speed Tab. Then, get the other chest for a MegaElixir. 
+Move on to the door. You'll see a save point in the next area. Use it, I 
+insist. When you head north, you'll face..
+
+Boss:  GIGA MUTANT
+#############################################################################
+Upper Body:  7000
+Lower Body:  6000
+EXP: 1500
+TP:  80
+G:   2000
+Charmed Item: Wall Ring (Upper Body), Hit Ring (Lower Body)
+
+He is not that hard. Just use your characters' most powerful techs. If you 
+remember, he inflicts status ailments to your party when Giga was still Mega. 
+Now, he will drain your MPs during the battle. Just use items to restore HP or 
+MP and you'll beat him for sure. And most of all, don't use physical attacks 
+as they are not effective against him.
+#############################################################################
+
+After you beat Giga Mutant, head back to the save point and use it. Now head 
+all the way to the north to a Teleporter. You'll reach another elevator. 
+You'll fight 4 Ruminators then 2 Cybots. After the elevator stops, head north 
+to the door. Keep on moving, fighting enemies on the way, until you reach the 
+very top door. Go in. You'll fight 4 Panels. After you beat them, a Save point 
+will appear. Get the chest above the steps first for a Speed Tab. Then, use 
+the save point. Head to the right steps and go north. You'll meet..
+
+Boss:  TERRA MUTANT
+#############################################################################
+Upper Body:  6500
+Lower Body:  2000
+EXP: 2000
+TP:  100
+G:   3800
+Charmed Item: Muscle Ring (Upper Body), Power Seal (Lower Body)
+
+He is hard the third time around. The upper body is weak against Magic, but, 
+the lower body will drain any magic attack you use on it. So, use Magic 
+attacks on the upper part. Also, the upper part will drain 1000+ HP from the 
+lower part. If you attack the Lower Part, it will counter with a Life Shaver 
+that drops your character's HP to 1!
+
+Here's a strategy. Have Crono, Ayla and Marle in your party. Have Marle cast 
+Haste on everyone. During this time, have Ayla charm the upper and the lower 
+body first and Crono should use his Luminaire. The lower body will drain the 
+Luminaire but it will be a very small amount. Now, After Marle finishes 
+casting Haste on everyone, use Marle and Ayla's Cube Toss on the upper body 
+and continue using Crono's Luminaire. After the upper body is gone, the lower 
+body will also die.
+#############################################################################
+
+After beating Terra Mutant, get the chests for a MegaElixir and the White 
+Rock. I suggest you go back and use the save point. Head all the way to the 
+north and you'll meet..
+
+Boss:  LAVOS SPAWN
+#############################################################################
+HP:  10000
+EXP: 2450
+TP:  ?
+G:   2500
+Charmed Item: Haste Helm (Head), Safe Helm (Shell)
+
+He is harder that the Spawns at Death Peak. He has much more powerful attacks 
+that the 3 Lavos spawns at Death Peak combined! Just use Single Techs that 
+affect one enemy on the head. Whatever you do, don't attack the shell. It will 
+counter with a powerful attack against all your characters. Just attack the 
+head and you'll be safe.
+#############################################################################
+
+After you beat the spawn, continue heading north. You'll arrive in a place 
+where there are 5 Panels, after you beat them, a save point and a door will 
+appear. Use the save point first. Head north and you'll meet..
+
+Boss:  QUEEN ZEAL
+#############################################################################
+HP:  13000
+EXP: -
+TP:  -
+G:   -
+Item: MegaElixir
+Charmed Item: MegaElixir
+
+Her first attack, the Hallation, will drop all your characters' HP to 1 so 
+heal right away. Then, use your characters' most powerful single Techs. She'll 
+also use Hallation frequently so be ready to heal anytime.
+#############################################################################
+
+After you beat Queen Zeal, you'll be taken to another battle with the Mammon 
+Machine.
+
+Boss:  MAMMON MACHINE
+#############################################################################
+HP:  16000
+EXP: -
+TP:  -
+G:   -
+Charmed Item: MegaElixir
+
+The mammon machine is not that hard. It increases its defense every time you 
+use physical attacks. So, use Magic attacks. It will increase the attack power 
+of the Mammon machine but you can deal a decent amount of damage instead of 
+using physical attacks until it will be useless against it.
+#############################################################################
+
+After you beat the Mammon machine you'll be taken to yet another battle. This 
+time, it's serious.
+
+Boss:  ZEAL
+#############################################################################
+HP:  20000
+EXP: -
+TP:  -
+G:   -
+Charmed Item: Prism Dress (Left Hand), Prism Helm (Right Hand),
+              MegaElixir (Head)
+
+She is tough! If you use magic on the hands, it will counter attack with MP 
+Buster, which will reduce your MP to 0, and the Life Shaver, which will reduce 
+your HP to 1. So, make sure 2 of your characters are efficient at healing. To 
+beat her easier, attack only the head with Single Techs that affect one enemy 
+only. This way, the hands won't be able to counter attack. She does Hallation 
+though. :)
+#############################################################################
+
+Right after the fight, again, you'll see Lavos himself. You have to fight him 
+at once as this is the beginning of the End. For the strategy, refer to the 
+Lavos strategy right before Side Quest #1. That's it for the 7 Side Quests. 
+
+
+                             =-=-=-=-=-=-=-=
+                                 ENDINGS
+                             -=-=-=-=-=-=-=-
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ending #1: You can trigger this ending by the following condition/s:
+           - you examined the Bucket at the End of Time right after
+             Crono returned to Life.
+           - or, finished all the side quests
+           (You must have ALL the characters, including Magus)
+
+     In this ending, you'll wake up at Crono's House. A soldier will come in 
+and tells Crono that he has to carry out his sentence at the castle. You'll 
+then be automatically brought to Guardia Castle. Marle will defend you but, 
+the king already knows what you did throughout time. All your friends will 
+come from the different eras you've been. Kino from the pre-historic, Doan 
+from the future and King Guardia XXI from the Middle Ages. Your execution will 
+be lifted and you can join the final night of the festival at Leene's Square. 
+At Leene's square, there will be a parade wherein Crono and Marle will join. 
+When you regain control of your characters, head to where Lucca's invention 
+it. One by one, all the characters will return to their respective times. 
+You'll see the princess kiss the frog here! After everyone leaves, Crono's 
+cats will come and enter the gate. The number of cats depends on how many 
+you've won from Norstein Bekkler's Lab at Leene's Square. Then, Crono's mom 
+will go after them and will be trapped in the gate. You then have to go and 
+find her. Meanwhile, a soldier will come in and tell you that her father needs 
+Marle. Go to where Leene's Bell is and the king will introduce to you the 
+Nadia's Bell, which will replace the old Leene's Bell. Marle, senses adventure 
+again because Crono's Mom is lost in time. They'll leave the king and travel 
+through time again in search for Crono's Mother. Then, the credits will start 
+to show up. You'll see in the background the Epoch visiting many places. 
+Including also all the time periods where you traveled on your journey and the 
+respective characters that you've met there. Then, the Epoch will fly away. 
+That's one of the beautiful endings of Chrono Trigger.
+
+Variations:
+- If you killed Magus, Frog will be in his original form, Glenn.
+- If you weren't able to punch in L.A.R.A. at Lucca's House where you must
+  save Lucca's mom from the machine, Lucca's Mom will be sitting instead of 
+  standing.
+- If you fought Lavos by using the Epoch to go to 1999 AD, Crono and Marle
+  will fly off with balloons. If you didn't, that is the time the cats will
+  go to the Time Gate.
+- In the Guardia Castle throne room, if you freed the Chancellor after 
+  beating the 2nd Yakra, he will be in the throne room. If not, Pierre will
+  be there instead.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+Ending #2: You can trigger this ending by the following conditions:
+           - You examined the shining dot on the right pod of Lucca's
+             teleportation device at Leene's Square right after you
+             get Marle in the beginning of the game.
+           - You defeated Lavos in the Ocean Palace therefore, preventing
+             the Death of Crono.
+
+This one's a weird way to finish the game and it is the hardest one to get. It 
+can only be possible in the New Game+ Mode. Note that there are some secrets 
+of Chrono Trigger that will be revealed here. Including the hint about the 
+total number of endings Chrono Trigger has. Right after you get Marle to join 
+Crono in the beginning, the right pod of Lucca's Teleportation device will 
+show a shining dot. 
+
+Note that you can actually have Marle with you. Right after reaching the place 
+where Lucca's Pod is, examine the right pod right away with Marle in your 
+party. This will let Marle help you in the battle against Lavos.
+
+If you examine it, you'll fight Lavos at once! I recommend you do this only if 
+you meet the following requirements. Level 60+, Power,Magic,Magic Def,Speed 
+are all at Maximum. You have Crono's Rainbow, a Gold Stud, the Safe Helm and 
+the Nova Armor. With this equipment, you'll still have to fight Lavos for a 
+long time. Because, only Crono can fight Lavos. It would be one on one. Here's 
+the description of the ending. After beating Lavos, Crono will be teleported 
+to an odd place.
+
+You'll see a couple of characters here. They are quite familiar because you 
+already knew them from your previous game. This ending is merely the 
+development room of Chrono Trigger. It means that, the names of the characters 
+around here are actually the staff that created the game itself. 
+
+For the information about Chrono Trigger I will write the details here. 
+
+*** Spoiler Alert ***
+(I'll be using the name of the characters which is used in the game)
+
+Main Room. You'll see Gaspar, a Nu and a boy. The Boy will ask something about 
+the Raiders and the Cowboys (are they Football or Baseball teams? They're too 
+familiar). Next, Gaspar will tell you where you actually are. He'll tell you 
+that you're in the development room for Chrono Trigger and you already 
+finished the hardest level of Chrono Trigger. He'll tell you that you can go 
+around and talk to the other characters then finally, come back to him again. 
+Next, the Nu will tell you about his anti-stress Massage Technique. 
+
+Next, head right towards where the Epoch was stationed. Talk to Spekkio and 
+he'll ask something about the Dodgers w/c I think has something to do with 
+what the boy in the main room said. Now, head all the way to the right and go 
+all the way up. You'll see a Barrel and a cat. The Barrel will tell you 
+something about a switch, which I don't know yet as of now. Then the Cat will 
+reveal to you that there are 10 endings in the game. You probably have seen 2 
+or more endings right now. Then, head back to the main room and head left to 
+the room with pillars of light. 
+
+You'll see a Poyozo Doll jump around. It will tell you about the Poyozo Dance 
+Attack. If you don't know yet, it is the Triple Tech Poyozo Dance of Ayla, 
+Marle and Lucca in which one of them has the White Rock equipped. Then, walk 
+clockwise and you'll eventually jump over the fence and into the statue. The 
+statue will say a very meaningful sentence. 'Every night will have a day. Even 
+forever has to come to an end.î  .. 'I think.î :) Next, talk to Magus He'll 
+tell you that they are kept too long in the making of this game. Now, time to 
+visit the pillars of light. Here's a diagram of the pillars. Just go near the 
+pillars to enter them. 
+
+          *Magus is here*
+
+  #1    #2    #3
+
+  #4          #5
+  
+  #6    #7    #8
+
+#1: The people here will just talk about how long they created the game. And 
+will give some kind of a hint about Chrono Trigger 2 (Isn't it Chrono Cross 
+for PSX?)
+
+#2: Ayla will hint about the point attack (normal attack) that causes 9999 
+damage. It can only be done with Ayla's Bronze Fist (Ayla at Level 99)
+
+#3: When you speak to Toma, he'll set off for his own adventure. Take a look 
+also at the note on the top of the drawers telling you not to look for that 
+person.
+
+#4: Someone will tell you that Chrono Trigger is tough but wait till you get a 
+hold of Final Fantasy 2.
+
+#5: One character here will tell you that it was his idea to use the mouth as 
+the switch in Tyrano Lair. The frog wants someone to kiss him. Better call the 
+princess. 
+
+#6: You'll be shocked here! When you examine the shining dot it will say: 
+Restart..1..2..3 then the screen goes blank. I almost shouted in dismay, but 
+the screen returned and he said he was only joking (almost too real to be a 
+joke). 
+
+#7: The roly here will tell you about the high score of 2110 in the bike race. 
+I can't even reach 1500! 
+
+#8: Just talk to everyone here. Masa will talk about other SquareSoft titles. 
+In my honest opinion, EVERY Square game I've seen is great! If not, perfect! 
+Sample titles (Final Fantasy 1, 2, 3, 4, 5, 6, 7, 8), Chrono Trigger, Parasite 
+Eve, Xenogears, Legend of Mana, Secret of Mana, Secret of Evermore, Ergheiz 
+(the only fighting game of Square, I think), Chocobo Racing, Chocobo's 
+Dungeon, Front Mission 3, Mario RPG, and many many more!
+
+After talking to everyone, talk to Gaspar. He will open the door to Spekkio's 
+Place and you'll see the Dream Team inside. The Main staff of Chrono Trigger. 
+After talking to them you'll see the shortest credits that I've seen! It just 
+rolled up in a blink of an eye. Then, the words, The End will show up and 
+then, congratulate yourself for beating this game!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+Ending #3: You can trigger this ending by the following condition:
+           - Right after you beat the first Yakra in the Cathedral, when
+             you return back to Leene's Square 1000 AD, examine the shining
+             dot on the right pod of Lucca's Device to fight Lavos. You can
+             only use Crono and Marle to fight Lavos.
+
+This is another weird ending. After you beat Lavos, you'll return back to 
+Leene's Square. The people became weird here. If you talk to people, they will 
+tell Marle to remove her disguise. Go to the exit and talk to the 2 men there. 
+You will then be brought to the Castle. The king will also tell Marle to 
+remove her disguise. It was because of the picture that is 400 years old. Frog 
+kissed Queen Leene!!! Therefore, Marle is half-frog and human! 
+
+By the way, few credits will be shown in a projector type frames. Then, 'The 
+Endî will show up on the screen.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ending #4: You can trigger this ending by the following conditions:
+           - On your first visit to the End of Time, examine the Bucket here
+             and beat Lavos.
+           - In New Game+ mode, after you beat Heckran, examine the shining
+             dot in the right pod of Lucca's Device at Leene's Square.
+
+Not much for an ending. The credits will be shown right away and monsters will 
+scroll to the left. Specifically, you'll see a Nu and an Amphibite do crazy 
+things. A kilwala will also show up. Then finally, after all the three 
+monsters fall asleep, the end will show up, sleeping. ZZ.zz.ZZ.zz..
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ending #5: You can trigger this ending by the following condition:
+           - Once you arrive in 600 AD for the second time. Come back to 
+             the end of time and examine the bucket to fight Lavos.
+
+The credits will show up and you'll hear the Music of Robo. Then, you'll see 
+Robo come out from a gate into the year 2300 AD. But, you'll see Leene's Bell 
+in the middle. Then, just like a re-enactment of what happened between Marle 
+and Crono, Robo will bump into a Lady Robot (her name is Atropos). Then, 
+they'll leave. Credits will show up again. Then, you'll see Robo and Atropos 
+on top of a mountain enjoying the view. After a few credits, the music will 
+fade. Surprisingly, you'll see Guardia Castle in 600 AD. You'll see the King 
+and Queen here. A boy (Tata) will be sitting on the throne (he was thought to 
+be the hero in 600 AD because of the Hero Medal. It was not his though.). 
+Next, you'll see Tata through a castle (Magus' Castle). It will show how Tata 
+went through the Castle of Magus. But, surprisingly, Tata will see Crono, 
+Marle and Lucca. After that, a scrolling credits will be shown and then the 
+words 'the endî will show up. The End! :)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ending #6: You can trigger this ending by the following condition:
+           - Right after you get the Hero Medal from Tata, beat Lavos using
+             the bucket at the end of time
+
+The credits will show up first. The background music will be the ones when you 
+are traveling the world aboard the Epoch. You party will be shown coming out 
+of the Gate in Medina Village 1000 AD. Then, credits will be shown again. 
+After that, you'll see a prehistoric boy (Kino) with 2 villagers chasing 2 
+Reptites. Then, Kino and co. will run scared because they are now the ones 
+being chased by a pack of reptites. Then, the reptites is now being chased 
+again. But now, Ayla will be the one chasing them (The reptites really have a 
+reason to run for their lives). In the next scene, you'll see Magus on top of 
+a mountain, together with his generals Ozzie, Slash and Flea. The next scene 
+after this will be at Guardia Castle Circa 600 AD with King Guardia and Queen 
+Leene. Then, Frog will be shown. After that, some credits will be shown again. 
+Finally, you'll see Robo. He'll fool around the screen then he will say 'The 
+Endî. Well, that's it.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ending #7: You can trigger this ending by the following condition:
+           - Examine the bucket at the End of Time right after you receive 
+             Gate Key from Azala, who stole it from you after the festivities
+             In Ioka Village 65,000,000 BC.
+
+You'll see the credits alongside with the different characters from the game. 
+Here are the characters that you will see. They are arrange in the order of 
+their appearance. Elder in 65,000,000 BC. Toma, Glenn and Tata. Norstein 
+Bekkler. The Chef in Guardia Castle 600 AD and his brother, the knight 
+captain. The prehistoric band. Masa and Mune. A female dancer. A rat! Ozzie, 
+Slash and Flea. Old man at the End of Time (Gaspar). The racers in Leene's 
+Square together with a Kilwala (Catalack, Steel Runner, Green Ambler, w/o G.I. 
+Jogger). 2 Enlightened Ones. Johnny and 2 Proto 4s. Schala, Janus and his cat. 
+The Epoch. A Note. 2 small frogs. Krawlie and a Scout. Chancellor of Guardia 
+in 1000 AD w/ 6 soldiers. Chancellor of Guardia in 600 AD w/ 6 soldiers. Kino, 
+a boy, and a Dactyl. Doan, a man and a kid. Prehistoric babes. The 3 Gurus, 
+Belthasar, Melchior and Gaspar.  
+
+The screens, following the 3 gurus won't have characters. At the end, the 
+words 'The Endî will be shown with the Pendant of Marle. 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ending #8: You can trigger this ending by the following condition:
+           - Immediately after giving the fully repaired Masamune to Frog,
+             go to the End of Time and use the bucket and beat Lavos.
+
+In the first scene, you'll be at Lucca's house where Lucca is fixing Robo 
+while Crono and Frog are resting. Lucca will try to wake up Crono then Marle 
+will come in and tells Lucca to let Crono rest. Then, Frog will decide to 
+leave. But, he slipped and fell down. Marle laughed at Frog and so does Lucca. 
+A Credit will then show up. Then, you'll see the Castle of Magus. In the next 
+scene, you'll see Slash then, Flea. After that, you'll see the shadow of Frog 
+in the tower of the castle. Then, you'll see Frog slay Ozzie. The scene after 
+that would be at Magus' room. Frog will show up. Then, credits will be shown 
+while you hear sound from the fight of Frog and Magus. After the credits and 
+the fight, you'll see the Castle of Magus. On top of it, you'll see the 
+victor. I really think that's Frog who won. That's The End. 
+
+Note: You may be wondering why Frog is somewhat in human form. Of course! Once 
+he beats Magus, the curse, Magus put on frog will break and Frog will return 
+to being the sidekick of Cyrus, Glenn.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ending #9: You can trigger this ending by the following condition:
+           - Right after you beat Magus in his Lair, go to the End of Time
+             through Mystic Mountains and use the bucket to beat Lavos
+
+WAAAAAAHH!!! Everyone's a Reptite! During the following scenes, the credits 
+will scroll. In the first scene, you'll see Crono's mom wake up Crono then 
+there will be a scene downstairs. After that, you'll see Truce Inn. The next 
+scene, would be at the Leene Square. You'll notice that Green Ambler is not 
+included in the running game. Instead, a man will take its place. :) Then, 
+you'll see the scene where Crono bumped into Marle. Only, they are reptites 
+now. Finally, you'll see Azala (In my opinion, he's King Guardia). Then, the 
+words 'The Endî will fall on the head of Azala.
+
+Note: Wondering why everybody here are apes? It's because you were unable to 
+help Ayla beat Azala therefore, the reptites ruled the world.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ending #10: You can trigger this ending by the following conditions:
+            - After you beat Azala and Black Tyrano, you'll see a Gate where
+              Lavos fell, right? So, use the gate. You'll arrive in 12,000 BC
+              So, use the gate again and you'll be at the End of time where
+              You can use the Bucket. Again.
+            - Right after you get the Epoch for the first time, use the time
+              dial to go to 1999 AD then beat Lavos.
+
+First, credits will be shown. Then, a scene wherein Frog visits Magus' Statue. 
+After that scene, you'll see a room with Schala, Queen Zeal and the prophet 
+(he's actually Magus. He also went to 12,000 BC through the gate where Tyrano 
+Lair was). Next, you'll see Frog with some people in Porre including Tata and 
+Toma. In the next scene, you'll see Magus, Schala and Janus again. After 
+another scene with Magus, you'll see your party at Leene's Square. Then, 
+you'll see Magus again. And after that, you'll see a scene wherein Crono, 
+Marle, Robo, Lucca and Crono's mom are talking and stove is burning! Finally 
+you'll see Magus and he'll utter some lines. A few credits will be shown 
+afterwards. The End.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ending #11: You can trigger this ending by the following condition:
+            - Right after Schala Opens the Sealed Door at Zeal Palace, go all
+              the way back to the Gate and Use it. Fight Lavos using the 
+              Bucket. REMEMBER, do not use the Mammon Machine. Immediately
+              After Schala opens the door, go directly to the End of Time.
+
+First, you'll see the Words The End show up. THIS HAS GOT TO BE THE MOST 
+HUMOROUS ENDING I'VE SEEN!!! Marle and Lucca will then talk about the words 
+'The Endî. Next, Lucca and Marle will host a slideshow of what happened in 
+your journey. Here are the scenes:
+
+First, you'll see Lucca and Marle tease the Steel Runner (they're right! 
+Imagine the smell on the inside. Ewww!) Then, a soldier from Guardia Castle 
+who winked at Lucca! After that, you'll see Pierre. Your lawyer back in the 
+trial. Next, you'll see a man who holds the seed for the future. Then, Johnny, 
+Mr. Speed himself! After that, you'll see Cyrus. Lucca has a Crush on him. 
+Next, you'll see Toma. Next, you'll see Kino. I laughed about the statements 
+of Lucca. 'Total Neanderthal! Throw him a bone!î, 'He walks like a Duck!î. AT 
+LAST CRONO TALKED!!! CRONO TALKED! CRONO TALKED! My goodness! After this 
+scene, the real 'The Endî will show up. That's it for the funniest ending 
+(IMHO).
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ending #12: You can trigger this ending by the following condition:
+            - After getting the Epoch, with wings, go to the end of time 
+              and use the bucket. It doesn't matter if you have Magus or
+              not. But, Crono must be dead.
+
+Marle and Lucca will wake up at the end of time, except that the others are 
+still asleep. After regaining control of the 2, talk to Gaspar. Now, speak to 
+everyone and they'll refuse to help you find Crono. They will go to their 
+respective portals and so does Marle and Lucca. The 2 will then be back at 
+Leene's Square. After regaining control of your characters, go to Lucca's 
+Device. After a short dialogue between the 2, the gate will open and all your 
+other party members will appear, including Gaspar. Your party members do care 
+about Crono and they badly want the Time Egg (Chrono Trigger) from Gaspar. If 
+you killed Magus, Frog will be in the form of Glenn. Lucca will be amazed by 
+Glenn's looks! After that, a soldier will come in and asks for Marle. Go south 
+and talk to King Guardia. He will present to you, Nadia's Bell. After the King 
+puts up the Bell, Marle and Lucca goes off to the Epoch. Then, Taban will come 
+in and shows a dazzling display of fireworks. After that, the credits will be 
+shown. You'll see the Epoch take off. In the next scenes, you'll see Marle and 
+Lucca visit their friends. Robo and his girlfriend (Atropos) on top of a 
+mountain. Ayla and Kino riding Dactyls. Frog, King Guardia XXI and Queen Leene 
+at the castle. If you killed Magus, you'll see Glenn. After some credits, 
+you'll see Marle beside a tree. FYI, it's on Death Peak. Then, you'll see a 
+shadow of Crono and Marle will run after it. The End.
+
+Variations:
+- If you killed Magus, Frog will be in his original form, Glenn.
+- If you weren't able to punch in L.A.R.A. at Lucca's House where you must
+  save Lucca's mom from the machine, Lucca's Mom will be sitting instead of 
+  standing.
+- If you fought Lavos by using the Epoch to go to 1999 AD, Marle will
+  fly off with balloons. If you didn't, that is the time the cats will
+  go to the Time Gate.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ending #13: You can trigger this ending by the following condition:
+            - Simply lose to Lavos when you fight him ANYWHERE/ANYTIME.
+
+Lavos erupts from the ground as we see him do on the monitor in the future. 
+Next, we'll see three men standing around a computer screen, see things like 
+"he's come". The year is 1999. The director  (one of the men) asks for a 
+damage report and a map of the world appears with several red spots spreading 
+across it. One of the men then says, "Truce, Porre, Medina-all destroyed". 
+Then, as rocks start falling from the roof the other men try to pull the 
+director out of the complex. When he won't move the others flee anyway leaving 
+the director to mutter "Lavos" under his breath as some rocks crush him to 
+death. Fade to black. The, a world globe with these words written over it: 
+But...the future refused to change.
+
+This is contributed by: Happy Smurf (Tristan)! Thanks a lot! 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ending #14: You can trigger this ending by the following condition:
+            - Lose to Magic when you fight him for the first time.
+
+This isn't actually an ending because you lost. But then, it's very 
+interesting. After your defeat, Magus will turn his back on your party. It's 
+assumed that Magus will finally be able to summon Lavos. Then, you'll hear 
+Lavos howl then the screen will fade to black.
+
+This is contributed by: ~dry31~! Thanks man! I never expected yet another 
+ending.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+                             Chrono Trigger(tm)
+             is a registered trade mark of SquareSoft, co. Ltd.
+
+              Super Nintendo Entertainment System(tm) (SNES)
+                  is a registered trade mark of Nintendo
+
+                    The Chrono Trigger Walkthrough/FAQ
+                          (c)Copyright June 2000
+                                'Aî  Tadeo

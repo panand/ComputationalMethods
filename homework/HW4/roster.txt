@@ -1,0 +1,24 @@
+   <td>  Carolynn</td><td>Renee</td>   <td>  Jimenez</td><td>Senior	</td> <td> LINGBA</td>   <td>  CMPSBS</td><td>Porter	</td>   <td>  F</td><td> crjimene@ucsc.edu</td>
+ <td> Maria</td>   <td>  Ilona</td> <td> Kovach</td><td>Senior	</td> <td> LANGBA</td>   <td>  ANTHBA</td><td>Stevenson</td>   <td>  F</td><td>mikovach@ucsc.edu</td>
+<td>Sydney</td>   <td>  Claire</td><td>Weiser	</td><td>Senior	</td><td>PHYSBS</td> <td> LANGBA</td>   <td>  Cowell</td>   <td>  F</td><td>scweiser@ucsc.edu</td>
+   <td>  Jessica</td>   <td>  Anita</td>   <td>  Huizar	</td><td>Senior	</td> <td> LINGBA</td><td></td><td>Stevenson</td>   <td>  F</td><td>  jahuizar@ucsc.edu</td>
+ <td> Michael</td>   <td>  Anthony</td><td>Titone</td><td>Senior	</td> <td> LINGBA</td><td>PHILBA</td> <td> Kresge</td> <td> M</td><td>matitone@ucsc.edu</td>
+<td>Sophie</td><td>Rae</td><td>Rubenking</td>   <td>  Junior	</td> <td> LANGBA</td><td></td>   <td>  Crown</td>   <td>  F</td><td>srubenki@ucsc.edu</td>
+ <td> Matthew</td>   <td>  Christopher	</td> <td> Mata</td><td>Senior	</td> <td> LINGBA</td><td></td> <td> Merrill</td> <td> M</td><td>mcmata@ucsc.edu</td>
+<td>Valery</td><td>Valentina</td><td>Vanegas</td>   <td>  Junior	</td> <td> LINGBA</td><td></td> <td> Kresge</td>   <td>  F</td><td>vvanegas@ucsc.edu</td>
+<td>William</td> <td> Michael</td>   <td>  Buchanan</td><td>Senior	</td> <td> LINGBA</td><td></td> <td> Merrill</td> <td> M</td><td>wmbuchan@ucsc.edu</td>
+ <td> Lindsay</td><td>Rebecca</td>   <td>  Chan</td><td>Senior	</td> <td> LINGBA</td><td></td>   <td>  Coll Ten</td>   <td>  F</td><td>  lrchan@ucsc.edu</td>
+<td>Samantha</td>   <td>  Francine</td><td>Sanders</td><td>Senior	</td> <td> LINGBA</td><td></td><td>Porter	</td>   <td>  F</td><td>sfsander@ucsc.edu</td>
+<td>Shawn</td> <td> Michael</td>   <td>  Bianchi</td><td>Senior	</td> <td> LINGBA</td><td></td> <td> Merrill</td> <td> M</td><td>shmbianc@ucsc.edu</td>
+<td>Samuel</td>   <td>  Eugene</td><td>Winn</td><td>Senior	</td> <td> LINGBA</td><td></td> <td> Merrill</td> <td> M</td><td>sewinn@ucsc.edu</td>
+<td>Shunsuke</td><td></td>   <td>  Erskine</td><td>Senior	</td> <td> LINGBA</td><td></td>   <td>  Crown</td> <td> M</td><td>skano@ucsc.edu</td>
+   <td>  Elliot</td><td>Stanley Gordon</td><td>Wong</td><td>Senior	</td> <td> LINGBA</td><td></td> <td> Merrill</td> <td> M</td><td>  eswong@ucsc.edu</td>
+<td>Thomas</td>   <td>  Chase</td>   <td>  Corcoran</td><td>Senior	</td> <td> LINGBA</td><td></td>   <td>  Crown</td> <td> M</td><td>tcorcora@ucsc.edu</td>
+ <td> Kristen</td>   <td>  Anne</td><td>Sheets</td><td>Senior	</td> <td> LINGBA</td><td></td> <td> Merrill</td>   <td>  F</td><td>  ksheets@ucsc.edu</td>
+   <td>  Anthony</td><td>Randall</td><td>Zavala</td><td>Senior	</td> <td> LINGBA</td><td></td><td>Stevenson</td> <td> M</td><td> arzavala@ucsc.edu</td>
+<td>Scarlett</td> <td> Labou</td>   <td>  Clothier-Goldschmidt</td><td>Senior	</td> <td> LINGBA</td><td></td><td>Porter	</td>   <td>  F</td><td>sclothie@ucsc.edu</td>
+<td>Nicholas</td><td>William</td>   <td>  Eggert</td><td>Senior	</td><td>PHILBA</td> <td> LINGBA</td>   <td>  Cowell</td> <td> M</td><td>neggert@ucsc.edu</td>
+<td>Rebekah</td><td>Nicolle</td>   <td>  Astle</td><td>Senior	</td> <td> LINGBA</td><td></td> <td> Kresge</td>   <td>  F</td><td>rastle@ucsc.edu</td>
+   <td>  Chelsea</td>   <td>  Ann</td> <td> Miller	</td><td>Senior	</td> <td> LINGBA</td><td></td><td>Porter	</td>   <td>  F</td><td> chanmill@ucsc.edu</td>
+<td>Sarah</td><td>Rachelle</td><td>Neace</td><td>Senior	</td> <td> LINGBA</td><td></td> <td> Kresge</td>   <td>  F</td><td>sneace@ucsc.edu</td>
+<td>Sasha</td><td>Trevino</td>   <td>  Garcia</td><td>Senior	</td> <td> LINGBA</td><td></td><td>Porter	</td>   <td>  F</td><td>stgarcia@ucsc.edu</td>
